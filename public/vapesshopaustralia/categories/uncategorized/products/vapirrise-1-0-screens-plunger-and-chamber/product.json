@@ -1,0 +1,64 @@
+{
+  "id": "vapirrise-1-0-screens-plunger-and-chamber",
+  "wp_id": 6585,
+  "title": "VapirRise 1.0 Screens – plunger and chamber",
+  "description": "Single Screens\nVapirRise Large/Plant Chamber Mesh Screen\n\nOnly used for the VapirRise 1.0.\n\nThe VapirRise 2.0 uses replaceable plant chambers and a plunger replacement screen kit.",
+  "description_html": "<p>Single Screens<br />VapirRise Large/Plant Chamber Mesh Screen</p>\n<p>Only used for the VapirRise 1.0.</p>\n<p>The VapirRise 2.0 uses replaceable plant chambers and a plunger replacement screen kit.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/vapirrise-1-0-screens-plunger-and-chamber/",
+  "attributes": {
+    "Title": [
+      "Chamber Screen - Single"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "Vapir",
+      "slug": "vapir",
+      "url": "https://vapesshopaustralia.com/product-tag/vapir/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:17:46",
+  "date_modified": "2025-12-30T11:17:59",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/vapirrise-screen-plunger.png",
+      "local_path": "categories/uncategorized/products/vapirrise-1-0-screens-plunger-and-chamber/images/01.png",
+      "alt": "import placeholder for 229121945"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/vapirrise-screen-adapter.png",
+      "local_path": "categories/uncategorized/products/vapirrise-1-0-screens-plunger-and-chamber/images/02.png",
+      "alt": "vapirrise 1.0 screens plunger and chamber"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/vapirrise-1-0-screens-plunger-and-chamber"
+}

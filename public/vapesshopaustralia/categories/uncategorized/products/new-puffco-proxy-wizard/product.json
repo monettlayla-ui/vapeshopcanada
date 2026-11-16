@@ -1,0 +1,75 @@
+{
+  "id": "new-puffco-proxy-wizard",
+  "wp_id": 3745,
+  "title": "NEW Puffco Proxy Wizard",
+  "description": "The Proxy Wizard is an elegant dry pipe designed to bring both style and performance to your ritual. Its long spiral stem cools vapor before it reaches you, delivering smooth, flavorful hits with every draw. The hand-blown borosilicate glass adds refined artistry, while the grooved bowl provides a comfortable, secure grip. Striking yet functional, this exceptional addition to the Proxy Collection is a true statement piece.\n\nAvailable in Onyx and Haze\n\nWhat’s Included:\n1* New Proxy Wizard",
+  "description_html": "<p>The Proxy Wizard is an elegant dry pipe designed to bring both style and performance to your ritual. Its long spiral stem cools vapor before it reaches you, delivering smooth, flavorful hits with every draw. The hand-blown borosilicate glass adds refined artistry, while the grooved bowl provides a comfortable, secure grip. Striking yet functional, this exceptional addition to the Proxy Collection is a true statement piece.</p>\n<p>Available in Onyx and Haze<br /> <br /><strong>What&#8217;s Included:<br /></strong>1* New Proxy Wizard</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/new-puffco-proxy-wizard/",
+  "attributes": {
+    "Color": [
+      "Haze",
+      "Onyx"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3746,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Onyx"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "peak",
+      "slug": "peak",
+      "url": "https://vapesshopaustralia.com/product-tag/peak/"
+    },
+    {
+      "name": "puffco",
+      "slug": "puffco",
+      "url": "https://vapesshopaustralia.com/product-tag/puffco/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:25:44",
+  "date_modified": "2025-12-30T07:26:33",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/puffco-newproxy-wizard-haze.jpg",
+      "local_path": "categories/uncategorized/products/new-puffco-proxy-wizard/images/01.jpg",
+      "alt": "import placeholder for 8346069008556"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/puffco-newproxy-wizard-onyx.jpg",
+      "local_path": "categories/uncategorized/products/new-puffco-proxy-wizard/images/02.jpg",
+      "alt": "new puffco proxy wizard"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/new-puffco-proxy-wizard"
+}

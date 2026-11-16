@@ -1,0 +1,44 @@
+{
+  "id": "killa-frosted-mint-2",
+  "wp_id": 8284,
+  "title": "KILLA – Frosted Mint",
+  "description": "KILLA MINI FROSTED MINT – Surprisingly compact product.\n\nRefresh yourself and get a minty aftertaste quickly and discreetly.\n\nExcellent option for everyday use.\n\nPortion size: 0,5g\nNicotine: 16mg/1gram\nNicotine per portion: 8mg\nPortions per can: 30 pc",
+  "description_html": "<p>KILLA MINI FROSTED MINT – Surprisingly compact product.</p>\n<p>Refresh yourself and get a minty aftertaste quickly and discreetly.</p>\n<p>Excellent option for everyday use.</p>\n<p>Portion size: <strong>0,5g</strong><br /> Nicotine: <strong>16mg/1gram</strong><br /> Nicotine per portion: <strong>8mg</strong><br /> Portions per can: <strong>30 pc</strong></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 25.0,
+  "sale_price": 20.0,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/killa-frosted-mint-2/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:32:28",
+  "date_modified": "2025-12-30T19:46:30",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/FrostedMintNicotinePouchesbyKilla1.webp",
+      "local_path": "categories/killa/products/killa-frosted-mint-2/images/01.webp",
+      "alt": "import placeholder for 67960"
+    }
+  ],
+  "categories": [
+    {
+      "name": "KILLA",
+      "slug": "killa",
+      "url": "https://vapesshopaustralia.com/product-category/killa/"
+    }
+  ],
+  "stored_in": "categories/killa/products/killa-frosted-mint-2"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "zeus-arc-glass-spacer-2",
+  "wp_id": 6677,
+  "title": "Zeus Arc Glass Spacer",
+  "description": "For users that dont need a full bowl. Add some glass, enjoy an efficient half bowl.\n\nReplacement glass spacer for your Zeus Arc and Arc GT.",
+  "description_html": "<p>For users that dont need a full bowl. Add some glass, enjoy an efficient half bowl.</p>\n<p>Replacement glass spacer for your Zeus Arc and Arc GT.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 5.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/zeus-arc-glass-spacer-2/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:18:14",
+  "date_modified": "2025-12-30T11:18:16",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/zeus-spacer1.jpg",
+      "local_path": "categories/uncategorized/products/zeus-arc-glass-spacer-2/images/01.jpg",
+      "alt": "import placeholder for 5327128002709"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/zeus-spacer2.jpg",
+      "local_path": "categories/uncategorized/products/zeus-arc-glass-spacer-2/images/02.jpg",
+      "alt": "zeus arc glass spacer"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/zeus-arc-glass-spacer-2"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "goat-cool-mint",
+  "wp_id": 8204,
+  "title": "GOAT – Cool Mint",
+  "description": "GOAT Cool Mint #16 is delivered with a fresh taste of Mint and a nicotine level of 16,4mg/g (11,49mg/pouch).\n\nThe semi moist slimmed pouch immediately release a fantastic flavor of Mint once you put it under your lip.\n\nCONTENT AND INFORMATION\n\n- Nicotine mg/g: 16,4\n\n- Nicotine mg/pouch: 11,49\n\n- Content: 14g\n\n- Format: Slim\n\n- Portions/Can: 20",
+  "description_html": "<p><strong>GOAT Cool Mint #16</strong> is delivered with a fresh taste of Mint and a nicotine level of 16,4mg/g (11,49mg/pouch).</p>\n<p>The semi moist slimmed pouch immediately release a fantastic flavor of Mint once you put it under your lip.</p>\n<p><b>CONTENT AND INFORMATION</b></p>\n<ul>\n<li>Nicotine mg/g: 16,4</li>\n<li>Nicotine mg/pouch: 11,49</li>\n<li>Content: 14g</li>\n<li>Format: Slim</li>\n<li>Portions/Can: 20</li>\n</ul>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 25.0,
+  "sale_price": 20.0,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/goat-cool-mint/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:31:37",
+  "date_modified": "2025-12-30T19:46:32",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Cool-Mint.jpg",
+      "local_path": "categories/goat/products/goat-cool-mint/images/01.jpg",
+      "alt": "import placeholder for 68007"
+    }
+  ],
+  "categories": [
+    {
+      "name": "GOAT",
+      "slug": "goat",
+      "url": "https://vapesshopaustralia.com/product-category/goat/"
+    }
+  ],
+  "stored_in": "categories/goat/products/goat-cool-mint"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "pulsar-gigi-variable-voltage-510-battery",
+  "wp_id": 6188,
+  "title": "Pulsar GiGi Variable Voltage 510 Battery",
+  "description": "PULSAR DL V5 ALSO AVAILABLE\n\nThe Pulsar GiGi 510 packs more per square inch than the Large Hadron Collider. Standing at just 2 inches tall, this powerful 510 battery will be your new best friend when discretion and portability are the plan of action. Extremely pocket friendly, it features low key LEDs, a long lasting 500 mAh battery, pre-heat function, spring loaded 510 threading to avoid cartridge lock, and 3 variable voltage settings. Meet your new go-to.\n\nThe GiGi is compatible with most 510 cartridges\n\nPulsar GiGi 510 Features:\nStealthy 2″ profile\n500mAh battery\nSpring-loaded 510 threading\nPre-heat function\nVariable voltage (3.4V, 3.7V and 4.0V)\nReplaceable 0.5ml ceramic cell cartridges (not included)\n\nWhat’s in the Box:\n1x – Pulsar GiGi 510 Battery\n\nHaving an issue with your unit? Submit your Pulsar Warranty Claim here",
+  "description_html": "<p><strong><a href=\"https://vaporizers.ca/products/pulsar-dl-v5-510battery\" title=\"Pulsar DL V4\">PULSAR DL V5</a> ALSO AVAILABLE</strong><br /><strong><a href=\"https://vaporizers.ca/products/pulsar-dl-v3-auto-draw-510-650mah-battery\" title=\"Pulsar V3 Twist\"></a></strong><br />The Pulsar GiGi 510 packs more per square inch than the Large Hadron Collider. Standing at just 2 inches tall, this powerful 510 battery will be your new best friend when discretion and portability are the plan of action. Extremely pocket friendly, it features low key LEDs, a long lasting 500 mAh battery, pre-heat function, spring loaded 510 threading to avoid cartridge lock, and 3 variable voltage settings. Meet your new go-to.</p>\n<p>The GiGi is compatible with most 510 cartridges<br /> <br /><strong>Pulsar GiGi 510 Features:</strong><br />Stealthy 2&#8243; profile<br />500mAh battery<br />Spring-loaded 510 threading<br />Pre-heat function<br />Variable voltage (3.4V, 3.7V and 4.0V)<br />Replaceable 0.5ml ceramic cell cartridges (not included)</p>\n<p><strong>What&#8217;s in the Box:</strong><br />1x &#8211; Pulsar GiGi 510 Battery</p>\n<p>Having an issue with your unit? Submit your Pulsar Warranty Claim <a href=\"https://www.pulsarvaporizers.com/pages/warranty-claim\" target=\"_blank\">here</a></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 19.95,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/pulsar-gigi-variable-voltage-510-battery/",
+  "attributes": {
+    "Color": [
+      "Black",
+      "Green",
+      "White"
+    ]
+  },
+  "variations": [
+    {
+      "id": 6189,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Green"
+        }
+      ]
+    },
+    {
+      "id": 6190,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "White"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    },
+    {
+      "name": "compact",
+      "slug": "compact",
+      "url": "https://vapesshopaustralia.com/product-tag/compact/"
+    },
+    {
+      "name": "pulsar",
+      "slug": "pulsar",
+      "url": "https://vapesshopaustralia.com/product-tag/pulsar/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:08:24",
+  "date_modified": "2025-12-30T11:08:33",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/pulsar-gigi-tiedye.jpg",
+      "local_path": "categories/uncategorized/products/pulsar-gigi-variable-voltage-510-battery/images/01.jpg",
+      "alt": "import placeholder for 8089975750828"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/pulsar-gigi-black.jpg",
+      "local_path": "categories/uncategorized/products/pulsar-gigi-variable-voltage-510-battery/images/02.jpg",
+      "alt": "pulsar gigi variable voltage 510 battery"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/pulsar-gigi-green.jpg",
+      "local_path": "categories/uncategorized/products/pulsar-gigi-variable-voltage-510-battery/images/03.jpg",
+      "alt": "pulsar gigi variable voltage 510 battery"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/pulsar-gigi-white.jpg",
+      "local_path": "categories/uncategorized/products/pulsar-gigi-variable-voltage-510-battery/images/04.jpg",
+      "alt": "pulsar gigi variable voltage 510 battery"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/pulsar-gigi-variable-voltage-510-battery"
+}

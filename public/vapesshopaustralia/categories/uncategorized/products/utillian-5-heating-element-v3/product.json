@@ -1,0 +1,92 @@
+{
+  "id": "utillian-5-heating-element-v3",
+  "wp_id": 4868,
+  "title": "Utillian 5 Heating Element V3",
+  "description": "The Utillian 5 Wax Atomizer is identical to the atomizer top of the Utillian 5 wax pen, without the battery. Perfect for those who already own a box mod and just want a 510 threaded wax attachment. This new design of the Utillian 5 Heating Element now doubles as a loading tool and splash guard that can be integrated into your wax pen setup for quick and easy loading even when on the move. It is compatible with 510 threaded mods and requires at least 20W of power.\n\nPlease note: Triple titanium or Twisted Kanthal coils are not included.",
+  "description_html": "<p><strong></strong>The Utillian 5 Wax Atomizer is identical to the atomizer top of the Utillian 5 wax pen, without the battery. Perfect for those who already own a box mod and just want a 510 threaded wax attachment. This new design of the Utillian 5 Heating Element now doubles as a loading tool and splash guard that can be integrated into your wax pen setup for quick and easy loading even when on the move. It is compatible with 510 threaded mods and requires at least 20W of power.</p>\n<p><strong>Please note: Triple titanium or Twisted Kanthal coils are not included.</strong><br /><strong></strong></p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/utillian-5-heating-element-v3/",
+  "attributes": {
+    "Color": [
+      "Black",
+      "Gun Metal",
+      "Titanium"
+    ]
+  },
+  "variations": [
+    {
+      "id": 4869,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Gun Metal"
+        }
+      ]
+    },
+    {
+      "id": 4870,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Titanium"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Atomizers / Coils",
+      "slug": "atomizers-coils",
+      "url": "https://vapesshopaustralia.com/product-tag/atomizers-coils/"
+    },
+    {
+      "name": "Utillian",
+      "slug": "utillian",
+      "url": "https://vapesshopaustralia.com/product-tag/utillian/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:27:09",
+  "date_modified": "2025-12-30T10:27:28",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/utillian-5-element-black2.jpg",
+      "local_path": "categories/uncategorized/products/utillian-5-heating-element-v3/images/01.jpg",
+      "alt": "import placeholder for 2268189130803"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/utillian-5-element-black.jpg",
+      "local_path": "categories/uncategorized/products/utillian-5-heating-element-v3/images/02.jpg",
+      "alt": "utillian 5 heating element v3"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/utillian-5-element-gm.jpg",
+      "local_path": "categories/uncategorized/products/utillian-5-heating-element-v3/images/03.jpg",
+      "alt": "utillian 5 heating element v3"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/utillian-5-element-titanium.jpg",
+      "local_path": "categories/uncategorized/products/utillian-5-heating-element-v3/images/04.jpg",
+      "alt": "utillian 5 heating element v3"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/utillian-5-heating-element-v3"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "vuber-sol-portable-vaporizer-taxes-extra",
+  "wp_id": 5983,
+  "title": "Vuber Sol Portable Vaporizer (taxes extra)",
+  "description": "The SOL is a dry herb vaporizer with a sleek, compact design and feature-packed performance. Its ceramic heating chamber and adjustable temperature settings let you optimize vapour quality, while its magnetic mouthpiece and 1100 mAh lithium-ion battery provide long-term durability. USB-C recharging ensures fast, convenient charging. The SOL also includes haptic feedback, which vibrates to let you know when you’ve reached the selected temperature.\n\nProduct Features:\n– Five selectable temperatures (356°F, 374°F, 392°F, 410°F, 425°F)\n– Auto-shut off\n– Magnetic mouthpiece\n– Haptic feedback\n– 1100 mAh lithium-ion battery\n– USB-C charging\n\nWhat’s Included:\n1 x SOL Battery\n1 x SOL Mouthpiece\n1 x USB-C Charging Cable\n1 x Brush Tool\n1 x Packing Tool\n3 x Alcohol Cleaning Swabs\n1 x SOL User Manual",
+  "description_html": "<p>The SOL is a dry herb vaporizer with a sleek, compact design and feature-packed performance. Its ceramic heating chamber and adjustable temperature settings let you optimize vapour quality, while its magnetic mouthpiece and 1100 mAh lithium-ion battery provide long-term durability. USB-C recharging ensures fast, convenient charging. The SOL also includes haptic feedback, which vibrates to let you know when you&#8217;ve reached the selected temperature. </p>\n<p><strong>Product Features:</strong><br />&#8211; Five selectable temperatures (356°F, 374°F, 392°F, 410°F, 425°F)<br />&#8211; Auto-shut off<br />&#8211; Magnetic mouthpiece<br />&#8211; Haptic feedback<br />&#8211; 1100 mAh lithium-ion battery<br />&#8211; USB-C charging</p>\n<p><strong>What&#8217;s Included:</strong><br />1 x SOL Battery<br />1 x SOL Mouthpiece<br />1 x USB-C Charging Cable<br />1 x Brush Tool<br />1 x Packing Tool<br />3 x Alcohol Cleaning Swabs<br />1 x SOL User Manual</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 69.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/vuber-sol-portable-vaporizer-taxes-extra/",
+  "attributes": {
+    "Color": [
+      "Black",
+      "Green"
+    ]
+  },
+  "variations": [
+    {
+      "id": 5984,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Green"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    },
+    {
+      "name": "compact",
+      "slug": "compact",
+      "url": "https://vapesshopaustralia.com/product-tag/compact/"
+    },
+    {
+      "name": "herbal",
+      "slug": "herbal",
+      "url": "https://vapesshopaustralia.com/product-tag/herbal/"
+    },
+    {
+      "name": "pulsar",
+      "slug": "pulsar",
+      "url": "https://vapesshopaustralia.com/product-tag/pulsar/"
+    },
+    {
+      "name": "vuber",
+      "slug": "vuber",
+      "url": "https://vapesshopaustralia.com/product-tag/vuber/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:05:25",
+  "date_modified": "2025-12-30T11:07:18",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/vuber-sol.jpg",
+      "local_path": "categories/uncategorized/products/vuber-sol-portable-vaporizer-taxes-extra/images/01.jpg",
+      "alt": "import placeholder for 7975695876268"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/vuber-sol-green.jpg",
+      "local_path": "categories/uncategorized/products/vuber-sol-portable-vaporizer-taxes-extra/images/02.jpg",
+      "alt": "vuber sol portable vaporizer (taxes extra)"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/vuber-sol-portable-vaporizer-taxes-extra"
+}

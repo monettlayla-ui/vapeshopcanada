@@ -1,0 +1,94 @@
+{
+  "id": "20700-21700-dual-battery-silicon-case",
+  "wp_id": 1898,
+  "title": "20700 / 21700 DUAL Battery Silicon Case",
+  "description": "Protective battery case holds two 20700 or 21700 batteries.\n\nPlease note: Batteries not included. Does not fit 18650 batteries.",
+  "description_html": "<p>Protective battery case holds two 20700 or 21700 batteries. </p>\n<p><em>Please note: Batteries not included. Does not fit 18650 batteries. </em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "20700-DUAL-SILICON-CASE",
+  "type": "simple",
+  "price": 6.0,
+  "sale_price": 3.5,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/20700-21700-dual-battery-silicon-case/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "20700",
+      "slug": "20700",
+      "url": "https://vapesshopaustralia.com/product-tag/20700/"
+    },
+    {
+      "name": "21700",
+      "slug": "21700",
+      "url": "https://vapesshopaustralia.com/product-tag/21700/"
+    },
+    {
+      "name": "battery-safety",
+      "slug": "battery-safety",
+      "url": "https://vapesshopaustralia.com/product-tag/battery-safety/"
+    },
+    {
+      "name": "dual-20700",
+      "slug": "dual-20700",
+      "url": "https://vapesshopaustralia.com/product-tag/dual-20700/"
+    },
+    {
+      "name": "dual-21700",
+      "slug": "dual-21700",
+      "url": "https://vapesshopaustralia.com/product-tag/dual-21700/"
+    },
+    {
+      "name": "dual-battery",
+      "slug": "dual-battery",
+      "url": "https://vapesshopaustralia.com/product-tag/dual-battery/"
+    },
+    {
+      "name": "silicon",
+      "slug": "silicon",
+      "url": "https://vapesshopaustralia.com/product-tag/silicon/"
+    },
+    {
+      "name": "silicon-sleeve",
+      "slug": "silicon-sleeve",
+      "url": "https://vapesshopaustralia.com/product-tag/silicon-sleeve/"
+    },
+    {
+      "name": "sleeve",
+      "slug": "sleeve",
+      "url": "https://vapesshopaustralia.com/product-tag/sleeve/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:13:22",
+  "date_modified": "2025-12-30T07:02:19",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ijoy-20700-batteries-case.jpg",
+      "local_path": "categories/uncategorized/products/20700-21700-dual-battery-silicon-case/images/01.jpg",
+      "alt": "import placeholder for 12103647235"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/iJoy-20700-battery-cover-thunderbird-vapes.jpg",
+      "local_path": "categories/uncategorized/products/20700-21700-dual-battery-silicon-case/images/02.jpg",
+      "alt": "20700 / 21700 dual battery silicon case"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/20700-21700-dual-battery-silicon-case"
+}

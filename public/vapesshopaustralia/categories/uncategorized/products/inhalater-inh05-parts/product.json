@@ -1,0 +1,142 @@
+{
+  "id": "inhalater-inh05-parts",
+  "wp_id": 6406,
+  "title": "Inhalater INH05 Parts",
+  "description": "All the parts you need for your Inhalater and Inhalater INH05 vaporizer\n\nParts:\nInhalater Replacement Capsule Single (Standard)\nInhalater Replacement Capsule Single (Air – Aero)\nInhalater Replacement Capsule Single (Glass)\nInhalater Car Charger\nInhalater Hygenic Tips 5 Pack (tubes)\nInhalater Filters 10 Pack (screens)\nInhalater Screen Removal pick with 10 screens\nInhalater Water Tool Adapter (18MM)\nInhalater Replacement Cap",
+  "description_html": "<p>All the parts you need for your Inhalater and Inhalater INH05 vaporizer</p>\n<p>Parts:<br />Inhalater Replacement Capsule Single (Standard)<br />Inhalater Replacement Capsule Single (Air &#8211; Aero)<br />Inhalater Replacement Capsule Single (Glass)<br />Inhalater Car Charger<br />Inhalater Hygenic Tips 5 Pack (tubes)<br />Inhalater Filters 10 Pack (screens)<br />Inhalater Screen Removal pick with 10 screens<br />Inhalater Water Tool Adapter (18MM)<br />Inhalater Replacement Cap</p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/inhalater-inh05-parts/",
+  "attributes": {
+    "Part": [
+      "Replacement Capsule Standard - Single",
+      "Replacement Capsule Aero - single",
+      "Car Charger",
+      "Hygenic Tips 5 Pack (tubes)",
+      "Filters 10 Pack",
+      "10 Screens",
+      "Water Tool Adapters",
+      "Replacement Cap"
+    ]
+  },
+  "variations": [
+    {
+      "id": 6407,
+      "attributes": [
+        {
+          "name": "Part",
+          "value": "Replacement Capsule Aero - single"
+        }
+      ]
+    },
+    {
+      "id": 6408,
+      "attributes": [
+        {
+          "name": "Part",
+          "value": "Car Charger"
+        }
+      ]
+    },
+    {
+      "id": 6409,
+      "attributes": [
+        {
+          "name": "Part",
+          "value": "Hygenic Tips 5 Pack (tubes)"
+        }
+      ]
+    },
+    {
+      "id": 6410,
+      "attributes": [
+        {
+          "name": "Part",
+          "value": "Filters 10 Pack"
+        }
+      ]
+    },
+    {
+      "id": 6411,
+      "attributes": [
+        {
+          "name": "Part",
+          "value": "10 Screens"
+        }
+      ]
+    },
+    {
+      "id": 6412,
+      "attributes": [
+        {
+          "name": "Part",
+          "value": "Water Tool Adapters"
+        }
+      ]
+    },
+    {
+      "id": 6413,
+      "attributes": [
+        {
+          "name": "Part",
+          "value": "Replacement Cap"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:10:20",
+  "date_modified": "2025-12-30T11:10:37",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/inhalater-glasscapsule.jpg",
+      "local_path": "categories/uncategorized/products/inhalater-inh05-parts/images/01.jpg",
+      "alt": "import placeholder for 188205285"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/inhalater-capsule-aero.png",
+      "local_path": "categories/uncategorized/products/inhalater-inh05-parts/images/02.png",
+      "alt": "inhalater inh05 parts"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/inhalater-capsule-standard.png",
+      "local_path": "categories/uncategorized/products/inhalater-inh05-parts/images/03.png",
+      "alt": "inhalater inh05 parts"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/inhalater-car.jpg",
+      "local_path": "categories/uncategorized/products/inhalater-inh05-parts/images/04.jpg",
+      "alt": "inhalater inh05 parts"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/inhalater-inh05-parts"
+}

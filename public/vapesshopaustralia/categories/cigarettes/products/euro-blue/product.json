@@ -1,0 +1,114 @@
+{
+  "id": "euro-blue",
+  "wp_id": 7914,
+  "title": "Euro Blue",
+  "description": "One pack = 20 cigarettes\nOne carton = 10 packs\n\nKing sized",
+  "description_html": "<p>One pack = 20 cigarettes<br /> One carton = 10 packs</p>\n<p>King sized</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 24.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/euro-blue/",
+  "attributes": {
+    "Quantity": [
+      "Single Pack",
+      "Double Pack",
+      "Triple Pack",
+      "Carton"
+    ]
+  },
+  "variations": [
+    {
+      "id": 7915,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "Single Pack"
+        }
+      ]
+    },
+    {
+      "id": 7916,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "Double Pack"
+        }
+      ]
+    },
+    {
+      "id": 7950,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "Triple Pack"
+        }
+      ]
+    },
+    {
+      "id": 7951,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "Carton"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "CIGARETTES",
+      "slug": "cigarettes",
+      "url": "https://vapesshopaustralia.com/product-tag/cigarettes/"
+    },
+    {
+      "name": "DOUBLE",
+      "slug": "double",
+      "url": "https://vapesshopaustralia.com/product-tag/double/"
+    },
+    {
+      "name": "Double Happiness",
+      "slug": "double-happiness",
+      "url": "https://vapesshopaustralia.com/product-tag/double-happiness/"
+    },
+    {
+      "name": "Double Happiness Red",
+      "slug": "double-happiness-red",
+      "url": "https://vapesshopaustralia.com/product-tag/double-happiness-red/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:28:33",
+  "date_modified": "2025-12-30T20:31:18",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/euro-blue.png",
+      "local_path": "categories/cigarettes/products/euro-blue/images/01.png",
+      "alt": "import placeholder for 68592"
+    }
+  ],
+  "categories": [
+    {
+      "name": "CIGARETTES",
+      "slug": "cigarettes",
+      "url": "https://vapesshopaustralia.com/product-category/cigarettes/"
+    },
+    {
+      "name": "NEWEST PRODUCTS",
+      "slug": "newest-products",
+      "url": "https://vapesshopaustralia.com/product-category/newest-products/"
+    }
+  ],
+  "stored_in": "categories/cigarettes/products/euro-blue"
+}

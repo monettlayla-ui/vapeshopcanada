@@ -1,0 +1,81 @@
+{
+  "id": "davinci-artiq-510-vaporizer-2",
+  "wp_id": 4463,
+  "title": "DaVinci ARTIQ 510 Vaporizer",
+  "description": "Introducing the ARTIQ 510 Vaporizer\nThe Next Generation for 510 cartridges\n\nCompatible with standard 510 cartridges\nElongated Airpath Reduces Vapor Heat by 90%\nFully Concealed Chamber\n\nEliminate Hot Vapor\nDelivering vapor that is on average 90% cooler, the ARTIQ extended airpath cools hot vapor back down to room temperature levels. During extensive testing, the average vapor temperature from ARTIQ was 84°F (28°C) vs 153°F (67°C) from top loading 510 devices\n\nFeatures:\n10 Second Preheat\nHaptic Draw Feedback\nPass-Through Charging\n3 Heat Modes\nUSB Type-C charging cable\n\nIncluded in the box:\n1X ARTIQ cartridge vaporizer\n1X USB Type-C Cable\nCleaning tools\n2x extra magnetic collars\n2x extra gasket seals\n1x User Manual\n\n1 Year Standard Warranty",
+  "description_html": "<p><strong>Introducing the ARTIQ 510 Vaporizer<br />The Next Generation for 510 cartridges</strong></p>\n<p>Compatible with standard 510 cartridges <br data-mce-fragment=\"1\">Elongated Airpath Reduces Vapor Heat by 90% <br data-mce-fragment=\"1\">Fully Concealed Chamber</p>\n<p><strong>Eliminate Hot Vapor</strong><br data-mce-fragment=\"1\">Delivering vapor that is on average 90% cooler, the ARTIQ extended airpath cools hot vapor back down to room temperature levels. During extensive testing, the average vapor temperature from ARTIQ was 84°F (28°C) vs 153°F (67°C) from top loading 510 devices<br /><br data-mce-fragment=\"1\"><strong>Features:</strong><br />10 Second Preheat <br data-mce-fragment=\"1\">Haptic Draw Feedback <br data-mce-fragment=\"1\">Pass-Through Charging <br data-mce-fragment=\"1\">3 Heat Modes <br data-mce-fragment=\"1\">USB Type-C charging cable<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong>Included in the box:</strong><br data-mce-fragment=\"1\">1X ARTIQ cartridge vaporizer <br data-mce-fragment=\"1\">1X USB Type-C Cable <br data-mce-fragment=\"1\">Cleaning tools <br data-mce-fragment=\"1\">2x extra magnetic collars <br data-mce-fragment=\"1\">2x extra gasket seals <br data-mce-fragment=\"1\">1x User Manual </p>\n<p>1 Year Standard Warranty</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 79.95,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/davinci-artiq-510-vaporizer-2/",
+  "attributes": {
+    "Color": [
+      "Onyx",
+      "Blue",
+      "Grey"
+    ]
+  },
+  "variations": [
+    {
+      "id": 4464,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Blue"
+        }
+      ]
+    },
+    {
+      "id": 4466,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Grey"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:25:26",
+  "date_modified": "2025-12-30T10:25:48",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/davinci-artiq-blue.png",
+      "local_path": "categories/uncategorized/products/davinci-artiq-510-vaporizer-2/images/01.png",
+      "alt": "import placeholder for 7677403168940"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/davinci-artiq-grey.png",
+      "local_path": "categories/uncategorized/products/davinci-artiq-510-vaporizer-2/images/02.png",
+      "alt": "davinci artiq 510 vaporizer"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/davinci-artiq-onyx.png",
+      "local_path": "categories/uncategorized/products/davinci-artiq-510-vaporizer-2/images/03.png",
+      "alt": "davinci artiq 510 vaporizer"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/davinci-artiq-510-vaporizer-2"
+}

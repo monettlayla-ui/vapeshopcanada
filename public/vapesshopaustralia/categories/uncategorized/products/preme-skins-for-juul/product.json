@@ -1,0 +1,70 @@
+{
+  "id": "preme-skins-for-juul",
+  "wp_id": 1860,
+  "title": "Preme Skins for JUUL",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000003510",
+  "type": "variable",
+  "price": 13.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/preme-skins-for-juul/",
+  "attributes": {
+    "Color": [
+      "Hawaiian",
+      "Acid Trip"
+    ]
+  },
+  "variations": [
+    {
+      "id": 1861,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Acid Trip"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "juul",
+      "slug": "juul",
+      "url": "https://vapesshopaustralia.com/product-tag/juul/"
+    },
+    {
+      "name": "skin",
+      "slug": "skin",
+      "url": "https://vapesshopaustralia.com/product-tag/skin/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:12:57",
+  "date_modified": "2025-12-30T07:02:20",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/51da6a82cad24f9e75cc3a69d564c6f7.jpg",
+      "local_path": "categories/uncategorized/products/preme-skins-for-juul/images/01.jpg",
+      "alt": "import placeholder for 4480071630928"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/39e3cf5a20e2e536428288df0a1021a6.jpg",
+      "local_path": "categories/uncategorized/products/preme-skins-for-juul/images/02.jpg",
+      "alt": "preme skins for juul"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/preme-skins-for-juul"
+}

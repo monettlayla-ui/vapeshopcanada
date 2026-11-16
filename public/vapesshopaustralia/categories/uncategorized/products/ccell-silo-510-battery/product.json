@@ -1,0 +1,82 @@
+{
+  "id": "ccell-silo-510-battery",
+  "wp_id": 3883,
+  "title": "CCELL Silo 510 Battery",
+  "description": "The Silo is an evolution of CCELL’s quality and compact 510 batteries that combine performance and function in one sleek design. The Silo comes with all symbolic CCELL features, such as a button-free profile, a discreet breathing indicator, a micro-USB charging port, inhale-activated, and an aluminum alloy housing which offers a sophisticated aesthetic. The magnetic connector is compatible with 510-thread cartridges, and creates an easy-to-use drop in system. With a battery capacity of 500mAh, this vaporizer can generate over 250 puffs per charge cycle, and provides 25% more vapor volume when compared to other brands. It is recommended to use the Palm with CCELL cartridges to achieve maximum flavour, performance, and potency.\n\nBattery Features:\nDimensions: 63 x 18 x 28.8 mm\nCapacity: 500mAh\nMicro-USB Port\nInhale-Activated\nAluminum Alloy Housing\nStealthy Breathing LED Indicator\nMagnetic Connect with Built-In 510 Thread\n\nWhat’s in The Box:\n1x – CCell Silo Auto Draw Cartridge Vaporizer\n2x – Magnetic Adapters\n1x – Micro USB Charging Cable",
+  "description_html": "<p>The Silo is an evolution of CCELL&#8217;s quality and compact 510 batteries that combine performance and function in one sleek design. The Silo comes with all symbolic CCELL features, such as a button-free profile, a discreet breathing indicator, a micro-USB charging port, inhale-activated, and an aluminum alloy housing which offers a sophisticated aesthetic. The magnetic connector is compatible with 510-thread cartridges, and creates an easy-to-use drop in system. With a battery capacity of 500mAh, this vaporizer can generate over 250 puffs per charge cycle, and provides 25% more vapor volume when compared to other brands. It is recommended to use the Palm with CCELL cartridges to achieve maximum flavour, performance, and potency.</p>\n<p><strong>Battery Features:</strong><br />    Dimensions: 63 x 18 x 28.8 mm<br />    Capacity: 500mAh<br />    Micro-USB Port<br />    Inhale-Activated<br />    Aluminum Alloy Housing<br />    Stealthy Breathing LED Indicator<br />    Magnetic Connect with Built-In 510 Thread</p>\n<p><strong>What&#8217;s in The Box:</strong><br />    1x &#8211; CCell Silo Auto Draw Cartridge Vaporizer <br />    2x &#8211; Magnetic Adapters<br />    1x &#8211; Micro USB Charging Cable</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 29.99,
+  "sale_price": 14.99,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/ccell-silo-510-battery/",
+  "attributes": {
+    "Color": [
+      "Blue",
+      "Rose Gold"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3899,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Rose Gold"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    },
+    {
+      "name": "compact",
+      "slug": "compact",
+      "url": "https://vapesshopaustralia.com/product-tag/compact/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:27:52",
+  "date_modified": "2025-12-30T07:28:39",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ccell-silo-black.jpg",
+      "local_path": "categories/uncategorized/products/ccell-silo-510-battery/images/01.jpg",
+      "alt": "import placeholder for 8123621867692"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ccell-silo-blue.png",
+      "local_path": "categories/uncategorized/products/ccell-silo-510-battery/images/02.png",
+      "alt": "ccell silo 510 battery"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ccell-silo-grey.jpg",
+      "local_path": "categories/uncategorized/products/ccell-silo-510-battery/images/03.jpg",
+      "alt": "ccell silo 510 battery"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ccell-silo-rosegold.jpg",
+      "local_path": "categories/uncategorized/products/ccell-silo-510-battery/images/04.jpg",
+      "alt": "ccell silo 510 battery"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/ccell-silo-510-battery"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "puffco-pivot-travel-case",
+  "wp_id": 3743,
+  "title": "Puffco Pivot Travel Case",
+  "description": "The Travel Case keeps your stash organized. Featuring a ridged hard aluminum exterior with a magnetic lid closure and soft silicone inside to reduce rattling, the Travel Case has room for a Pivot + Hot Knife, up to 3 jars, cotton swabs, a covered section for trash, and anything else you might need.\n\nProduct Features:\n– Made of aluminum\n– Magnetic lid closure\n– Silicone interior\n\nWhat’s Included:\n1 x Pivot Travel Case",
+  "description_html": "<p>The Travel Case keeps your stash organized. Featuring a ridged hard aluminum exterior with a magnetic lid closure and soft silicone inside to reduce rattling, the Travel Case has room for a Pivot + Hot Knife, up to 3 jars, cotton swabs, a covered section for trash, and anything else you might need. </p>\n<p><strong>Product Features:</strong><br />&#8211; Made of aluminum<br />&#8211; Magnetic lid closure<br />&#8211; Silicone interior</p>\n<p><strong>What&#8217;s Included:</strong><br />1 x Pivot Travel Case</p>\n<p></p>\n<p>  </p>\n<h5></h5>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 69.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/puffco-pivot-travel-case/",
+  "attributes": {
+    "Color": [
+      "Silver",
+      "Daybreak"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3744,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Daybreak"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Cases",
+      "slug": "cases",
+      "url": "https://vapesshopaustralia.com/product-tag/cases/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "puffco",
+      "slug": "puffco",
+      "url": "https://vapesshopaustralia.com/product-tag/puffco/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:25:44",
+  "date_modified": "2025-12-30T07:26:33",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/puffco-pivot-case.jpg",
+      "local_path": "categories/uncategorized/products/puffco-pivot-travel-case/images/01.jpg",
+      "alt": "import placeholder for 8165581521068"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/puffco-pivot-case-daybreak.jpg",
+      "local_path": "categories/uncategorized/products/puffco-pivot-travel-case/images/02.jpg",
+      "alt": "puffco pivot travel case"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/puffco-pivot-travel-case"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "810-psyclone-drip-tip-slim",
+  "wp_id": 1863,
+  "title": "810 Psyclone Drip Tip Slim",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000001438",
+  "type": "simple",
+  "price": 16.0,
+  "sale_price": 10.0,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/810-psyclone-drip-tip-slim/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "810",
+      "slug": "810",
+      "url": "https://vapesshopaustralia.com/product-tag/810/"
+    },
+    {
+      "name": "clearance",
+      "slug": "clearance",
+      "url": "https://vapesshopaustralia.com/product-tag/clearance/"
+    },
+    {
+      "name": "drip-tip",
+      "slug": "drip-tip",
+      "url": "https://vapesshopaustralia.com/product-tag/drip-tip/"
+    },
+    {
+      "name": "kennedy",
+      "slug": "kennedy",
+      "url": "https://vapesshopaustralia.com/product-tag/kennedy/"
+    },
+    {
+      "name": "slim-bore",
+      "slug": "slim-bore",
+      "url": "https://vapesshopaustralia.com/product-tag/slim-bore/"
+    },
+    {
+      "name": "ultem",
+      "slug": "ultem",
+      "url": "https://vapesshopaustralia.com/product-tag/ultem/"
+    },
+    {
+      "name": "wide-bore",
+      "slug": "wide-bore",
+      "url": "https://vapesshopaustralia.com/product-tag/wide-bore/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:12:57",
+  "date_modified": "2025-12-29T21:13:28",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/810_Psyclone_Drip_Tip_Slim.jpg",
+      "local_path": "categories/uncategorized/products/810-psyclone-drip-tip-slim/images/01.jpg",
+      "alt": "import placeholder for 4480063111248"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/810-psyclone-drip-tip-slim"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "iget-shion-600",
+  "wp_id": 900,
+  "name": "IGET SHION 600",
+  "description": null,
+  "url": "https://vapesshopaustralia.com/product-category/iget-shion-600/",
+  "parent_id": null,
+  "parent_slug": null,
+  "product_count_reported": 9,
+  "product_count_scraped": 9,
+  "image": null,
+  "products": [
+    "5-pack-iget-shion-600-puffs",
+    "10-pack-iget-shion-600-puffs",
+    "20-pack-iget-shion-600-puffs",
+    "50-pack-iget-shion-600-puffs",
+    "mystery-fruit-iget-shion-600-puffs",
+    "pink-lemonade-iget-shion-600-puffs",
+    "bubble-gum-iget-shion-600-puffs",
+    "blackberry-ice-iget-shion-600-puffs",
+    "mixed-fruit-iget-shion-600-puffs"
+  ]
+}

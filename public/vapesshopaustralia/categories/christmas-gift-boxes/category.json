@@ -1,0 +1,20 @@
+{
+  "id": "christmas-gift-boxes",
+  "wp_id": 983,
+  "name": "CHRISTMAS GIFT BOXES",
+  "description": null,
+  "url": "https://vapesshopaustralia.com/product-category/christmas-gift-boxes/",
+  "parent_id": null,
+  "parent_slug": null,
+  "product_count_reported": 6,
+  "product_count_scraped": 6,
+  "image": null,
+  "products": [
+    "2x-disposable-vape-christmas-gift-box",
+    "3x-disposable-vape-christmas-gift-box",
+    "4x-disposable-vape-christmas-gift-box",
+    "5x-disposable-vape-christmas-gift-box",
+    "6x-disposable-vape-christmas-gift-box6",
+    "10x-disposable-vape-christmas-gift-box"
+  ]
+}

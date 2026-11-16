@@ -1,0 +1,164 @@
+{
+  "id": "mr-fog-3600-wholesale",
+  "wp_id": 8397,
+  "title": "MR FOG 3600 WHOLESALE",
+  "description": "You can request flavours at checkout in the “order notes” section.",
+  "description_html": "<p>You can request flavours at checkout in the “order notes” section.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 84.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/mr-fog-3600-wholesale/",
+  "attributes": {
+    "Quantity": [
+      "3 PCs",
+      "5 PCs",
+      "10 PCs",
+      "20 PCs",
+      "50 PCs",
+      "100 PCs",
+      "200 PCs"
+    ]
+  },
+  "variations": [
+    {
+      "id": 8398,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "3 PCs"
+        }
+      ]
+    },
+    {
+      "id": 8399,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "5 PCs"
+        }
+      ]
+    },
+    {
+      "id": 8400,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "10 PCs"
+        }
+      ]
+    },
+    {
+      "id": 8401,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "20 PCs"
+        }
+      ]
+    },
+    {
+      "id": 8402,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "50 PCs"
+        }
+      ]
+    },
+    {
+      "id": 8404,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "100 PCs"
+        }
+      ]
+    },
+    {
+      "id": 8406,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "200 PCs"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Vapes",
+      "slug": "vapes",
+      "url": "https://vapesshopaustralia.com/product-tag/vapes/"
+    },
+    {
+      "name": "wholesale",
+      "slug": "wholesale",
+      "url": "https://vapesshopaustralia.com/product-tag/wholesale/"
+    },
+    {
+      "name": "X-PRO",
+      "slug": "x-pro",
+      "url": "https://vapesshopaustralia.com/product-tag/x-pro/"
+    },
+    {
+      "name": "X-QLUSIVE",
+      "slug": "x-qlusive",
+      "url": "https://vapesshopaustralia.com/product-tag/x-qlusive/"
+    },
+    {
+      "name": "XPRO",
+      "slug": "xpro",
+      "url": "https://vapesshopaustralia.com/product-tag/xpro/"
+    },
+    {
+      "name": "XQ",
+      "slug": "xq",
+      "url": "https://vapesshopaustralia.com/product-tag/xq/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:33:17",
+  "date_modified": "2025-12-30T19:45:38",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/mr-fog.png",
+      "local_path": "categories/best-selling-products/products/mr-fog-3600-wholesale/images/01.png",
+      "alt": "import placeholder for 67098"
+    }
+  ],
+  "categories": [
+    {
+      "name": "BEST SELLING PRODUCTS",
+      "slug": "best-selling-products",
+      "url": "https://vapesshopaustralia.com/product-category/best-selling-products/"
+    },
+    {
+      "name": "BULK",
+      "slug": "bulk",
+      "url": "https://vapesshopaustralia.com/product-category/bulk/"
+    },
+    {
+      "name": "NEWEST PRODUCTS",
+      "slug": "newest-products",
+      "url": "https://vapesshopaustralia.com/product-category/newest-products/"
+    },
+    {
+      "name": "VAPES",
+      "slug": "vapes",
+      "url": "https://vapesshopaustralia.com/product-category/vapes/"
+    }
+  ],
+  "stored_in": "categories/best-selling-products/products/mr-fog-3600-wholesale"
+}

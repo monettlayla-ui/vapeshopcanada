@@ -1,0 +1,88 @@
+{
+  "id": "utillian-2-wax-pen-replacement-coil",
+  "wp_id": 4941,
+  "title": "Utillian 2 Wax Pen Replacement Coil",
+  "description": "*Cannot be shipped outside Canada, no USA shipping*\n\nReplacement coil for your Utillian 2 Vaporizer.\n\nThis is a replacement Dual Quartz Coil for the Utillian 2 wax pen and is identical to the original Dual Quartz Coil received with the Utillian 2. Perfect for replacing your original if it is damaged, dirty or lost.\n\nCompatible with Utillian 2\nPackage contains one replacement coil",
+  "description_html": "<p><strong><b data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"><span style=\"color: #ff2a00\" data-mce-style=\"color: #ff2a00;\" data-mce-fragment=\"1\">*Cannot be shipped outside Canada, no USA shipping*</span></span></b> </p>\n<p></strong>Replacement coil for your Utillian 2 Vaporizer.</p>\n<p>This is a replacement Dual Quartz Coil for the Utillian 2 wax pen and is identical to the original Dual Quartz Coil received with the Utillian 2. Perfect for replacing your original if it is damaged, dirty or lost.<br /><br data-mce-fragment=\"1\">Compatible with Utillian 2<br data-mce-fragment=\"1\">Package contains one replacement coil</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/utillian-2-wax-pen-replacement-coil/",
+  "attributes": {
+    "Type": [
+      "Dual Quartz",
+      "Donut"
+    ],
+    "Color": [
+      "Gun Metal",
+      "Gun Metal"
+    ]
+  },
+  "variations": [
+    {
+      "id": 4942,
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "Donut"
+        },
+        {
+          "name": "Color",
+          "value": "Gun Metal"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Atomizers / Coils",
+      "slug": "atomizers-coils",
+      "url": "https://vapesshopaustralia.com/product-tag/atomizers-coils/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "Portable",
+      "slug": "portable",
+      "url": "https://vapesshopaustralia.com/product-tag/portable/"
+    },
+    {
+      "name": "Utillian",
+      "slug": "utillian",
+      "url": "https://vapesshopaustralia.com/product-tag/utillian/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:27:30",
+  "date_modified": "2025-12-30T10:27:43",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/utillian-2-dual-quartz-coil-part.jpg",
+      "local_path": "categories/uncategorized/products/utillian-2-wax-pen-replacement-coil/images/01.jpg",
+      "alt": "import placeholder for 6244167483564"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/utillian-2-ceramic-donut-coil.jpg",
+      "local_path": "categories/uncategorized/products/utillian-2-wax-pen-replacement-coil/images/02.jpg",
+      "alt": "utillian 2 wax pen replacement coil"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/utillian-2-wax-pen-replacement-coil"
+}

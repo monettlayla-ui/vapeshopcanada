@@ -1,0 +1,91 @@
+{
+  "id": "volcano-easy-valve-replacement-set-3",
+  "wp_id": 5229,
+  "title": "Volcano Easy Valve Replacement Set",
+  "description": "The EASY VALVE Replacement Set includes 6 ready-to-use EASY VALVE balloons for the application with the EASY VALVE filling chamber.\n\nIncludes\n\nEASY VALVE balloons with mouthpiece.\n\nTwo sizes:\nRegular size – 2 foot long (60cm) bag\nXtra Large size – 3 foot long (90 cm) bag\n\nPlease note:\nThe EASY VALVE filling chamber is not included in this set. The EASY VALVE balloons can only be used with the EASY VALVE filling chamber.",
+  "description_html": "<p>The EASY VALVE Replacement Set includes 6 ready-to-use EASY VALVE balloons for the application with the EASY VALVE filling chamber.</p>\n<p>Includes</p>\n<p>EASY VALVE balloons with mouthpiece.</p>\n<p>Two sizes:<br />Regular size &#8211; 2 foot long (60cm) bag<br />Xtra Large size &#8211; 3 foot long (90 cm) bag </p>\n<p><strong>Please note:</strong><br />The EASY VALVE filling chamber is not included in this set. The EASY VALVE balloons can only be used with the EASY VALVE filling chamber.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 79.95,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/volcano-easy-valve-replacement-set-3/",
+  "attributes": {
+    "Size": [
+      "6 Pack Regular",
+      "6 Pack XL"
+    ]
+  },
+  "variations": [
+    {
+      "id": 5230,
+      "attributes": [
+        {
+          "name": "Size",
+          "value": "6 Pack XL"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Balloon/Bag",
+      "slug": "balloon-bag",
+      "url": "https://vapesshopaustralia.com/product-tag/balloon-bag/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "Storz &amp; Bickel",
+      "slug": "storz-bickel",
+      "url": "https://vapesshopaustralia.com/product-tag/storz-bickel/"
+    },
+    {
+      "name": "Volcano",
+      "slug": "volcano",
+      "url": "https://vapesshopaustralia.com/product-tag/volcano/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:58:15",
+  "date_modified": "2025-12-30T10:58:48",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/volc-evreplacement-xl_cde26183-e3ba-41ce-9d18-62a71ec84107.jpg",
+      "local_path": "categories/uncategorized/products/volcano-easy-valve-replacement-set-3/images/01.jpg",
+      "alt": "import placeholder for 179211445"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/volc-ev-replacement_5907e112-45c1-4fde-b468-89d45db96ac2.jpg",
+      "local_path": "categories/uncategorized/products/volcano-easy-valve-replacement-set-3/images/02.jpg",
+      "alt": "volcano easy valve replacement set"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/volcano-easyvalve-balloon.jpg",
+      "local_path": "categories/uncategorized/products/volcano-easy-valve-replacement-set-3/images/03.jpg",
+      "alt": "volcano easy valve replacement set"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/volcano-easy-valve-replacement-set-3"
+}

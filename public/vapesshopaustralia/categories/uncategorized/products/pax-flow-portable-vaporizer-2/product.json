@@ -1,0 +1,81 @@
+{
+  "id": "pax-flow-portable-vaporizer-2",
+  "wp_id": 5868,
+  "title": "Pax Flow Portable Vaporizer",
+  "description": "PAX set the standard for pocket-sized dry herb vaporizers over a decade ago. PAX FLOW is the most advanced device yet, delivering the perfect balance of performance and portability. With six times the draw strength of previous models and a new hybrid heating system with real-time temperature control, it’s engineered to deliver the effortless pull you love while preserving the smoothness and flavor of vapor.\n\nAim Higher. This is FLOW.\n\nWidened Airpath\nA redesigned airpath delivers up to six times the draw strength of previous models, unlocking richer flavors and greater potency through enhanced airflow. It offers the easy and familiar pull you love but paired with the smoothness that only vapor can provide.\n\nHybrid Heating System\nA completely reengineered, hybrid heating system delivers consistent vapor and exceptional efficiency with every session. By blending conduction and convection, the new oven intelligently adapts to your pack style and draw preferences. Whether you’re savoring a densely packed bowl or prefer a lighter pack for bigger hits, it ensures an even extraction of cannabinoids and terpenes while maximizing flavor.\n\nIntuitive Heat Modes\nSelect from five intuitive Heat Modes with patented, real-time temperature control that fine-tunes each session. Whether you want to sip it for maximum flavor or rip it in Bong mode, PAX FLOW delivers it all.\n\nEasy to Load. Easy to Clean\nThe side-mounted oven door detaches completely for a more convenient loading experience. A fully accessible airpath is easy to clean from the oven to the mouthpiece. You’ll spend less time scrubbing and more time enjoying.\n\nFast Charging with USB-C\nBe ready for every session with fast charging USB-C. Get to 100% in less than 40 minutes.",
+  "description_html": "<p>PAX set the standard for pocket-sized dry herb vaporizers over a decade ago. PAX FLOW is the most advanced device yet, delivering the perfect balance of performance and portability. With six times the draw strength of previous models and a new hybrid heating system with real-time temperature control, it’s engineered to deliver the effortless pull you love while preserving the smoothness and flavor of vapor.</p>\n<p>Aim Higher. This is FLOW.</p>\n<p><strong>Widened Airpath</strong><br />A redesigned airpath delivers up to six times the draw strength of previous models, unlocking richer flavors and greater potency through enhanced airflow. It offers the easy and familiar pull you love but paired with the smoothness that only vapor can provide.</p>\n<p><strong>Hybrid Heating System</strong><br />A completely reengineered, hybrid heating system delivers consistent vapor and exceptional efficiency with every session. By blending conduction and convection, the new oven intelligently adapts to your pack style and draw preferences. Whether you’re savoring a densely packed bowl or prefer a lighter pack for bigger hits, it ensures an even extraction of cannabinoids and terpenes while maximizing flavor. </p>\n<p><strong>Intuitive Heat Modes </strong><br />Select from five intuitive Heat Modes with patented, real-time temperature control that fine-tunes each session. Whether you want to sip it for maximum flavor or rip it in Bong mode, PAX FLOW delivers it all. </p>\n<p><strong>Easy to Load. Easy to Clean</strong><br />The side-mounted oven door detaches completely for a more convenient loading experience. A fully accessible airpath is easy to clean from the oven to the mouthpiece. You’ll spend less time scrubbing and more time enjoying.</p>\n<p><strong>Fast Charging with USB-C  </strong><br />Be ready for every session with fast charging USB-C. Get to 100% in less than 40 minutes.</p>\n<p class=\"pv-acc__item-name\">",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 403.75,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/pax-flow-portable-vaporizer-2/",
+  "attributes": {
+    "Color": [
+      "Onyx",
+      "Greenstone"
+    ]
+  },
+  "variations": [
+    {
+      "id": 5869,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Greenstone"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "herbal",
+      "slug": "herbal",
+      "url": "https://vapesshopaustralia.com/product-tag/herbal/"
+    },
+    {
+      "name": "PAX",
+      "slug": "pax",
+      "url": "https://vapesshopaustralia.com/product-tag/pax/"
+    },
+    {
+      "name": "Portable",
+      "slug": "portable",
+      "url": "https://vapesshopaustralia.com/product-tag/portable/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:04:48",
+  "date_modified": "2025-12-30T11:04:54",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/pax-flow-onyx.jpg",
+      "local_path": "categories/uncategorized/products/pax-flow-portable-vaporizer-2/images/01.jpg",
+      "alt": "import placeholder for 8331547967660"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/pax-flow-onyx-open.jpg",
+      "local_path": "categories/uncategorized/products/pax-flow-portable-vaporizer-2/images/02.jpg",
+      "alt": "pax flow portable vaporizer"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/pax-flow_greenstone_a2_open_parts_view_1.jpg",
+      "local_path": "categories/uncategorized/products/pax-flow-portable-vaporizer-2/images/03.jpg",
+      "alt": "pax flow portable vaporizer"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/pax-flow-portable-vaporizer-2"
+}

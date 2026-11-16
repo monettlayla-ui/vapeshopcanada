@@ -1,0 +1,127 @@
+{
+  "id": "relx-infinity-2-device",
+  "wp_id": 2185,
+  "title": "RELX Infinity 2 Device",
+  "description": "RELX Infinity 2 Device Kit\nThe RELX Infinity 2 offers the ultimate vaping experience with adjustable power modes—Eco, Smooth, and Boost. It charges to 80% in just 15 minutes, has extended battery life, and features a battery indicator. Compatible with RELX Pods, it provides endless flavor options to keep your vaping fresh and exciting.\n\nRELX Infinity 2 Key Features:\nBattery Capacity:440 mAh\nPod Capacity: 2mL\n1 Click to switch among 3-level modes (3-level modes ONLY work with RELX POD PRO 2):\nEco: 5.5W (light puff, battery saving)\nSmooth: 6.5W (smooth / original touch)\nBoost: 8W (satisfaction / richer taste / 15% more cloud)\nUltra Fast USB-C Charging\nRELX Infinity 2 Specifications:\nOutput Power: 5.5 ~ 8 W\nBattery Capacity: 440 mAh\nBattery Indicator: Yes\n\nPackage Contents\n1x RELX Infinity 2 Device\n1x USB-C Cable\n1x User Manual\nPods are not included in the package",
+  "description_html": "<p><strong>RELX Infinity 2 Device Kit</strong><br />The RELX Infinity 2 offers the ultimate vaping experience with adjustable power modes—Eco, Smooth, and Boost. It charges to 80% in just 15 minutes, has extended battery life, and features a battery indicator. Compatible with RELX Pods, it provides endless flavor options to keep your vaping fresh and exciting.</p>\n<p><strong>RELX Infinity 2 Key Features:</strong><br />Battery Capacity:440 mAh<br />Pod Capacity: 2mL<br />1 Click to switch among 3-level modes (3-level modes ONLY work with RELX POD PRO 2):<br />Eco: 5.5W (light puff, battery saving)<br />Smooth: 6.5W (smooth / original touch)<br />Boost: 8W (satisfaction / richer taste / 15% more cloud)<br />Ultra Fast USB-C Charging<br />RELX Infinity 2 Specifications:<br />Output Power: 5.5 ~ 8 W<br />Battery Capacity: 440 mAh<br />Battery Indicator: Yes</p>\n<p>Package Contents<br />1x RELX Infinity 2 Device<br />1x USB-C Cable<br />1x User Manual<br />Pods are not included in the package</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000007765",
+  "type": "variable",
+  "price": 19.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/relx-infinity-2-device/",
+  "attributes": {
+    "Color": [
+      "Black",
+      "Blue",
+      "Grey",
+      "Purple",
+      "Green Navy",
+      "Cherry Blossom"
+    ]
+  },
+  "variations": [
+    {
+      "id": 2186,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Blue"
+        }
+      ]
+    },
+    {
+      "id": 2187,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Grey"
+        }
+      ]
+    },
+    {
+      "id": 3003,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Purple"
+        }
+      ]
+    },
+    {
+      "id": 3004,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Green Navy"
+        }
+      ]
+    },
+    {
+      "id": 3005,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Cherry Blossom"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "close-pod",
+      "slug": "close-pod",
+      "url": "https://vapesshopaustralia.com/product-tag/close-pod/"
+    },
+    {
+      "name": "q3-2024",
+      "slug": "q3-2024",
+      "url": "https://vapesshopaustralia.com/product-tag/q3-2024/"
+    },
+    {
+      "name": "relx",
+      "slug": "relx",
+      "url": "https://vapesshopaustralia.com/product-tag/relx/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:02:32",
+  "date_modified": "2025-12-30T07:16:22",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/relx_infinity_2_device_kit_royal_indigo_1.png",
+      "local_path": "categories/uncategorized/products/relx-infinity-2-device/images/01.png",
+      "alt": "import placeholder for 8931804741872"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/relx_infinity_2_device_kit_obsidian_black_1.png",
+      "local_path": "categories/uncategorized/products/relx-infinity-2-device/images/02.png",
+      "alt": "relx infinity 2 device"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/relx_infinity_2_device_kit_dark_asteroid_1.png",
+      "local_path": "categories/uncategorized/products/relx-infinity-2-device/images/03.png",
+      "alt": "relx infinity 2 device"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/relx_infinity_2_device_kit_blue_bay_1.png",
+      "local_path": "categories/uncategorized/products/relx-infinity-2-device/images/04.png",
+      "alt": "relx infinity 2 device"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/relx-infinity-2-device"
+}

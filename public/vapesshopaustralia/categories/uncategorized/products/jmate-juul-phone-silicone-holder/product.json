@@ -1,0 +1,68 @@
+{
+  "id": "jmate-juul-phone-silicone-holder",
+  "wp_id": 1890,
+  "title": "JMate – JUUL Phone Silicone Holder",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000004058",
+  "type": "simple",
+  "price": 3.75,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/jmate-juul-phone-silicone-holder/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "case",
+      "slug": "case",
+      "url": "https://vapesshopaustralia.com/product-tag/case/"
+    },
+    {
+      "name": "holder",
+      "slug": "holder",
+      "url": "https://vapesshopaustralia.com/product-tag/holder/"
+    },
+    {
+      "name": "juul",
+      "slug": "juul",
+      "url": "https://vapesshopaustralia.com/product-tag/juul/"
+    },
+    {
+      "name": "phone",
+      "slug": "phone",
+      "url": "https://vapesshopaustralia.com/product-tag/phone/"
+    },
+    {
+      "name": "silicon",
+      "slug": "silicon",
+      "url": "https://vapesshopaustralia.com/product-tag/silicon/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:13:22",
+  "date_modified": "2025-12-30T07:02:18",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/f19446cbe7c8604ab1ffd8921d6b0d26.jpg",
+      "local_path": "categories/uncategorized/products/jmate-juul-phone-silicone-holder/images/01.jpg",
+      "alt": "import placeholder for 3632087072848"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/jmate-juul-phone-silicone-holder"
+}

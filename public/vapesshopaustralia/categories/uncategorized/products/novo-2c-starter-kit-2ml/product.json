@@ -1,0 +1,170 @@
+{
+  "id": "novo-2c-starter-kit-2ml",
+  "wp_id": 3156,
+  "title": "Novo 2C Starter Kit – 2ml",
+  "description": "SMOK NOVO 2C KIT\n\nThe SMOK NOVO 2C KIT features an internal 800mAh battery, capable of delivering power in the range of 5W to 30W. The kit comes with a SMOK NOVO 2X REPLACEMENT POD-0.8OHM, with a 2ml e-juice capacity and a convenient top filling system. The clear e-liquid window allows you to keep an eye on your juice level, while the draw-activated firing mechanism provides a simple and seamless vaping experience. The device is made of durable zinc-alloy construction and has a magnetic connection, the LED Indicator Light provides important information on the device’s battery life and operating status.\n\nFeatures：\nBattery Capacity: 800mAh\nInput Voltage: 3.5V-4.2V\nResistance Range: 0.6ohm-2.5ohm\nFor MTL Vapers\nAnti-Leak Construction\nPlug-n-play coil installation\nSupports Freebase and Nicotine Salt E-Liquid\n2mL E-Liquid Capacity\n\nParameters:\nSize: 95.5*24.5*14.5mm\nCapacity: 2ml\nResistance: 0.8OHM\nBattery: 800mah\n\nIncludes:\n1 x SMOK NOVO 2C KIT Device (800mAh)\n1 x SMOK NOVO 2X REPLACEMENT POD-0.8OHM\n1 x Lanyard\n1 x Type-C Cable\n1 x User Manual",
+  "description_html": "<p><strong>SMOK NOVO 2C KIT</strong></p>\n<p>The SMOK NOVO 2C KIT features an internal 800mAh battery, capable of delivering power in the range of 5W to 30W. The kit comes with a SMOK NOVO 2X REPLACEMENT POD-0.8OHM, with a 2ml e-juice capacity and a convenient top filling system. The clear e-liquid window allows you to keep an eye on your juice level, while the draw-activated firing mechanism provides a simple and seamless vaping experience. The device is made of durable zinc-alloy construction and has a magnetic connection, the LED Indicator Light provides important information on the device&#8217;s battery life and operating status. </p>\n<p><strong>Features：</strong><br />Battery Capacity: 800mAh<br />Input Voltage: 3.5V-4.2V<br />Resistance Range: 0.6ohm-2.5ohm<br />For MTL Vapers<br />Anti-Leak Construction<br />Plug-n-play coil installation<br />Supports Freebase and Nicotine Salt E-Liquid<br />2mL E-Liquid Capacity</p>\n<p><strong>Parameters:</strong><br />Size: 95.5*24.5*14.5mm<br />Capacity: 2ml<br />Resistance: 0.8OHM<br />Battery: 800mah</p>\n<p><strong>Includes:</strong><br />1 x SMOK NOVO 2C KIT Device (800mAh)<br />1 x SMOK NOVO 2X REPLACEMENT POD-0.8OHM<br />1 x Lanyard<br />1 x Type-C Cable<br />1 x User Manual</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000007084",
+  "type": "variable",
+  "price": 19.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/novo-2c-starter-kit-2ml/",
+  "attributes": {
+    "Color": [
+      "Black",
+      "Grey",
+      "Orange",
+      "Pale Green",
+      "Rose Gold",
+      "Silver"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3157,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Grey"
+        }
+      ]
+    },
+    {
+      "id": 3193,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Orange"
+        }
+      ]
+    },
+    {
+      "id": 3194,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Pale Green"
+        }
+      ]
+    },
+    {
+      "id": 3195,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Rose Gold"
+        }
+      ]
+    },
+    {
+      "id": 3196,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Silver"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "2ml",
+      "slug": "2ml",
+      "url": "https://vapesshopaustralia.com/product-tag/2ml/"
+    },
+    {
+      "name": "all-in-one",
+      "slug": "all-in-one",
+      "url": "https://vapesshopaustralia.com/product-tag/all-in-one/"
+    },
+    {
+      "name": "bc-compliant",
+      "slug": "bc-compliant",
+      "url": "https://vapesshopaustralia.com/product-tag/bc-compliant/"
+    },
+    {
+      "name": "crc",
+      "slug": "crc",
+      "url": "https://vapesshopaustralia.com/product-tag/crc/"
+    },
+    {
+      "name": "novo",
+      "slug": "novo",
+      "url": "https://vapesshopaustralia.com/product-tag/novo/"
+    },
+    {
+      "name": "pod",
+      "slug": "pod",
+      "url": "https://vapesshopaustralia.com/product-tag/pod/"
+    },
+    {
+      "name": "q2-2023",
+      "slug": "q2-2023",
+      "url": "https://vapesshopaustralia.com/product-tag/q2-2023/"
+    },
+    {
+      "name": "type-c",
+      "slug": "type-c",
+      "url": "https://vapesshopaustralia.com/product-tag/type-c/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:17:03",
+  "date_modified": "2025-12-30T07:19:50",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Novo_2C_Silver.jpg",
+      "local_path": "categories/uncategorized/products/novo-2c-starter-kit-2ml/images/01.jpg",
+      "alt": "import placeholder for 8254911742192"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Novo_2C_Rose.jpg",
+      "local_path": "categories/uncategorized/products/novo-2c-starter-kit-2ml/images/02.jpg",
+      "alt": "novo 2c starter kit 2ml"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Novo_2C_Pale_Green.jpg",
+      "local_path": "categories/uncategorized/products/novo-2c-starter-kit-2ml/images/03.jpg",
+      "alt": "novo 2c starter kit 2ml"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Novo_2C_Orange.jpg",
+      "local_path": "categories/uncategorized/products/novo-2c-starter-kit-2ml/images/04.jpg",
+      "alt": "novo 2c starter kit 2ml"
+    },
+    {
+      "position": 5,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Novo_2C_Grey.jpg",
+      "local_path": "categories/uncategorized/products/novo-2c-starter-kit-2ml/images/05.jpg",
+      "alt": "novo 2c starter kit 2ml"
+    },
+    {
+      "position": 6,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Novo_2C_Black.jpg",
+      "local_path": "categories/uncategorized/products/novo-2c-starter-kit-2ml/images/06.jpg",
+      "alt": "novo 2c starter kit 2ml"
+    },
+    {
+      "position": 7,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Novo_2C_Lineup.jpg",
+      "local_path": "categories/uncategorized/products/novo-2c-starter-kit-2ml/images/07.jpg",
+      "alt": "novo 2c starter kit 2ml"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/novo-2c-starter-kit-2ml"
+}

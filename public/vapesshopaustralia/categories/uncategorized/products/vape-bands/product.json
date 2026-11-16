@@ -1,0 +1,64 @@
+{
+  "id": "vape-bands",
+  "wp_id": 1856,
+  "title": "Vape Bands",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 1.5,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/vape-bands/",
+  "attributes": {
+    "Color": [
+      "Assorted",
+      "Thunderbird"
+    ]
+  },
+  "variations": [
+    {
+      "id": 1857,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Thunderbird"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "band",
+      "slug": "band",
+      "url": "https://vapesshopaustralia.com/product-tag/band/"
+    },
+    {
+      "name": "glass",
+      "slug": "glass",
+      "url": "https://vapesshopaustralia.com/product-tag/glass/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:12:56",
+  "date_modified": "2025-12-29T21:13:43",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/7734aa4d2adeb00ca012a5a81a3a3795.jpg",
+      "local_path": "categories/uncategorized/products/vape-bands/images/01.jpg",
+      "alt": "import placeholder for 4480078151760"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/vape-bands"
+}

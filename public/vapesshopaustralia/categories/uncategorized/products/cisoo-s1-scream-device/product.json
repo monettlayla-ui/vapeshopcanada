@@ -1,0 +1,94 @@
+{
+  "id": "cisoo-s1-scream-device",
+  "wp_id": 4512,
+  "title": "Cisoo S1 Scream Device",
+  "description": "The CISOO S1 Scream Pod Kit may look like the early EGO style vape pens, but this sleek little vape is fully updated!\n\nPre-filled CISOO Pods sold separately.",
+  "description_html": "<p><span data-mce-fragment=\"1\">The CISOO S1 Scream Pod Kit may look like the early EGO style vape pens, but this sleek little vape is fully updated! </span><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">Pre-filled <a href=\"https://www.thunderbirdvapes.com/collections/cisoo\" title=\"CISOO pre-filled pods &amp; Kits\">CISOO Pods</a> sold separately.</span></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000005816",
+  "type": "variable",
+  "price": 10.0,
+  "sale_price": 3.99,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/cisoo-s1-scream-device/",
+  "attributes": {
+    "Color": [
+      "Yellow",
+      "Black",
+      "Pink",
+      "White",
+      "Blue"
+    ]
+  },
+  "variations": [
+    {
+      "id": 4515,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Black"
+        }
+      ]
+    },
+    {
+      "id": 4518,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Pink"
+        }
+      ]
+    },
+    {
+      "id": 4520,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "White"
+        }
+      ]
+    },
+    {
+      "id": 4523,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Blue"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "cisoo",
+      "slug": "cisoo",
+      "url": "https://vapesshopaustralia.com/product-tag/cisoo/"
+    },
+    {
+      "name": "close-pod",
+      "slug": "close-pod",
+      "url": "https://vapesshopaustralia.com/product-tag/close-pod/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:25:31",
+  "date_modified": "2025-12-30T10:26:20",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Cisoo_S1_Scream_Device.jpg",
+      "local_path": "categories/uncategorized/products/cisoo-s1-scream-device/images/01.jpg",
+      "alt": "import placeholder for 6908464922797"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/cisoo-s1-scream-device"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "arizer-solo-car-charger",
+  "wp_id": 5554,
+  "title": "Arizer Solo Car Charger",
+  "description": "Arizer Solo Car Charger\n\nCharge your Solo battery while on the go.",
+  "description_html": "<p>Arizer Solo Car Charger</p>\n<p> Charge your Solo battery while on the go.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 24.95,
+  "sale_price": 15.95,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/arizer-solo-car-charger/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Arizer",
+      "slug": "arizer",
+      "url": "https://vapesshopaustralia.com/product-tag/arizer/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "stamped-recommend-collection-155157255",
+      "slug": "stamped-recommend-collection-155157255",
+      "url": "https://vapesshopaustralia.com/product-tag/stamped-recommend-collection-155157255/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:59:53",
+  "date_modified": "2025-12-30T11:00:05",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/F-soloCarCharger.png",
+      "local_path": "categories/uncategorized/products/arizer-solo-car-charger/images/01.png",
+      "alt": "import placeholder for 183922409"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/arizer_solo_car_charger_main.jpg",
+      "local_path": "categories/uncategorized/products/arizer-solo-car-charger/images/02.jpg",
+      "alt": "arizer solo car charger"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/arizer-solo-car-charger"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "b-smart-slim-twist-510-pen",
+  "wp_id": 1775,
+  "title": "B-Smart Slim Twist 510 Pen",
+  "description": "The Yocan B-Smart Battery is a small and compact 510-threaded vaporizer battery that accommodates a wide variety of 510-threaded attachments allowing you to enjoy a wide array of cartridges and atomizers that’ll suit your style and needs. It’s a compact companion you can take almost wherever you may go. This battery is its variable voltage settings. You can enjoy temperature profiles from 2.0 volts to 4.0 volts.\n\nFeatures & Specifications\n\n- Heat-up Time: 10s\n\n- Size: 86 x 11 mm\n\n- Battery Capacity: 320 mAh\n\n- Output Voltage: 2V – 4V\n\nPackage Contents\n\n- 1x Yocan B-Smart Battery\n\n- 1x 510 Thread Charger",
+  "description_html": "<div class=\"data item content\" aria-labelledby=\"tab-label-description\" id=\"description\" data-role=\"content\" role=\"tabpanel\" aria-hidden=\"false\" data-mce-fragment=\"1\">\n<div class=\"product attribute description\" data-mce-fragment=\"1\">\n<div class=\"value\" data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">The Yocan B-Smart Battery is a small and compact 510-threaded vaporizer battery that accommodates a wide variety of 510-threaded attachments allowing you to enjoy a wide array of cartridges and atomizers that&#8217;ll suit your style and needs. It&#8217;s a compact companion you can take almost wherever you may go. This battery is its variable voltage settings. You can enjoy temperature profiles from 2.0 volts to 4.0 volts.</p>\n<p data-mce-fragment=\"1\"></p>\n<div class=\"font_description_subheader\" data-mce-fragment=\"1\">Features &amp; Specifications</div>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\">Heat-up Time: 10s</li>\n<li data-mce-fragment=\"1\">Size: 86 x 11 mm</li>\n<li data-mce-fragment=\"1\">Battery Capacity: 320 mAh</li>\n<li data-mce-fragment=\"1\">Output Voltage: 2V &#8211; 4V</li>\n</ul>\n<div class=\"font_description_subheader\" data-mce-fragment=\"1\">Package Contents</div>\n<ul data-mce-fragment=\"1\">\n<li data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">1x</strong><span data-mce-fragment=\"1\"> </span>Yocan B-Smart Battery</li>\n<li data-mce-fragment=\"1\"> <strong data-mce-fragment=\"1\">1x</strong><span data-mce-fragment=\"1\"> </span>510 Thread Charger</li>\n</ul></div>\n</p></div>\n</p></div>\n<div class=\"data item title\" data-role=\"collapsible\" id=\"tab-label-additional\" role=\"tab\" data-collapsible=\"true\" aria-controls=\"additional\" aria-expanded=\"false\" data-mce-fragment=\"1\" data-mce-tabindex=\"0\"></div>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000005693",
+  "type": "variable",
+  "price": 14.99,
+  "sale_price": 12.99,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/b-smart-slim-twist-510-pen/",
+  "attributes": {
+    "Color": [
+      "Silver",
+      "Black"
+    ]
+  },
+  "variations": [
+    {
+      "id": 1776,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Black"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    },
+    {
+      "name": "preheat-mode",
+      "slug": "preheat-mode",
+      "url": "https://vapesshopaustralia.com/product-tag/preheat-mode/"
+    },
+    {
+      "name": "variable-voltage",
+      "slug": "variable-voltage",
+      "url": "https://vapesshopaustralia.com/product-tag/variable-voltage/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:11:19",
+  "date_modified": "2025-12-29T21:12:53",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Yocan_B-Smart_Slim_Twist_510_Battery_Black.jpg",
+      "local_path": "categories/uncategorized/products/b-smart-slim-twist-510-pen/images/01.jpg",
+      "alt": "import placeholder for 6804214907053"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Yocan_B-Smart_Slim_Twist_510_Battery_Silver.jpg",
+      "local_path": "categories/uncategorized/products/b-smart-slim-twist-510-pen/images/02.jpg",
+      "alt": "b smart slim twist 510 pen"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/b-smart-slim-twist-510-pen"
+}

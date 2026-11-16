@@ -1,0 +1,53 @@
+{
+  "id": "davinci-iq-18650-battery-2",
+  "wp_id": 5050,
+  "title": "DaVinci IQ 18650 Battery",
+  "description": "18650 3000 Mah, 3.7volt, 11.10wh, flat top replacement battery.\n\nCompatible with IQ2, IQC, IQ and Limited Carbon Fiber Edition Vaporizers.",
+  "description_html": "<p>18650 3000 Mah, 3.7volt, 11.10wh, flat top replacement battery.</p>\n<p>Compatible with IQ2, IQC, IQ and Limited Carbon Fiber Edition Vaporizers.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 18.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/davinci-iq-18650-battery-2/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "battery",
+      "slug": "battery",
+      "url": "https://vapesshopaustralia.com/product-tag/battery/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:57:41",
+  "date_modified": "2025-12-30T10:57:44",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/davinci-iq-18650-battery.jpg",
+      "local_path": "categories/uncategorized/products/davinci-iq-18650-battery-2/images/01.jpg",
+      "alt": "import placeholder for 8095222399148"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/davinci-iq-18650-battery-2"
+}

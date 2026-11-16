@@ -1,0 +1,22 @@
+{
+  "id": "snuff-dip-tobacco",
+  "wp_id": 353,
+  "name": "Snuff & Dip Tobacco",
+  "description": null,
+  "url": "https://vapesshopaustralia.com/product-category/snuff-dip-tobacco/",
+  "parent_id": null,
+  "parent_slug": null,
+  "product_count_reported": 8,
+  "product_count_scraped": 8,
+  "image": null,
+  "products": [
+    "creek-wintergreen-fine-cut-1-2oz-2",
+    "creek-natural-1-2oz-fine-cut-2",
+    "copenhagen-snuff-2",
+    "copenhagen-southern-blend-1-2oz",
+    "copenhagen-natural-extra-long-cut",
+    "copenhagen-mint-long-cut",
+    "copenhagen-long-cut-1-2oz",
+    "grizzly-wide-cut-wintergreen-chewing-tobacco"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "utillian-5-wax-replacement-coils-2-pack",
+  "wp_id": 4879,
+  "title": "Utillian 5 Wax replacement coils – 2 pack",
+  "description": "NO USA SHIPPING, CANADA ONLY\n\nThe Utillian 5 replacement coil pack comes in 2 configurations: Triple Titanium or Twisted Kanthal. Both utilize black ceramic and come with 2 replacement coils per pack. These coils are identical to the ones you originally received with your Utillian 5 and should be replaced when you notice the flavor of your vapor degrade.",
+  "description_html": "<p><strong>NO USA SHIPPING, CANADA ONLY</strong></p>\n<p>The Utillian 5 replacement coil pack comes in 2 configurations: Triple Titanium or Twisted Kanthal. Both utilize black ceramic and come with 2 replacement coils per pack. These coils are identical to the ones you originally received with your Utillian 5 and should be replaced when you notice the flavor of your vapor degrade.</p>\n<p> </p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/utillian-5-wax-replacement-coils-2-pack/",
+  "attributes": {
+    "Type": [
+      "Twisted Kanthal",
+      "Triple Titanium"
+    ]
+  },
+  "variations": [
+    {
+      "id": 4880,
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "Triple Titanium"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Atomizers / Coils",
+      "slug": "atomizers-coils",
+      "url": "https://vapesshopaustralia.com/product-tag/atomizers-coils/"
+    },
+    {
+      "name": "Utillian",
+      "slug": "utillian",
+      "url": "https://vapesshopaustralia.com/product-tag/utillian/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:27:12",
+  "date_modified": "2025-12-30T10:27:28",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/utillian5-coil-tita.jpg",
+      "local_path": "categories/uncategorized/products/utillian-5-wax-replacement-coils-2-pack/images/01.jpg",
+      "alt": "import placeholder for 2268200206387"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/utillian5-coil-twisted.jpg",
+      "local_path": "categories/uncategorized/products/utillian-5-wax-replacement-coils-2-pack/images/02.jpg",
+      "alt": "utillian 5 wax replacement coils 2 pack"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/utillian-5-wax-replacement-coils-2-pack"
+}

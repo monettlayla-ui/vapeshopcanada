@@ -1,0 +1,44 @@
+{
+  "id": "waka-smash-pomegranate-pop-6000-puffs",
+  "wp_id": 8452,
+  "title": "WAKA SMASH POMEGRANATE POP – 6000 PUFFS",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 50.0,
+  "sale_price": 30.0,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/waka-smash-pomegranate-pop-6000-puffs/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:33:37",
+  "date_modified": "2025-12-30T19:45:34",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/waka-smash-pomergrante-pop.webp",
+      "local_path": "categories/waka-smash-6000/products/waka-smash-pomegranate-pop-6000-puffs/images/01.webp",
+      "alt": "import placeholder for 66966"
+    }
+  ],
+  "categories": [
+    {
+      "name": "WAKA SMASH 6000",
+      "slug": "waka-smash-6000",
+      "url": "https://vapesshopaustralia.com/product-category/waka-smash-6000/"
+    }
+  ],
+  "stored_in": "categories/waka-smash-6000/products/waka-smash-pomegranate-pop-6000-puffs"
+}

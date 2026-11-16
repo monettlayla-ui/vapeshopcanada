@@ -1,0 +1,64 @@
+{
+  "id": "tronian-omegatron-glass-core-heating-element-pack-2",
+  "wp_id": 4733,
+  "title": "Tronian Omegatron Glass Core Heating Element Pack",
+  "description": "The Tronian Omegatron Glass Core Heating Element is meticulously engineered for the Vapor Cup Omegatron. The Glass Core is a more efficient heating element when compared to the commonly used triple coil heating elements found on most Vapor Cups.\n\nPackage Contents:\n2x Tronian Omegatron Glass Core Heating Element",
+  "description_html": "<p>The Tronian Omegatron Glass Core Heating Element is meticulously engineered for the Vapor Cup Omegatron. The Glass Core is a more efficient heating element when compared to the commonly used triple coil heating elements found on most Vapor Cups.<br /> <br /><strong>Package Contents:</strong><br />    2x Tronian Omegatron Glass Core Heating Element</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 34.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/tronian-omegatron-glass-core-heating-element-pack-2/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Atomizers / Coils",
+      "slug": "atomizers-coils",
+      "url": "https://vapesshopaustralia.com/product-tag/atomizers-coils/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "Tronian",
+      "slug": "tronian",
+      "url": "https://vapesshopaustralia.com/product-tag/tronian/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:26:35",
+  "date_modified": "2025-12-30T10:26:38",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/tronian-omegatron-glasselement.jpg",
+      "local_path": "categories/uncategorized/products/tronian-omegatron-glass-core-heating-element-pack-2/images/01.jpg",
+      "alt": "import placeholder for 7692534710444"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/tronian-omegatron-glasselement-top.jpg",
+      "local_path": "categories/uncategorized/products/tronian-omegatron-glass-core-heating-element-pack-2/images/02.jpg",
+      "alt": "tronian omegatron glass core heating element pack"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/tronian-omegatron-glass-core-heating-element-pack-2"
+}

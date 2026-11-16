@@ -1,0 +1,44 @@
+{
+  "id": "killa-watermelon",
+  "wp_id": 8279,
+  "title": "KILLA – Watermelon",
+  "description": "Killa Dry Watermelon just an awesome product with the taste of fresh watermelon.\n\nIt guarantees a tropical buzz and a slightly dry, pleasant aftertaste.\n\nOne of the Killa family’s most unique nicotine pouches\n\nPortion size: 0,7g\nNicotine: 16 mg/1gram\nNicotine per portion: 11.2 mg\nPortions per can: 20 pc.",
+  "description_html": "<p><strong>Killa Dry Watermelon</strong> just an awesome product with the taste of fresh watermelon.</p>\n<p>It guarantees a tropical buzz and a slightly dry, pleasant aftertaste.</p>\n<p>One of the Killa family’s most unique nicotine pouches</p>\n<p>Portion size: <strong>0,7g</strong><br /> Nicotine: <strong>16 mg/1gram</strong><br /> Nicotine per portion: <strong>11.2 mg</strong><br /> Portions per can: <strong>20 pc.</strong></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 25.0,
+  "sale_price": 20.0,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/killa-watermelon/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:32:28",
+  "date_modified": "2025-12-30T19:46:30",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Killa-Watermelon-.jpg",
+      "local_path": "categories/killa/products/killa-watermelon/images/01.jpg",
+      "alt": "import placeholder for 67962"
+    }
+  ],
+  "categories": [
+    {
+      "name": "KILLA",
+      "slug": "killa",
+      "url": "https://vapesshopaustralia.com/product-category/killa/"
+    }
+  ],
+  "stored_in": "categories/killa/products/killa-watermelon"
+}

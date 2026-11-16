@@ -1,0 +1,117 @@
+{
+  "id": "xros-4-nano-kit-2ml",
+  "wp_id": 3151,
+  "title": "XROS 4 Nano Kit – 2ml",
+  "description": "Vaporesso XROS 4 NANO — With the largest battery in the Xros Family, is the first XROS to feature a 1.3” TFT color screen. It offers a 1350 mAh battery, 2A fast charging, button operation, and adjustable airflow all in one device. COREX 2.0 technology in the 0.4-ohm pod provides richer flavor and longer pod life, supported by the stable Axon chip. It is fully compatible with all XROS pods.\n\nKey Features:\n\n- Largest battery in the Xros Family with 1350 mAh capacity\n\n- First XROS device featuring a 1.3” TFT color screen\n\n- 2A fast charging for quick power-ups\n\n- Button operation for easy control\n\n- Adjustable airflow for a customizable experience\n\n- COREX 2.0 technology in the 0.4-ohm pod for richer flavor and longer pod life\n\n- Powered by the stable Axon chip\n\n- Fully compatible with all XROS pods\n\nSpecifications:\nDimensions: 55.3 x 20.9 x 79.9mm\nBattery: 1350mAh\nOutput Power: 30W MAX\nCharging Current: Type-C, 2A\nLarge, easy-to-read 1.3” TFT color screen\n2mL pod capacity (3mL pod is available for purchase separately)\nFully compatible with all XROS pods\n\nPackage Contents:\n1x VAPORESSO XROS 4 NANO Battery\n1x VAPORESSO XROS Series 0.4Ω MESH POD (Pre-install)\n1x VAPORESSO XROS Series 0.8Ω MESH POD (In-box)\n1x TYPE-C Cable\n1x User Manual & Warranty Card\n1x Lanyard",
+  "description_html": "<p><strong>Vaporesso XROS 4 NANO</strong> — With the largest battery in the Xros Family, is the first XROS to feature a 1.3&#8221; TFT color screen. It offers a 1350 mAh battery, 2A fast charging, button operation, and adjustable airflow all in one device. COREX 2.0 technology in the 0.4-ohm pod provides richer flavor and longer pod life, supported by the stable Axon chip. It is fully compatible with all XROS pods.<br /> </p>\n<p><strong>Key Features:</strong></p>\n<ul>\n<li>Largest battery in the Xros Family with 1350 mAh capacity</li>\n<li>First XROS device featuring a 1.3&#8221; TFT color screen</li>\n<li>2A fast charging for quick power-ups</li>\n<li>Button operation for easy control</li>\n<li>Adjustable airflow for a customizable experience</li>\n<li>COREX 2.0 technology in the 0.4-ohm pod for richer flavor and longer pod life</li>\n<li>Powered by the stable Axon chip</li>\n<li>Fully compatible with all XROS pods</li>\n</ul>\n<p><strong>Specifications:</strong><br />Dimensions: 55.3 x 20.9 x 79.9mm<br />Battery: 1350mAh<br />Output Power: 30W MAX<br />Charging Current: Type-C, 2A<br />Large, easy-to-read 1.3&#8221; TFT color screen<br />2mL pod capacity (3mL pod is available for purchase separately)<br />Fully compatible with all XROS pods</p>\n<p><strong>Package Contents:</strong><br />1x VAPORESSO XROS 4 NANO Battery<br />1x VAPORESSO XROS Series 0.4Ω MESH POD (Pre-install)<br />1x VAPORESSO XROS Series 0.8Ω MESH POD (In-box)<br />1x TYPE-C Cable<br />1x User Manual &amp; Warranty Card<br />1x Lanyard</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000007834",
+  "type": "variable",
+  "price": 43.99,
+  "sale_price": 38.99,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/xros-4-nano-kit-2ml/",
+  "attributes": {
+    "Color": [
+      "Graphite Black",
+      "Aquamarine",
+      "Titanium Silver",
+      "Twilight Purple"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3153,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Aquamarine"
+        }
+      ]
+    },
+    {
+      "id": 3154,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Titanium Silver"
+        }
+      ]
+    },
+    {
+      "id": 3155,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Twilight Purple"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "all-in-one",
+      "slug": "all-in-one",
+      "url": "https://vapesshopaustralia.com/product-tag/all-in-one/"
+    },
+    {
+      "name": "clearance",
+      "slug": "clearance",
+      "url": "https://vapesshopaustralia.com/product-tag/clearance/"
+    },
+    {
+      "name": "open-pod",
+      "slug": "open-pod",
+      "url": "https://vapesshopaustralia.com/product-tag/open-pod/"
+    },
+    {
+      "name": "q3-2024",
+      "slug": "q3-2024",
+      "url": "https://vapesshopaustralia.com/product-tag/q3-2024/"
+    },
+    {
+      "name": "xros-pod",
+      "slug": "xros-pod",
+      "url": "https://vapesshopaustralia.com/product-tag/xros-pod/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:17:02",
+  "date_modified": "2025-12-30T07:19:50",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/xros_4_nano_aquamarine_1.jpg",
+      "local_path": "categories/uncategorized/products/xros-4-nano-kit-2ml/images/01.jpg",
+      "alt": "import placeholder for 9013785034992"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/xros_4_nano_graphite_black_1.jpg",
+      "local_path": "categories/uncategorized/products/xros-4-nano-kit-2ml/images/02.jpg",
+      "alt": "xros 4 nano kit 2ml"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/xros_4_nano_titanium_silver_1.jpg",
+      "local_path": "categories/uncategorized/products/xros-4-nano-kit-2ml/images/03.jpg",
+      "alt": "xros 4 nano kit 2ml"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/xros_4_nano_twilight_purple_1.jpg",
+      "local_path": "categories/uncategorized/products/xros-4-nano-kit-2ml/images/04.jpg",
+      "alt": "xros 4 nano kit 2ml"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/xros-4-nano-kit-2ml"
+}

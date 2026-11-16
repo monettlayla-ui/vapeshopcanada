@@ -1,0 +1,70 @@
+{
+  "id": "davinci-miqro-mouthpiece-extended-flat-2",
+  "wp_id": 5062,
+  "title": "DaVinci MIQRO Mouthpiece – Extended & Flat",
+  "description": "Replacement mouthpiece for Davinci Miqro\n\nTwo types available:\nFlat Mouthpiece: Having a spare, clean flat mouthpiece does come in handy. Made out of 100% zirconium ceramic, this mouthpiece allows you to draw the purest flavor on every session.\n\nExtended Mouthpiece: This extended mouthpiece is designed with purity and discretion in mind, and is made of 100% zirconium ceramic, which is 20x stronger than glass. It can also double as a 10mm water adapter. Be sure to pick up an extra set to always have a clean one ready to go.",
+  "description_html": "<p>Replacement mouthpiece for Davinci Miqro</p>\n<p>Two types available:<br /><strong>Flat Mouthpiece:</strong> Having a spare, clean flat mouthpiece does come in handy. Made out of 100% zirconium ceramic, this mouthpiece allows you to draw the purest flavor on every session.</p>\n<p><strong>Extended Mouthpiece:</strong> This extended mouthpiece is designed with purity and discretion in mind, and is made of 100% zirconium ceramic, which is 20x stronger than glass. It can also double as a 10mm water adapter. Be sure to pick up an extra set to always have a clean one ready to go.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 13.95,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/davinci-miqro-mouthpiece-extended-flat-2/",
+  "attributes": {
+    "Type": [
+      "Flat",
+      "Extended"
+    ]
+  },
+  "variations": [
+    {
+      "id": 5063,
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "Extended"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "mouthpiece",
+      "slug": "mouthpiece",
+      "url": "https://vapesshopaustralia.com/product-tag/mouthpiece/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:57:42",
+  "date_modified": "2025-12-30T10:57:47",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/davinci-miqro-flatmp.jpg",
+      "local_path": "categories/uncategorized/products/davinci-miqro-mouthpiece-extended-flat-2/images/01.jpg",
+      "alt": "import placeholder for 4473829589128"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/davinci-miqro-extmp.png",
+      "local_path": "categories/uncategorized/products/davinci-miqro-mouthpiece-extended-flat-2/images/02.png",
+      "alt": "davinci miqro mouthpiece extended & flat"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/davinci-miqro-mouthpiece-extended-flat-2"
+}

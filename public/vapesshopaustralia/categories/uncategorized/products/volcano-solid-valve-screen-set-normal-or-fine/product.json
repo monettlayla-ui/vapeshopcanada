@@ -1,0 +1,85 @@
+{
+  "id": "volcano-solid-valve-screen-set-normal-or-fine",
+  "wp_id": 2552,
+  "title": "Volcano Solid Valve Screen Set – Normal or Fine",
+  "description": "Enhance your vaping experience with the premium Volcano Solid Valve Screen Set, available in Normal or Fine mesh options. This essential accessory kit includes three upper screens with a precise hole for improved airflow, and three lower screens designed seamlessly without a hole, ensuring a consistent and smooth draw. Each stainless steel screen, measuring 24 mm and 26 mm in diameter respectively, offers durability and high resistance against wear and tear.\n\nIncluded in the set are a sturdy washer and a nut, providing everything needed for a secure fit in your Volcano vaporizer’s solid valve filling chamber. Whether you prefer the fine screen set for a more refined vapor or the normal screen set for robust flavor, this product adapts to your needs, ensuring optimal performance.\n\nCompatible with both the Volcano Solid Valve and Easy Valve systems, this screen set is a versatile upgrade or replacement, guaranteeing that each session is pure and satisfying. Ideal for users of the Storz & Bickel Volcano, including the Hybrid and Plenty models, who value precision engineering and ultimate reliability in their vaping equipment.",
+  "description_html": "<p dir=\"ltr\"><span>Enhance your vaping experience with the premium Volcano Solid Valve Screen Set, available in Normal or Fine mesh options. This essential accessory kit includes three upper screens with a precise hole for improved airflow, and three lower screens designed seamlessly without a hole, ensuring a consistent and smooth draw. Each stainless steel screen, measuring 24 mm and 26 mm in diameter respectively, offers durability and high resistance against wear and tear.</span></p>\n<p dir=\"ltr\"><span>Included in the set are a sturdy washer and a nut, providing everything needed for a secure fit in your Volcano vaporizer&#8217;s solid valve filling chamber. Whether you prefer the fine screen set for a more refined vapor or the normal screen set for robust flavor, this product adapts to your needs, ensuring optimal performance.</span></p>\n<p dir=\"ltr\"><span>Compatible with both the Volcano Solid Valve and Easy Valve systems, this screen set is a versatile upgrade or replacement, guaranteeing that each session is pure and satisfying. Ideal for users of the Storz &amp; Bickel Volcano, including the Hybrid and Plenty models, who value precision engineering and ultimate reliability in their vaping equipment.</span></p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 9.95,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/volcano-solid-valve-screen-set-normal-or-fine/",
+  "attributes": {
+    "Style": [
+      "Normal",
+      "Fine"
+    ]
+  },
+  "variations": [
+    {
+      "id": 2553,
+      "attributes": [
+        {
+          "name": "Style",
+          "value": "Fine"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "Screens",
+      "slug": "screens",
+      "url": "https://vapesshopaustralia.com/product-tag/screens/"
+    },
+    {
+      "name": "Storz &amp; Bickel",
+      "slug": "storz-bickel",
+      "url": "https://vapesshopaustralia.com/product-tag/storz-bickel/"
+    },
+    {
+      "name": "Volcano",
+      "slug": "volcano",
+      "url": "https://vapesshopaustralia.com/product-tag/volcano/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:10:00",
+  "date_modified": "2025-12-30T07:11:19",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/volc-normalscreen.jpg",
+      "local_path": "categories/uncategorized/products/volcano-solid-valve-screen-set-normal-or-fine/images/01.jpg",
+      "alt": "import placeholder for 179215657"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/volc-sv-finescreen.jpg",
+      "local_path": "categories/uncategorized/products/volcano-solid-valve-screen-set-normal-or-fine/images/02.jpg",
+      "alt": "volcano solid valve screen set normal or fine"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/volcano-solid-valve-screen-set-normal-or-fine"
+}

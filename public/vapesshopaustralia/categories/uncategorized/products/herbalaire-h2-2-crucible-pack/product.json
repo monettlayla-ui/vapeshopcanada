@@ -1,0 +1,53 @@
+{
+  "id": "herbalaire-h2-2-crucible-pack",
+  "wp_id": 6401,
+  "title": "HerbalAire H2.2 Crucible Pack",
+  "description": "4 Drop-in Crucibles for use with the herbalAire H2.2.",
+  "description_html": "<p>4 Drop-in Crucibles for use with the herbalAire H2.2.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/herbalaire-h2-2-crucible-pack/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:10:20",
+  "date_modified": "2025-12-30T11:10:27",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/herbalaire-h2.2-crucible.gif",
+      "local_path": "categories/uncategorized/products/herbalaire-h2-2-crucible-pack/images/01.gif",
+      "alt": "import placeholder for 7266293255"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/herbalaire-h2-2-crucible-pack"
+}

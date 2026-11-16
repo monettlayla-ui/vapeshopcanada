@@ -1,0 +1,64 @@
+{
+  "id": "silver-surfer-ssv-hands-free-kit",
+  "wp_id": 2542,
+  "title": "Silver Surfer (SSV) Hands Free Kit",
+  "description": "Hands Free Kit for the Silver Surfer Vaporizer (SSV)\n\nTwo Sizes:\n15.8 MM (Original / Standard SSV)\n20.8 MM (Spherical)",
+  "description_html": "<p>Hands Free Kit for the Silver Surfer Vaporizer (SSV)</p>\n<p>Two Sizes:<br />15.8 MM (Original / Standard SSV)<br />20.8 MM (Spherical)</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "7F-SSV-HFK",
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/silver-surfer-ssv-hands-free-kit/",
+  "attributes": {
+    "Size": [
+      "15.8",
+      "20.8"
+    ]
+  },
+  "variations": [
+    {
+      "id": 2543,
+      "attributes": [
+        {
+          "name": "Size",
+          "value": "20.8"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:09:59",
+  "date_modified": "2025-12-30T07:10:47",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/F-SSV-handsfree.png",
+      "local_path": "categories/uncategorized/products/silver-surfer-ssv-hands-free-kit/images/01.png",
+      "alt": "import placeholder for 179931149"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/silver-surfer-ssv-hands-free-kit"
+}

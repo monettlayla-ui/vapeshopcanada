@@ -1,0 +1,81 @@
+{
+  "id": "evri-starter-pack-by-dip-devices-2",
+  "wp_id": 4527,
+  "title": "EVRI Starter Pack by Dip Devices",
+  "description": "EVRI by Dip Devices is a multi-functional consumption solution\n\nThe EVRI vape features a powerful 900 mAh battery that connects magnetically to continuously evolving attachments\n\nUse a 510 cartridge or pull out the vapor tip attachment for consumption of concentrates directly from a container\n\nEasy to use controls, 3 temperature settings, USB charging\n\nFeatures:\nMagnetic, universal battery\nMulti-functional consumption\nInnovative, replaceable Vapor Tip Atomizer\nCeramic tip with instant heat nichrome coil center\n510 Compatible\n3 heat settings\nCompact, versatile design\nMicro-USB rechargeable battery\n\nFor optimal performance and flavor, replace vape attachments every 6-8 weeks",
+  "description_html": "<p>EVRI by Dip Devices is a multi-functional consumption solution</p>\n<p>The EVRI vape features a powerful 900 mAh battery that connects magnetically to continuously evolving attachments</p>\n<p>Use a 510 cartridge or pull out the vapor tip attachment for consumption of concentrates directly from a container</p>\n<p>Easy to use controls, 3 temperature settings, USB charging</p>\n<p><strong>Features:</strong><br data-mce-fragment=\"1\">Magnetic, universal battery<br data-mce-fragment=\"1\">Multi-functional consumption<br data-mce-fragment=\"1\">Innovative, replaceable Vapor Tip Atomizer<br data-mce-fragment=\"1\">Ceramic tip with instant heat nichrome coil center<br data-mce-fragment=\"1\">510 Compatible<br data-mce-fragment=\"1\">3 heat settings<br data-mce-fragment=\"1\">Compact, versatile design<br data-mce-fragment=\"1\">Micro-USB rechargeable battery</p>\n<p>For optimal performance and flavor, replace vape attachments every 6-8 weeks</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 49.95,
+  "sale_price": 27.95,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/evri-starter-pack-by-dip-devices-2/",
+  "attributes": {
+    "Color": [
+      "Blue",
+      "Green"
+    ]
+  },
+  "variations": [
+    {
+      "id": 4604,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Green"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    },
+    {
+      "name": "compact",
+      "slug": "compact",
+      "url": "https://vapesshopaustralia.com/product-tag/compact/"
+    },
+    {
+      "name": "Wax",
+      "slug": "wax",
+      "url": "https://vapesshopaustralia.com/product-tag/wax/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:25:32",
+  "date_modified": "2025-12-30T10:26:46",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dip-evristarter-black.jpg",
+      "local_path": "categories/uncategorized/products/evri-starter-pack-by-dip-devices-2/images/01.jpg",
+      "alt": "import placeholder for 7681613037740"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dip-evristarter-blue.jpg",
+      "local_path": "categories/uncategorized/products/evri-starter-pack-by-dip-devices-2/images/02.jpg",
+      "alt": "evri starter pack by dip devices"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dip-evristarter-green.jpg",
+      "local_path": "categories/uncategorized/products/evri-starter-pack-by-dip-devices-2/images/03.jpg",
+      "alt": "evri starter pack by dip devices"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/evri-starter-pack-by-dip-devices-2"
+}

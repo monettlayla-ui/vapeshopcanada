@@ -1,0 +1,75 @@
+{
+  "id": "eyce-pv1-portable-vaporizer-taxes-extra",
+  "wp_id": 5951,
+  "title": "EYCE PV1 Portable Vaporizer (taxes extra)",
+  "description": "Load, close, and pull.\n\nIntroducing the first vaporizer device from Eyce, the PV1 is an exceptional, easy-to-use dry herb vape engineered with incredible durability and portability. Designed with a rotating mouthpiece, a glass-coated alumina ceramic heat chamber, and a stainless-steel airflow path, the PV1 delivers a smooth vapor. Featuring AutoFlow™ vape technology, the PV1 has four preset temperature settings that gradually increase the temperature over a 5-minute time period for optimal impact.\n\nAutoFlow™ Temperature Settings:\nBlue (Low) 350-370 F\nGreen 370-390 F\nYellow 390-410 F\nRed (High) 410-430 F\n\nPV1 Features:\nDry herb portable vaporizer\nStainless steel airflow path\nGlass-coated alumina ceramic heat chamber\nRotating mouthpiece\nStealth mode LED\nAutoFlow™ vape tech\nFood grade 304 steel\nSilicone lid\nUSB-C charging",
+  "description_html": "<div class=\"summary__title\">\n<p>Load, close, and pull. </p>\n<p>Introducing the first vaporizer device from Eyce, the PV1 is an exceptional, easy-to-use dry herb vape engineered with incredible durability and portability. Designed with a rotating mouthpiece, a glass-coated alumina ceramic heat chamber, and a stainless-steel airflow path, the PV1 delivers a smooth vapor. Featuring AutoFlow™ vape technology, the PV1 has four preset temperature settings that gradually increase the temperature over a 5-minute time period for optimal impact. </p>\n<p>AutoFlow™ Temperature Settings: <br />    Blue (Low) 350-370 F<br />    Green 370-390 F<br />    Yellow 390-410 F<br />    Red (High) 410-430 F</p>\n</p></div>\n<p><strong>PV1 Features:</strong><br />    Dry herb portable vaporizer<br />    Stainless steel airflow path<br />    Glass-coated alumina ceramic heat chamber<br />    Rotating mouthpiece<br />    Stealth mode LED<br />    AutoFlow™ vape tech<br />    Food grade 304 steel<br />    Silicone lid<br />    USB-C charging</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 349.95,
+  "sale_price": 97.49,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/eyce-pv1-portable-vaporizer-taxes-extra/",
+  "attributes": {
+    "Color": [
+      "Blue",
+      "Black"
+    ]
+  },
+  "variations": [
+    {
+      "id": 5952,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Black"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Portable",
+      "slug": "portable",
+      "url": "https://vapesshopaustralia.com/product-tag/portable/"
+    },
+    {
+      "name": "under 200",
+      "slug": "under-200",
+      "url": "https://vapesshopaustralia.com/product-tag/under-200/"
+    },
+    {
+      "name": "under 400",
+      "slug": "under-400",
+      "url": "https://vapesshopaustralia.com/product-tag/under-400/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:05:16",
+  "date_modified": "2025-12-30T11:05:22",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/eyce-pv1-black.png",
+      "local_path": "categories/uncategorized/products/eyce-pv1-portable-vaporizer-taxes-extra/images/01.png",
+      "alt": "import placeholder for 8311569088684"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/eyce-pv1-blue.png",
+      "local_path": "categories/uncategorized/products/eyce-pv1-portable-vaporizer-taxes-extra/images/02.png",
+      "alt": "eyce pv1 portable vaporizer (taxes extra)"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/eyce-pv1-portable-vaporizer-taxes-extra"
+}

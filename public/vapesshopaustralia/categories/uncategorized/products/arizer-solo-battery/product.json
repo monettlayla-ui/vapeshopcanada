@@ -1,0 +1,59 @@
+{
+  "id": "arizer-solo-battery",
+  "wp_id": 3464,
+  "title": "Arizer Solo Battery",
+  "description": "Battery for your Arizer Solo Portable Vaporizer\n\nSOLO BATTERIES CAN ONLY SHIP VIA GROUND SERVICE\nPLEASE DO NOT PICK EXPRESS OR PRIORITY\n\nWE DO NOT SHIP SOLO BATTERIES TO THE USA, CANADA ONLY",
+  "description_html": "<p>Battery for your Arizer Solo Portable Vaporizer</p>\n<p><strong>SOLO BATTERIES CAN ONLY SHIP VIA GROUND SERVICE</strong><br /><strong>PLEASE DO NOT PICK EXPRESS OR PRIORITY</strong><br /><strong><br />WE DO NOT SHIP SOLO BATTERIES TO THE USA, CANADA ONLY</strong></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/arizer-solo-battery/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "stamped-recommend-collection-155157255",
+      "slug": "stamped-recommend-collection-155157255",
+      "url": "https://vapesshopaustralia.com/product-tag/stamped-recommend-collection-155157255/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:19:50",
+  "date_modified": "2025-12-30T07:20:35",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/F-SoloBattery.png",
+      "local_path": "categories/uncategorized/products/arizer-solo-battery/images/01.png",
+      "alt": "import placeholder for 348396817"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/SoloBattery.jpg",
+      "local_path": "categories/uncategorized/products/arizer-solo-battery/images/02.jpg",
+      "alt": "arizer solo battery"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/arizer-solo-battery"
+}

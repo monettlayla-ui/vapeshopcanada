@@ -1,0 +1,76 @@
+{
+  "id": "stainless-steel-pick-with-mushroom-for-cleaning-your-vaporizer",
+  "wp_id": 3771,
+  "title": "Stainless Steel Pick with Mushroom for cleaning your vaporizer",
+  "description": "Stainless Steel Pick with Mushroom",
+  "description_html": "<p>Stainless Steel Pick with Mushroom</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 7.49,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/stainless-steel-pick-with-mushroom-for-cleaning-your-vaporizer/",
+  "attributes": {
+    "Color": [
+      "Blue",
+      "Green"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3772,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Green"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Cleaning",
+      "slug": "cleaning",
+      "url": "https://vapesshopaustralia.com/product-tag/cleaning/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:26:12",
+  "date_modified": "2025-12-30T07:26:54",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/pick-steel-mush-red.jpg",
+      "local_path": "categories/uncategorized/products/stainless-steel-pick-with-mushroom-for-cleaning-your-vaporizer/images/01.jpg",
+      "alt": "import placeholder for 539382972467"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/pick-steel-mush-blue.jpg",
+      "local_path": "categories/uncategorized/products/stainless-steel-pick-with-mushroom-for-cleaning-your-vaporizer/images/02.jpg",
+      "alt": "stainless steel pick with mushroom for cleaning your vaporizer"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/pick-steel-mush-purple.jpg",
+      "local_path": "categories/uncategorized/products/stainless-steel-pick-with-mushroom-for-cleaning-your-vaporizer/images/03.jpg",
+      "alt": "stainless steel pick with mushroom for cleaning your vaporizer"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/stainless-steel-pick-with-mushroom-for-cleaning-your-vaporizer"
+}

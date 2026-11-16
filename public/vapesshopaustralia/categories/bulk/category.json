@@ -1,0 +1,25 @@
+{
+  "id": "bulk",
+  "wp_id": 223,
+  "name": "BULK",
+  "description": null,
+  "url": "https://vapesshopaustralia.com/product-category/bulk/",
+  "parent_id": null,
+  "parent_slug": null,
+  "product_count_reported": 11,
+  "product_count_scraped": 11,
+  "image": null,
+  "products": [
+    "iget-bar-moon-5000-wholesale",
+    "gunnpod-lume-5000-wholesale",
+    "mr-fog-3600-wholesale",
+    "puffmi-5000-wholesale",
+    "waka-smash-6000-wholesale",
+    "50pcs-iget-bar-3500",
+    "100pcs-iget-bar-3500",
+    "200pcs-iget-bar-3500",
+    "50pcs-alibarbar-9000",
+    "100pcs-alibarbar-9000",
+    "200pcs-alibarbar-9000"
+  ]
+}

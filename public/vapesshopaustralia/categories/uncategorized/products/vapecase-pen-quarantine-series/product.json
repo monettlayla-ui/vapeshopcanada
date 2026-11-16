@@ -1,0 +1,59 @@
+{
+  "id": "vapecase-pen-quarantine-series",
+  "wp_id": 3694,
+  "title": "VapeCase Pen Quarantine Series",
+  "description": "Available in Black\nDesigned for Pen vaporizers\n\nThis small airtight case is designed just for your Pen vaporizer, it is airtight and watertight. You can store your vaporizer and all your accessories in one spot neatly and conveniently. These cases can take some impact while protecting your investment. Low profile design makes storage easy.",
+  "description_html": "<p>Available in Black<br /> Designed for Pen vaporizers</p>\n<p> This small airtight case is designed just for your Pen vaporizer, it is airtight and watertight. You can store your vaporizer and all your accessories in one spot neatly and conveniently. These cases can take some impact while protecting your investment. Low profile design makes storage easy.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/vapecase-pen-quarantine-series/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Cases",
+      "slug": "cases",
+      "url": "https://vapesshopaustralia.com/product-tag/cases/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:25:01",
+  "date_modified": "2025-12-30T07:25:16",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/vapecase-pen.jpg",
+      "local_path": "categories/uncategorized/products/vapecase-pen-quarantine-series/images/01.jpg",
+      "alt": "import placeholder for 329646297"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/vapecase-pen2.jpg",
+      "local_path": "categories/uncategorized/products/vapecase-pen-quarantine-series/images/02.jpg",
+      "alt": "vapecase pen quarantine series"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/vapecase-pen-quarantine-series"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "cisoo-vova-lanyard",
+  "wp_id": 1826,
+  "title": "Cisoo / VOVA Lanyard",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000006351",
+  "type": "variable",
+  "price": 7.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/cisoo-vova-lanyard/",
+  "attributes": {
+    "Color": [
+      "Dove Grey",
+      "Peachy Pink",
+      "Periwinkle Blue",
+      "True Red"
+    ]
+  },
+  "variations": [
+    {
+      "id": 1827,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Peachy Pink"
+        }
+      ]
+    },
+    {
+      "id": 1828,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Periwinkle Blue"
+        }
+      ]
+    },
+    {
+      "id": 1829,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "True Red"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "cisoo",
+      "slug": "cisoo",
+      "url": "https://vapesshopaustralia.com/product-tag/cisoo/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:12:15",
+  "date_modified": "2025-12-29T21:13:18",
+  "images": [],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/cisoo-vova-lanyard"
+}

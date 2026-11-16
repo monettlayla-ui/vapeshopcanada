@@ -1,0 +1,64 @@
+{
+  "id": "plenty-parts-pack",
+  "wp_id": 2756,
+  "title": "Plenty Parts Pack",
+  "description": "Includes 1 pc. filling chamber housing, 1 pc. filling chamber cylinder, 1 pc. filling chamber cap, 2 pcs. mouthpiece, 1 pc. cooling coil, 2 pcs. normal screen, 2 pcs. tubing section (long), 2 pcs. tubing section (short) and 1 pc. cleaning brush.",
+  "description_html": "<p>Includes 1 pc. filling chamber housing, 1 pc. filling chamber cylinder, 1 pc. filling chamber cap, 2 pcs. mouthpiece, 1 pc. cooling coil, 2 pcs. normal screen, 2 pcs. tubing section (long), 2 pcs. tubing section (short) and 1 pc. cleaning brush.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 69.95,
+  "sale_price": 59.95,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/plenty-parts-pack/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "Storz &amp; Bickel",
+      "slug": "storz-bickel",
+      "url": "https://vapesshopaustralia.com/product-tag/storz-bickel/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:13:46",
+  "date_modified": "2025-12-30T07:14:07",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/plenty-wear_tear_0820a4e3-e779-4c39-b2ab-e1c96ebc6500.png",
+      "local_path": "categories/uncategorized/products/plenty-parts-pack/images/01.png",
+      "alt": "import placeholder for 183805349"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/plenty-fillingchamber.png",
+      "local_path": "categories/uncategorized/products/plenty-parts-pack/images/02.png",
+      "alt": "plenty parts pack"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/plenty-parts-pack"
+}

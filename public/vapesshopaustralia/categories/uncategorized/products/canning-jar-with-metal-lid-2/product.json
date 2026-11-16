@@ -1,0 +1,64 @@
+{
+  "id": "canning-jar-with-metal-lid-2",
+  "wp_id": 6338,
+  "title": "Canning Jar with Metal Lid",
+  "description": "Vacuum seal lid keeps food / herbs fresh\nWithstands temps up to 250F\nWide Mouth\n\nCapacities:\n4 oz (Quarter Pint)\n8 oz (Half Pint)\n\n16 oz (Pint)\n\n32 oz (Quart)",
+  "description_html": "<div>Vacuum seal lid keeps food / herbs fresh<br />Withstands temps up to 250F<br />Wide Mouth</p>\n<p>Capacities:<br />4 oz (Quarter Pint)<br />8 oz (Half Pint)</div>\n<div>16 oz (Pint)</div>\n<div>32 oz (Quart)</div>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/canning-jar-with-metal-lid-2/",
+  "attributes": {
+    "Size": [
+      "16 oz",
+      "32 oz"
+    ]
+  },
+  "variations": [
+    {
+      "id": 6339,
+      "attributes": [
+        {
+          "name": "Size",
+          "value": "32 oz"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Containers",
+      "slug": "containers",
+      "url": "https://vapesshopaustralia.com/product-tag/containers/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:10:02",
+  "date_modified": "2025-12-30T11:10:11",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/jars-canning.jpg",
+      "local_path": "categories/uncategorized/products/canning-jar-with-metal-lid-2/images/01.jpg",
+      "alt": "import placeholder for 187070809"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/canning-jar-with-metal-lid-2"
+}

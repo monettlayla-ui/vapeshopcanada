@@ -1,0 +1,32 @@
+{
+  "id": "sale",
+  "wp_id": 219,
+  "name": "SALE",
+  "description": null,
+  "url": "https://vapesshopaustralia.com/product-category/sale/",
+  "parent_id": null,
+  "parent_slug": null,
+  "product_count_reported": 18,
+  "product_count_scraped": 18,
+  "image": null,
+  "products": [
+    "cranberry-cotton-candy-mojito-ice-mooodan-dual-flavour-7000-puffs-2",
+    "watermelon-ice-berry-mix-mooodan-dual-flavour-7000-puffs-2",
+    "strawberry-mango-melon-mooodan-dual-flavour-7000-puffs-2",
+    "cherry-peach-lemonade-peach-nectar-mooodan-dual-flavour-7000-puffs-2",
+    "sukura-grape-ice-spring-mooodan-dual-flavour-7000-puffs-2",
+    "3-pack-mooodan-dual-flavour-7000-puffs-2",
+    "5-pack-mooodan-dual-flavour-7000-puffs-2",
+    "10-pack-mooodan-dual-flavour-7000-puffs-2",
+    "20-pack-mooodan-dual-flavour-7000-puffs-2",
+    "cranberry-cotton-candy-mojito-ice-mooodan-dual-flavour-7000-puffs",
+    "watermelon-ice-berry-mix-mooodan-dual-flavour-7000-puffs",
+    "strawberry-mango-melon-mooodan-dual-flavour-7000-puffs",
+    "cherry-peach-lemonade-peach-nectar-mooodan-dual-flavour-7000-puffs",
+    "sukura-grape-ice-spring-mooodan-dual-flavour-7000-puffs",
+    "3-pack-mooodan-dual-flavour-7000-puffs",
+    "5-pack-mooodan-dual-flavour-7000-puffs",
+    "10-pack-mooodan-dual-flavour-7000-puffs",
+    "20-pack-mooodan-dual-flavour-7000-puffs"
+  ]
+}

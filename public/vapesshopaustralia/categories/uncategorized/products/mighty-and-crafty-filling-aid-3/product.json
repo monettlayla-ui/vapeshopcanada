@@ -1,0 +1,68 @@
+{
+  "id": "mighty-and-crafty-filling-aid-3",
+  "wp_id": 6455,
+  "title": "Mighty and Crafty Filling Aid",
+  "description": "Make filling your Crafty or Mighty a breeze with this filling aid.",
+  "description_html": "<p>Make filling your Crafty or Mighty a breeze with this filling aid.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/mighty-and-crafty-filling-aid-3/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Crafty",
+      "slug": "crafty",
+      "url": "https://vapesshopaustralia.com/product-tag/crafty/"
+    },
+    {
+      "name": "filling aid",
+      "slug": "filling-aid",
+      "url": "https://vapesshopaustralia.com/product-tag/filling-aid/"
+    },
+    {
+      "name": "grinder",
+      "slug": "grinder",
+      "url": "https://vapesshopaustralia.com/product-tag/grinder/"
+    },
+    {
+      "name": "Mighty",
+      "slug": "mighty",
+      "url": "https://vapesshopaustralia.com/product-tag/mighty/"
+    },
+    {
+      "name": "Storz &amp; Bickel",
+      "slug": "storz-bickel",
+      "url": "https://vapesshopaustralia.com/product-tag/storz-bickel/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:10:39",
+  "date_modified": "2025-12-30T11:10:45",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/filling-aid-for-crafty-mighty.png",
+      "local_path": "categories/uncategorized/products/mighty-and-crafty-filling-aid-3/images/01.png",
+      "alt": "import placeholder for 9792215754"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/mighty-and-crafty-filling-aid-3"
+}

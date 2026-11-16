@@ -1,0 +1,102 @@
+{
+  "id": "silver-surfer-ssv-whip-3",
+  "wp_id": 6491,
+  "title": "Silver Surfer (SSV) Whip",
+  "description": "Elevate your vaping experience with the Silver Surfer (SSV) Whip, a premium accessory designed for discerning enthusiasts.\n\nThis versatile whip, compatible with the renowned Silver Surfer Vaporizer, is available in three distinct styles: the Standard Whip, the Ground Glass (Conical) Whip, and the Spherical Whip. Each option promises a unique session, tailored to your preferences.\n\nThe Standard Whip offers a classic, reliable vaping journey, perfect for those who appreciate simplicity and efficiency. For a more refined experience, the Ground Glass Whip, with its conical design, ensures a secure, hands-free connection, enhancing the ease of use and allowing for a more immersive session. The Spherical Whip, featuring the innovative Spherical Flavor Disc Wand, is a game-changer for flavor chasers, delivering unparalleled taste and aroma.\n\nCrafted with high-quality materials, each Silver Surfer SSV Whip set includes a durable wand, a flexible tube, and a comfortable mouthpiece, ensuring a seamless and enjoyable experience. The 7th Floor’s commitment to excellence is evident in every aspect of this product, making it a must-have for both novice and veteran users.\n\nIncorporating the Silver Surfer SSV Whip into your routine not only enhances the quality of your sessions but also aligns you with the Elev8 community, a group of enthusiasts who value top-tier vaping experiences. Don’t just vape, elevate with the Silver Surfer SSV Whip.",
+  "description_html": "<p><span style=\"font-weight: 400\">Elevate your vaping experience with the Silver Surfer (SSV) Whip, a premium accessory designed for discerning enthusiasts. </span></p>\n<p><span style=\"font-weight: 400\">This versatile whip, compatible with the renowned Silver Surfer Vaporizer, is available in three distinct styles: the Standard Whip, the Ground Glass (Conical) Whip, and the Spherical Whip. Each option promises a unique session, tailored to your preferences.</span></p>\n<p><span style=\"font-weight: 400\">The Standard Whip offers a classic, reliable vaping journey, perfect for those who appreciate simplicity and efficiency. For a more refined experience, the Ground Glass Whip, with its conical design, ensures a secure, hands-free connection, enhancing the ease of use and allowing for a more immersive session. The Spherical Whip, featuring the innovative Spherical Flavor Disc Wand, is a game-changer for flavor chasers, delivering unparalleled taste and aroma.</span></p>\n<p><span style=\"font-weight: 400\">Crafted with high-quality materials, each Silver Surfer SSV Whip set includes a durable wand, a flexible tube, and a comfortable mouthpiece, ensuring a seamless and enjoyable experience. The 7th Floor&#8217;s commitment to excellence is evident in every aspect of this product, making it a must-have for both novice and veteran users.</span></p>\n<p><span style=\"font-weight: 400\">Incorporating the Silver Surfer SSV Whip into your routine not only enhances the quality of your sessions but also aligns you with the Elev8 community, a group of enthusiasts who value top-tier vaping experiences. Don&#8217;t just vape, elevate with the Silver Surfer SSV Whip.</span></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/silver-surfer-ssv-whip-3/",
+  "attributes": {
+    "Type": [
+      "Standard",
+      "Ground Glass",
+      "Spherical"
+    ]
+  },
+  "variations": [
+    {
+      "id": 6492,
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "Ground Glass"
+        }
+      ]
+    },
+    {
+      "id": 6493,
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "Spherical"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Direct Flow",
+      "slug": "direct-flow",
+      "url": "https://vapesshopaustralia.com/product-tag/direct-flow/"
+    },
+    {
+      "name": "glass",
+      "slug": "glass",
+      "url": "https://vapesshopaustralia.com/product-tag/glass/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:10:48",
+  "date_modified": "2025-12-30T11:10:59",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ssv-whip-regular.jpg",
+      "local_path": "categories/uncategorized/products/silver-surfer-ssv-whip-3/images/01.jpg",
+      "alt": "import placeholder for 193627857"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ssv-whip-ground.jpg",
+      "local_path": "categories/uncategorized/products/silver-surfer-ssv-whip-3/images/02.jpg",
+      "alt": "silver surfer (ssv) whip"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ssv-whip.jpg",
+      "local_path": "categories/uncategorized/products/silver-surfer-ssv-whip-3/images/03.jpg",
+      "alt": "silver surfer (ssv) whip"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ssv-spherical-whip.jpg",
+      "local_path": "categories/uncategorized/products/silver-surfer-ssv-whip-3/images/04.jpg",
+      "alt": "silver surfer (ssv) whip"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/silver-surfer-ssv-whip-3"
+}

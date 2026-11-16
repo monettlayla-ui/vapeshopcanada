@@ -1,0 +1,35 @@
+{
+  "id": "chain-lanyard",
+  "wp_id": 1825,
+  "title": "Chain Lanyard",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000006355",
+  "type": "simple",
+  "price": 5.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/chain-lanyard/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:12:15",
+  "date_modified": "2025-12-29T21:13:15",
+  "images": [],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/chain-lanyard"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "510-melo-drip-tip",
+  "wp_id": 1882,
+  "title": "510 Melo Drip Tip",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000001618",
+  "type": "simple",
+  "price": 3.75,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/510-melo-drip-tip/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:13:21",
+  "date_modified": "2025-12-30T07:02:19",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/510_Melo_Drip_Tip.jpg",
+      "local_path": "categories/uncategorized/products/510-melo-drip-tip/images/01.jpg",
+      "alt": "import placeholder for 4175175843920"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/510-melo-drip-tip"
+}

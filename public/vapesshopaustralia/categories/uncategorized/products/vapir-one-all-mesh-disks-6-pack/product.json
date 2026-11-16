@@ -1,0 +1,74 @@
+{
+  "id": "vapir-one-all-mesh-disks-6-pack",
+  "wp_id": 5640,
+  "title": "Vapir One All Mesh Disks – 6 Pack",
+  "description": "All Mesh disks for vapir one and vapor matic deluxe\nPartial Solid disks no longer available\n\nThe partial solids are solid on the sides with mesh on the top and bottom. The air flow is a bit more restricted vs the all mesh but they are extremely durable.\n\nThe all mesh disks are just what they say, all mesh. More fragile than the partial solid but they have the best air flow.",
+  "description_html": "<p>All Mesh disks for vapir one and vapor matic deluxe<br />Partial Solid disks no longer available</p>\n<p>The partial <span class=\"context_search\">solid</span>s are <span class=\"context_search\">solid</span> on the sides with mesh on the top and bottom. The air flow is a bit more restricted vs the all mesh but they are extremely durable.</p>\n<p>The all mesh disks are just what they say, all mesh. More fragile than the partial solid but they have the best air flow.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 12.95,
+  "sale_price": 6.95,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/vapir-one-all-mesh-disks-6-pack/",
+  "attributes": {
+    "Style": [
+      "10 Pack All Mesh",
+      "6 Pack All Mesh"
+    ]
+  },
+  "variations": [
+    {
+      "id": 5641,
+      "attributes": [
+        {
+          "name": "Style",
+          "value": "6 Pack All Mesh"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "Screens",
+      "slug": "screens",
+      "url": "https://vapesshopaustralia.com/product-tag/screens/"
+    },
+    {
+      "name": "Vapir",
+      "slug": "vapir",
+      "url": "https://vapesshopaustralia.com/product-tag/vapir/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:00:22",
+  "date_modified": "2025-12-30T11:00:42",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/vapirone-disks-ps.jpg",
+      "local_path": "categories/uncategorized/products/vapir-one-all-mesh-disks-6-pack/images/01.jpg",
+      "alt": "import placeholder for 203450425"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/vapir-one-all-mesh-disks-6-pack"
+}

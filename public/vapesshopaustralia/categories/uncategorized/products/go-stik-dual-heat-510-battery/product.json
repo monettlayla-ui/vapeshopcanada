@@ -1,0 +1,113 @@
+{
+  "id": "go-stik-dual-heat-510-battery",
+  "wp_id": 1759,
+  "title": "Go Stik Dual-Heat 510 Battery",
+  "description": "Customize your experience and discover the perfect balance of flavour and strength with every inhale! Easily switch between ‘Flavor‘ and ‘Potency‘ modes using the intuitive slide switch. Enjoy the best flavours your favourite oil has to offer at a lower temperature or slide up to a higher temperature for more powerful hits! Compatible with 510 cartridges of any size.\n\nProduct Features:\n– 2 temperature settings (2.8/3.2V) via a slide switch\n– Standard 510-thread connection\n– Ergonomic, anti-slip body design\n– Compatible with 510 cartridges of any size\n– Inhale activated\n– USB-C charging\n\nWhat’s Included:\n1 x Go Stik Dual-Heat 510 Battery\n1 x User Manual",
+  "description_html": "<p>Customize your experience and discover the perfect balance of flavour and strength with every inhale! Easily switch between &#8216;<strong>Flavor</strong>&#8216; and &#8216;<strong>Potency</strong>&#8216; modes using the intuitive slide switch. Enjoy the best flavours your favourite oil has to offer at a lower temperature or slide up to a higher temperature for more powerful hits! Compatible with 510 cartridges of any size.</p>\n<p>Product Features:<br />&#8211; 2 temperature settings (2.8/3.2V) via a slide switch<br />&#8211; Standard 510-thread connection<br />&#8211; Ergonomic, anti-slip body design<br />&#8211; Compatible with 510 cartridges of any size<br />&#8211; Inhale activated<br />&#8211; USB-C charging</p>\n<p>What&#8217;s Included:<br />1 x Go Stik Dual-Heat 510 Battery<br />1 x User Manual</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000007749",
+  "type": "variable",
+  "price": 15.99,
+  "sale_price": 14.99,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/go-stik-dual-heat-510-battery/",
+  "attributes": {
+    "Color": [
+      "Electric Blue",
+      "Emerald Green",
+      "Onyx Black",
+      "Sunset Blush",
+      "Sunrise Pine"
+    ]
+  },
+  "variations": [
+    {
+      "id": 1760,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Emerald Green"
+        }
+      ]
+    },
+    {
+      "id": 1761,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Onyx Black"
+        }
+      ]
+    },
+    {
+      "id": 1762,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Sunset Blush"
+        }
+      ]
+    },
+    {
+      "id": 1763,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Sunrise Pine"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:11:18",
+  "date_modified": "2025-12-29T21:12:14",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Go-Stik-Dual-Heat-510-Battery-Sunset-Blush.jpg",
+      "local_path": "categories/uncategorized/products/go-stik-dual-heat-510-battery/images/01.jpg",
+      "alt": "import placeholder for 8918348988656"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Go-Stik-Dual-Heat-510-Battery-Sunrise-Pine.jpg",
+      "local_path": "categories/uncategorized/products/go-stik-dual-heat-510-battery/images/02.jpg",
+      "alt": "go stik dual heat 510 battery"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Go-Stik-Dual-Heat-510-Battery-Onyx-Black.jpg",
+      "local_path": "categories/uncategorized/products/go-stik-dual-heat-510-battery/images/03.jpg",
+      "alt": "go stik dual heat 510 battery"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Go-Stik-Dual-Heat-510-Battery-Emerald-green.jpg",
+      "local_path": "categories/uncategorized/products/go-stik-dual-heat-510-battery/images/04.jpg",
+      "alt": "go stik dual heat 510 battery"
+    },
+    {
+      "position": 5,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Go-Stik-Dual-Heat-510-Battery-Electric-Blue.jpg",
+      "local_path": "categories/uncategorized/products/go-stik-dual-heat-510-battery/images/05.jpg",
+      "alt": "go stik dual heat 510 battery"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/go-stik-dual-heat-510-battery"
+}

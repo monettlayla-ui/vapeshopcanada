@@ -1,0 +1,58 @@
+{
+  "id": "vapirrise-power-cord-110v",
+  "wp_id": 6586,
+  "title": "VapirRise Power Cord – 110V",
+  "description": "Power Cord for VapirRise – 110V",
+  "description_html": "<p>Power Cord for VapirRise &#8211; 110V</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/vapirrise-power-cord-110v/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "Vapir",
+      "slug": "vapir",
+      "url": "https://vapesshopaustralia.com/product-tag/vapir/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:17:46",
+  "date_modified": "2025-12-30T11:18:01",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/vapirrise-powercord.png",
+      "local_path": "categories/uncategorized/products/vapirrise-power-cord-110v/images/01.png",
+      "alt": "import placeholder for 228919857"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/vapirrise-power-cord-110v"
+}

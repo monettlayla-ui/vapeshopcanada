@@ -1,0 +1,62 @@
+{
+  "id": "vapir-one-spare-parts-kit",
+  "wp_id": 6580,
+  "title": "Vapir One Spare Parts Kit",
+  "description": "Enhance your Vapir One experience with our comprehensive Vapir One Spare Parts Kit, a must-have accessory for any Vapir vaporizer enthusiast.\n\nThis kit is your direct solution to replacing essential components of your Vapir One, ensuring your vaporizer operates at peak performance. Whether you need a new Vapir One Power Cord or the Vapir One Top, our kit offers reliable spare parts to keep your vape experience uninterrupted. Ideal for both Vapir Prima and Vapir NO2 users, this pack is a practical investment in maintaining your device. Don’t let a missing part disrupt your vaping; our kit has you covered.",
+  "description_html": "<p><span style=\"font-weight: 400\">Enhance your Vapir One experience with our comprehensive Vapir One Spare Parts Kit, a must-have accessory for any Vapir vaporizer enthusiast.</span></p>\n<p><span style=\"font-weight: 400\">This kit is your direct solution to replacing essential components of your Vapir One, ensuring your vaporizer operates at peak performance. Whether you need a new Vapir One Power Cord or the Vapir One Top, our kit offers reliable spare parts to keep your vape experience uninterrupted. Ideal for both Vapir Prima and Vapir NO2 users, this pack is a practical investment in maintaining your device. Don&#8217;t let a missing part disrupt your vaping; our kit has you covered.</span></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/vapir-one-spare-parts-kit/",
+  "attributes": {
+    "Item": [
+      "Vapir One Power Cord",
+      "Vapir One Top"
+    ]
+  },
+  "variations": [
+    {
+      "id": 6581,
+      "attributes": [
+        {
+          "name": "Item",
+          "value": "Vapir One Top"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "Vapir",
+      "slug": "vapir",
+      "url": "https://vapesshopaustralia.com/product-tag/vapir/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:17:46",
+  "date_modified": "2025-12-30T11:18:07",
+  "images": [],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/vapir-one-spare-parts-kit"
+}

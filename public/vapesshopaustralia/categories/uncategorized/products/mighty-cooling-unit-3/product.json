@@ -1,0 +1,73 @@
+{
+  "id": "mighty-cooling-unit-3",
+  "wp_id": 6456,
+  "title": "MIGHTY Cooling Unit",
+  "description": "The Cooling Unit cools down the vapor in order to supply a full aromatic and pleasant flavor.",
+  "description_html": "<p>The Cooling Unit cools down the vapor in order to supply a full aromatic and pleasant flavor.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/mighty-cooling-unit-3/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Mighty",
+      "slug": "mighty",
+      "url": "https://vapesshopaustralia.com/product-tag/mighty/"
+    },
+    {
+      "name": "mouthpiece",
+      "slug": "mouthpiece",
+      "url": "https://vapesshopaustralia.com/product-tag/mouthpiece/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "stamped-recommend-collection-155057223",
+      "slug": "stamped-recommend-collection-155057223",
+      "url": "https://vapesshopaustralia.com/product-tag/stamped-recommend-collection-155057223/"
+    },
+    {
+      "name": "Storz &amp; Bickel",
+      "slug": "storz-bickel",
+      "url": "https://vapesshopaustralia.com/product-tag/storz-bickel/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:10:39",
+  "date_modified": "2025-12-30T11:10:45",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/MIGHTY-coolingunit.jpg",
+      "local_path": "categories/uncategorized/products/mighty-cooling-unit-3/images/01.jpg",
+      "alt": "import placeholder for 385373849"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/mighty-cooling-unit-3"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "davinci-iq3-21700-battery",
+  "wp_id": 3516,
+  "title": "DaVinci IQ3 21700 Battery",
+  "description": "21700 Battery Replacement for DaVinci IQ3 Vaporizer.\n\n3.7V, 15A, 4000Mah",
+  "description_html": "<p>21700 Battery Replacement for DaVinci IQ3 Vaporizer. </p>\n<p>3.7V, 15A, 4000Mah</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 32.95,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/davinci-iq3-21700-battery/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "battery",
+      "slug": "battery",
+      "url": "https://vapesshopaustralia.com/product-tag/battery/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:20:44",
+  "date_modified": "2025-12-30T07:20:50",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/davinci-iq3-21700-battery.png",
+      "local_path": "categories/uncategorized/products/davinci-iq3-21700-battery/images/01.png",
+      "alt": "import placeholder for 8095223087276"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/davinci-iq3-21700-battery"
+}

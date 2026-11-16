@@ -1,0 +1,186 @@
+{
+  "id": "smok-pro-starter-kit-2ml",
+  "wp_id": 3064,
+  "title": "SMOK PRO Starter Kit – 2ml",
+  "description": "SMOK PRO POD KIT\n\nThe expressive styling of the SMOK PRO POD KIT takes your breath away. Available in seven exquisite colors, the debut is poised to put the style of elegance to the fullest. Its long-lasting 800mAh battery delivers up to 22 watts of power, combined with a SMOK NOVO 2X REPLACEMENT POD-MESHED 0.8 OHM, producing delicate flavor and smooth vapor, perfect for MTL lovers. The all-new SMOK PRO POD KIT, a daily companion that reflects your personality with a luxurious touch. Innovation keeps changing the vaping experience.\n\nFeatures\n\n- Top-fill SMOK NOVO 2X REPLACEMENT POD [CRC], with a visible window\n\n- Compatible with Novo/Novo 2/Novo 2X Pods\n\n- Button-triggered/draw-activated\n\n- Combination of two textures, sandblasting oxidation and silicone gel\n\nSpecifications\nSize: 24.5*15.0*107mm\nWeight: 47g\nBattery Capacity: 800mAh\nResistance Range: 0.6Ω-2.5Ω\nPower Range: Max 22W\nStandby Current: <50uA\nInput Voltage: 3.3V-4.2V\nCapacity: 2ML\n\nPackage List\n1 x SMOK PRO POD KIT [CRC] Device (800mAh)\n2 x SMOK NOVO 2X REPLACEMENT POD [CRC]-MESHED 0.8 OHM MTL\n1 x User Manual\n1 x Type-C Cable",
+  "description_html": "<p><strong>SMOK PRO POD KIT </strong></p>\n<p>The expressive styling of the SMOK PRO POD KIT takes your breath away. Available in seven exquisite colors, the debut is poised to put the style of elegance to the fullest. Its long-lasting 800mAh battery delivers up to 22 watts of power, combined with a SMOK NOVO 2X REPLACEMENT POD-MESHED 0.8 OHM, producing delicate flavor and smooth vapor, perfect for MTL lovers. The all-new SMOK PRO POD KIT, a daily companion that reflects your personality with a luxurious touch. Innovation keeps changing the vaping experience.</p>\n<p><strong>Features</strong> </p>\n<ul>\n<li>Top-fill SMOK NOVO 2X REPLACEMENT POD [CRC], with a visible window</li>\n<li>Compatible with Novo/Novo 2/Novo 2X Pods</li>\n<li>Button-triggered/draw-activated</li>\n<li>Combination of two textures, sandblasting oxidation and silicone gel</li>\n</ul>\n<p> <strong>Specifications</strong><br />Size: 24.5*15.0*107mm<br />Weight: 47g<br />Battery Capacity: 800mAh<br />Resistance Range: 0.6Ω-2.5Ω<br />Power Range: Max 22W<br />Standby Current: &lt;50uA<br />Input Voltage: 3.3V-4.2V<br />Capacity: 2ML</p>\n<p><strong>Package List</strong><br />1 x SMOK PRO POD KIT [CRC] Device (800mAh)<br />2 x SMOK NOVO 2X REPLACEMENT POD [CRC]-MESHED 0.8 OHM MTL<br />1 x User Manual<br />1 x Type-C Cable</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000007065",
+  "type": "variable",
+  "price": 34.99,
+  "sale_price": 24.99,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/smok-pro-starter-kit-2ml/",
+  "attributes": {
+    "Color": [
+      "Black",
+      "Grey",
+      "Ocean Green",
+      "Pink",
+      "Red",
+      "Silver",
+      "Stone Green"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3065,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Grey"
+        }
+      ]
+    },
+    {
+      "id": 3066,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Ocean Green"
+        }
+      ]
+    },
+    {
+      "id": 3067,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Pink"
+        }
+      ]
+    },
+    {
+      "id": 3068,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Red"
+        }
+      ]
+    },
+    {
+      "id": 3070,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Silver"
+        }
+      ]
+    },
+    {
+      "id": 3071,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Stone Green"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "2ml",
+      "slug": "2ml",
+      "url": "https://vapesshopaustralia.com/product-tag/2ml/"
+    },
+    {
+      "name": "aio",
+      "slug": "aio",
+      "url": "https://vapesshopaustralia.com/product-tag/aio/"
+    },
+    {
+      "name": "bc-compliant",
+      "slug": "bc-compliant",
+      "url": "https://vapesshopaustralia.com/product-tag/bc-compliant/"
+    },
+    {
+      "name": "crc",
+      "slug": "crc",
+      "url": "https://vapesshopaustralia.com/product-tag/crc/"
+    },
+    {
+      "name": "novo",
+      "slug": "novo",
+      "url": "https://vapesshopaustralia.com/product-tag/novo/"
+    },
+    {
+      "name": "pod",
+      "slug": "pod",
+      "url": "https://vapesshopaustralia.com/product-tag/pod/"
+    },
+    {
+      "name": "smok",
+      "slug": "smok",
+      "url": "https://vapesshopaustralia.com/product-tag/smok/"
+    },
+    {
+      "name": "type-c",
+      "slug": "type-c",
+      "url": "https://vapesshopaustralia.com/product-tag/type-c/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:16:26",
+  "date_modified": "2025-12-30T07:16:55",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Pro_Stone_Green.jpg",
+      "local_path": "categories/uncategorized/products/smok-pro-starter-kit-2ml/images/01.jpg",
+      "alt": "import placeholder for 8242738692336"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Pro_Lineup.jpg",
+      "local_path": "categories/uncategorized/products/smok-pro-starter-kit-2ml/images/02.jpg",
+      "alt": "smok pro starter kit 2ml"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Pro_Silver.jpg",
+      "local_path": "categories/uncategorized/products/smok-pro-starter-kit-2ml/images/03.jpg",
+      "alt": "smok pro starter kit 2ml"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Pro_Red.jpg",
+      "local_path": "categories/uncategorized/products/smok-pro-starter-kit-2ml/images/04.jpg",
+      "alt": "smok pro starter kit 2ml"
+    },
+    {
+      "position": 5,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Pro_Pink.jpg",
+      "local_path": "categories/uncategorized/products/smok-pro-starter-kit-2ml/images/05.jpg",
+      "alt": "smok pro starter kit 2ml"
+    },
+    {
+      "position": 6,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Pro_Ocean_Green.jpg",
+      "local_path": "categories/uncategorized/products/smok-pro-starter-kit-2ml/images/06.jpg",
+      "alt": "smok pro starter kit 2ml"
+    },
+    {
+      "position": 7,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Pro_Grey.jpg",
+      "local_path": "categories/uncategorized/products/smok-pro-starter-kit-2ml/images/07.jpg",
+      "alt": "smok pro starter kit 2ml"
+    },
+    {
+      "position": 8,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Smok_Pro_Black.jpg",
+      "local_path": "categories/uncategorized/products/smok-pro-starter-kit-2ml/images/08.jpg",
+      "alt": "smok pro starter kit 2ml"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/smok-pro-starter-kit-2ml"
+}

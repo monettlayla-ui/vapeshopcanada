@@ -1,0 +1,75 @@
+{
+  "id": "new-puffco-proxy-bub-2",
+  "wp_id": 6095,
+  "title": "NEW Puffco Proxy Bub",
+  "description": "The Proxy Bub brings water filtration to your ritual, cooling each draw for a smoother, more flavorful hit. With a stable, upright design and a comfortable hold, it’s made for the kind of sessions that don’t rush. Whether you’re winding down or dialing in, the Bub adds a clean, classic element to your at-home setup — with no compromise on performance.\n\nAvailable in Onyx and Haze\n\nWhat’s Included:\n1* New Proxy Bub",
+  "description_html": "<p>The Proxy Bub brings water filtration to your ritual, cooling each draw for a smoother, more flavorful hit. With a stable, upright design and a comfortable hold, it’s made for the kind of sessions that don’t rush. Whether you&#8217;re winding down or dialing in, the Bub adds a clean, classic element to your at-home setup — with no compromise on performance.</p>\n<p>Available in Onyx and Haze<br /> <br /><strong>What&#8217;s Included:<br /></strong>1* New Proxy Bub</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/new-puffco-proxy-bub-2/",
+  "attributes": {
+    "Color": [
+      "Haze",
+      "Onyx"
+    ]
+  },
+  "variations": [
+    {
+      "id": 6112,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Onyx"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "peak",
+      "slug": "peak",
+      "url": "https://vapesshopaustralia.com/product-tag/peak/"
+    },
+    {
+      "name": "puffco",
+      "slug": "puffco",
+      "url": "https://vapesshopaustralia.com/product-tag/puffco/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:07:29",
+  "date_modified": "2025-12-30T11:08:15",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/puffco-newproxy-haze_7e2c24cc-bb5e-48e2-9367-347b41b201d8.jpg",
+      "local_path": "categories/uncategorized/products/new-puffco-proxy-bub-2/images/01.jpg",
+      "alt": "import placeholder for 7743529648300"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/puffco-newproxy-onyx_edec0786-ee28-4eb7-8845-022fe477f5da.jpg",
+      "local_path": "categories/uncategorized/products/new-puffco-proxy-bub-2/images/02.jpg",
+      "alt": "new puffco proxy bub"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/new-puffco-proxy-bub-2"
+}

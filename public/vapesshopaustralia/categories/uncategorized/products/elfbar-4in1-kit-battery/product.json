@@ -1,0 +1,181 @@
+{
+  "id": "elfbar-4in1-kit-battery",
+  "wp_id": 3198,
+  "title": "Elfbar 4in1 Kit Battery",
+  "description": "Introducing Elfbar’s latest innovation, the 4in1 Pod System! Enjoy four different flavours wherever you go with the simple switch of a pod. All you need to do is remove the cap, add your favourite four flavours, twist to align, and enjoy! The Elfbar 4in1 offers convenience, compliance in BC, and flavour variety.\n\nSpecs:\n\n- Eco (8.5W) & Boost Modes (11W)\n\n- Battery & E-liquid Indicator\n\n- BC compliant\n\n- Eco mode: up to 3200 puffs / Normal mode: Up to 2400 puffs\n\n- Nicotine Strength: 20mg/mL\n\n- Mesh Coil\n\n- Charging port: Type-C\n\n- E-Liquid Capacity: 2mL x 4 pods\n\n- 1500mAh",
+  "description_html": "<p>Introducing Elfbar&#8217;s latest innovation, the 4in1 Pod System! Enjoy four different flavours wherever you go with the simple switch of a pod. All you need to do is remove the cap, add your favourite four flavours, twist to align, and enjoy! The Elfbar 4in1 offers convenience, compliance in BC, and flavour variety.</p>\n<p><strong>Specs:</strong></p>\n<ul>\n<li>Eco (8.5W) &amp; Boost Modes (11W)</li>\n<li>Battery &amp; E-liquid Indicator</li>\n<li>BC compliant</li>\n<li>Eco mode: up to 3200 puffs / Normal mode: Up to 2400 puffs</li>\n<li>Nicotine Strength: 20mg/mL</li>\n<li>Mesh Coil</li>\n<li>Charging port: Type-C</li>\n<li>E-Liquid Capacity: 2mL x 4 pods </li>\n<li>1500mAh</li>\n</ul>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000007844",
+  "type": "variable",
+  "price": 17.99,
+  "sale_price": 9.99,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/elfbar-4in1-kit-battery/",
+  "attributes": {
+    "Color": [
+      "Light Blue",
+      "Light Gold",
+      "Millennial Pink Purple",
+      "Purple Blue",
+      "Rose Pink",
+      "Yellow Cerise",
+      "Silver Grey",
+      "Yellow Green"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3199,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Light Gold"
+        }
+      ]
+    },
+    {
+      "id": 3200,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Millennial Pink Purple"
+        }
+      ]
+    },
+    {
+      "id": 3201,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Purple Blue"
+        }
+      ]
+    },
+    {
+      "id": 3203,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Rose Pink"
+        }
+      ]
+    },
+    {
+      "id": 3204,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Yellow Cerise"
+        }
+      ]
+    },
+    {
+      "id": 3206,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Silver Grey"
+        }
+      ]
+    },
+    {
+      "id": 3207,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Yellow Green"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "clearance",
+      "slug": "clearance",
+      "url": "https://vapesshopaustralia.com/product-tag/clearance/"
+    },
+    {
+      "name": "closed-pod",
+      "slug": "closed-pod",
+      "url": "https://vapesshopaustralia.com/product-tag/closed-pod/"
+    },
+    {
+      "name": "elf-4in1",
+      "slug": "elf-4in1",
+      "url": "https://vapesshopaustralia.com/product-tag/elf-4in1/"
+    },
+    {
+      "name": "q3-2024",
+      "slug": "q3-2024",
+      "url": "https://vapesshopaustralia.com/product-tag/q3-2024/"
+    },
+    {
+      "name": "q4-2024",
+      "slug": "q4-2024",
+      "url": "https://vapesshopaustralia.com/product-tag/q4-2024/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:17:29",
+  "date_modified": "2025-12-30T07:19:50",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Elf_Bar_4in1_BluePurple.jpg",
+      "local_path": "categories/uncategorized/products/elfbar-4in1-kit-battery/images/01.jpg",
+      "alt": "import placeholder for 9024517865712"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Elf_Bar_4in1_LightBlue.jpg",
+      "local_path": "categories/uncategorized/products/elfbar-4in1-kit-battery/images/02.jpg",
+      "alt": "elfbar 4in1 kit battery"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Elf_Bar_4in1_LightGold.jpg",
+      "local_path": "categories/uncategorized/products/elfbar-4in1-kit-battery/images/03.jpg",
+      "alt": "elfbar 4in1 kit battery"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Elf_Bar_4in1_PinkPurple.jpg",
+      "local_path": "categories/uncategorized/products/elfbar-4in1-kit-battery/images/04.jpg",
+      "alt": "elfbar 4in1 kit battery"
+    },
+    {
+      "position": 5,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Elf_Bar_4in1_RosePink.jpg",
+      "local_path": "categories/uncategorized/products/elfbar-4in1-kit-battery/images/05.jpg",
+      "alt": "elfbar 4in1 kit battery"
+    },
+    {
+      "position": 6,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Elf_Bar_4in1_SilverGrey.jpg",
+      "local_path": "categories/uncategorized/products/elfbar-4in1-kit-battery/images/06.jpg",
+      "alt": "elfbar 4in1 kit battery"
+    },
+    {
+      "position": 7,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Elf_Bar_4in1_YellowCerise.jpg",
+      "local_path": "categories/uncategorized/products/elfbar-4in1-kit-battery/images/07.jpg",
+      "alt": "elfbar 4in1 kit battery"
+    },
+    {
+      "position": 8,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Elf_Bar_4in1_YellowGreen.jpg",
+      "local_path": "categories/uncategorized/products/elfbar-4in1-kit-battery/images/08.jpg",
+      "alt": "elfbar 4in1 kit battery"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/elfbar-4in1-kit-battery"
+}

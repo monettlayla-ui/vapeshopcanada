@@ -1,0 +1,131 @@
+{
+  "id": "da-buddha-ssv-replacement-tubing",
+  "wp_id": 2627,
+  "title": "Da Buddha / SSV Replacement Tubing",
+  "description": "Da Buddha and SSV Replacement Tubing\n\nThis premium quality hose is the best hose on the market. Made of food grade vinyl tubing, it is far better than silicon tubing because it does not collect all the dirt and oils from you hands. It is made in 3/8 inch inner diameter so it can slip on and off your wand or any other accessories.\n\nNOTE: The Buddha Tubing is slightly larger than the diameter so please expect a kink in the tube when inserted. If you want a smaller tube that does not kink, we recommend the Arizer Tubing",
+  "description_html": "<p>Da Buddha and SSV Replacement Tubing</p>\n<div>\n<div data-analytics-sent=\"{&quot;product_id&quot;:&quot;9054&quot;,&quot;name&quot;:&quot;Replacement Hose or Tubing&quot;,&quot;category&quot;:&quot;Wholesale Shop All, Vaporizers/Parts &amp; Accessories/Silver Surfer, Vaporizers/Parts &amp; Accessories/Super Surfer, Vaporizers/Parts &amp; Accessories/Da Buddha, Vaporizers/Parts &amp; Accessories/Life Saber, Vaporizers/Addons/Tubing, Shop All, Coupon Products, Pre-Production/Needs Dimensions, Pre-Production/Needs Approval, Pre-Production/Needs Options, Pre-Production/Needs Description, Pre-Production/Needs Images, Pre-Production/Needs SEO&quot;,&quot;brand&quot;:&quot;7th Floor Vapes&quot;,&quot;price&quot;:&quot;6.5&quot;,&quot;sku&quot;:null,&quot;variant&quot;:&quot;&quot;,&quot;properties&quot;:{&quot;channel&quot;:{&quot;id&quot;:1,&quot;name&quot;:&quot;default&quot;,&quot;type&quot;:&quot;default&quot;}},&quot;currency&quot;:&quot;USD&quot;}\" data-event-type=\"product\" class=\"productView-description\">\n<p>This premium quality hose is the best hose on the market. Made of food grade vinyl tubing, it is far better than silicon tubing because it does not collect all the dirt and oils from you hands. It is made in 3/8 inch inner diameter so it can slip on and off your wand or any other accessories.</p>\n<p><strong>NOTE: The Buddha Tubing is slightly larger than the diameter so please expect a kink in the tube when inserted. If you want a smaller tube that does not kink, we recommend the Arizer Tubing</strong></p>\n<p></p>\n</p></div>\n</p></div>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/da-buddha-ssv-replacement-tubing/",
+  "attributes": {
+    "Size": [
+      "3 Feet",
+      "3 Feet",
+      "3 Feet",
+      "10 Foot"
+    ],
+    "Color": [
+      "Clear",
+      "Blue",
+      "Black",
+      "Clear"
+    ]
+  },
+  "variations": [
+    {
+      "id": 2628,
+      "attributes": [
+        {
+          "name": "Size",
+          "value": "3 Feet"
+        },
+        {
+          "name": "Color",
+          "value": "Blue"
+        }
+      ]
+    },
+    {
+      "id": 2652,
+      "attributes": [
+        {
+          "name": "Size",
+          "value": "3 Feet"
+        },
+        {
+          "name": "Color",
+          "value": "Black"
+        }
+      ]
+    },
+    {
+      "id": 2653,
+      "attributes": [
+        {
+          "name": "Size",
+          "value": "10 Foot"
+        },
+        {
+          "name": "Color",
+          "value": "Clear"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "Tubing",
+      "slug": "tubing",
+      "url": "https://vapesshopaustralia.com/product-tag/tubing/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:10:49",
+  "date_modified": "2025-12-30T07:12:23",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/tubes-colors-2-scaled.jpg",
+      "local_path": "categories/uncategorized/products/da-buddha-ssv-replacement-tubing/images/01.jpg",
+      "alt": "import placeholder for 176876621"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/tubes-colors.jpg",
+      "local_path": "categories/uncategorized/products/da-buddha-ssv-replacement-tubing/images/02.jpg",
+      "alt": "da buddha / ssv replacement tubing"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/whip-black.jpg",
+      "local_path": "categories/uncategorized/products/da-buddha-ssv-replacement-tubing/images/03.jpg",
+      "alt": "da buddha / ssv replacement tubing"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/whip-blue.jpg",
+      "local_path": "categories/uncategorized/products/da-buddha-ssv-replacement-tubing/images/04.jpg",
+      "alt": "da buddha / ssv replacement tubing"
+    },
+    {
+      "position": 5,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/whip-clear.jpg",
+      "local_path": "categories/uncategorized/products/da-buddha-ssv-replacement-tubing/images/05.jpg",
+      "alt": "da buddha / ssv replacement tubing"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/da-buddha-ssv-replacement-tubing"
+}

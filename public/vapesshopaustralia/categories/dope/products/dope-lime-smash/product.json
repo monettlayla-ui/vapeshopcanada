@@ -1,0 +1,44 @@
+{
+  "id": "dope-lime-smash",
+  "wp_id": 8245,
+  "title": "Dope – Lime Smash",
+  "description": "Introducing the exhilarating DOPE Lime Smash Crazy Strong, a premium selection from the renowned DOPE brand. This product is a game-changer for those who seek a potent and zesty nicotine experience. Crafted for the bold and the brave, DOPE Lime Smash delivers an invigorating burst of flavour coupled with a formidable nicotine kick.",
+  "description_html": "<p>Introducing the exhilarating <strong>DOPE Lime Smash Crazy Strong</strong>, a premium selection from the renowned <a href=\"https://www.snussie.com/en/brands/dope/\">DOPE</a> brand. This product is a game-changer for those who seek a potent and zesty nicotine experience. Crafted for the bold and the brave, DOPE Lime Smash delivers an invigorating burst of flavour coupled with a formidable nicotine kick.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 25.0,
+  "sale_price": 20.0,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/dope-lime-smash/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:32:04",
+  "date_modified": "2025-12-30T19:46:31",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/1554-1_dope-lime-smash-strong.jpg",
+      "local_path": "categories/dope/products/dope-lime-smash/images/01.jpg",
+      "alt": "import placeholder for 67974"
+    }
+  ],
+  "categories": [
+    {
+      "name": "DOPE",
+      "slug": "dope",
+      "url": "https://vapesshopaustralia.com/product-category/dope/"
+    }
+  ],
+  "stored_in": "categories/dope/products/dope-lime-smash"
+}

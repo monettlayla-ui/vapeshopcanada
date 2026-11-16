@@ -1,0 +1,64 @@
+{
+  "id": "cleaning-brush-4",
+  "wp_id": 5751,
+  "title": "Cleaning Brush",
+  "description": "Cleaning Brushes for your vaporizer\n\nCleaning Brush\nLength of bristle part of the brush 3.4cm\nLength of complete brush 11cm",
+  "description_html": "<p>Cleaning Brushes for your vaporizer</p>\n<p>Cleaning Brush<br />Length of bristle part of the brush 3.4cm<br />Length of complete brush 11cm</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/cleaning-brush-4/",
+  "attributes": {
+    "Quantity": [
+      "1 Brush",
+      "Brush - 2 Pack"
+    ]
+  },
+  "variations": [
+    {
+      "id": 5752,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "Brush - 2 Pack"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Cleaning",
+      "slug": "cleaning",
+      "url": "https://vapesshopaustralia.com/product-tag/cleaning/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:04:27",
+  "date_modified": "2025-12-30T11:04:31",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/LargeBrush.jpg",
+      "local_path": "categories/uncategorized/products/cleaning-brush-4/images/01.jpg",
+      "alt": "import placeholder for 185504273"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/cleaning-brush-4"
+}

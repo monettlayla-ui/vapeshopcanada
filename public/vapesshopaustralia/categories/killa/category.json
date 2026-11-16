@@ -1,0 +1,22 @@
+{
+  "id": "killa",
+  "wp_id": 982,
+  "name": "KILLA",
+  "description": null,
+  "url": "https://vapesshopaustralia.com/product-category/killa/",
+  "parent_id": null,
+  "parent_slug": null,
+  "product_count_reported": 8,
+  "product_count_scraped": 8,
+  "image": null,
+  "products": [
+    "killa-frosted-mint-2",
+    "killa-banana-ice",
+    "killa-blueberry",
+    "killa-frosted-mint",
+    "killa-mango-ice",
+    "killa-watermelon",
+    "killa-grape-ice",
+    "killa-cola"
+  ]
+}

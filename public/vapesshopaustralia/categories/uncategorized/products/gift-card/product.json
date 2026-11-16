@@ -1,0 +1,79 @@
+{
+  "id": "gift-card",
+  "wp_id": 6393,
+  "title": "Gift Card",
+  "description": "Shopping for someone else but not sure what to give them? Give them the gift of choice with a Vaporizers.ca Gift Card.\n\nGift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.",
+  "description_html": "<p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a Vaporizers.ca Gift Card.</p>\n<p>Gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/gift-card/",
+  "attributes": {
+    "Title": [
+      "$10.00",
+      "$20.00",
+      "$50.00",
+      "$100.00"
+    ]
+  },
+  "variations": [
+    {
+      "id": 6394,
+      "attributes": [
+        {
+          "name": "Title",
+          "value": "$20.00"
+        }
+      ]
+    },
+    {
+      "id": 6395,
+      "attributes": [
+        {
+          "name": "Title",
+          "value": "$50.00"
+        }
+      ]
+    },
+    {
+      "id": 6396,
+      "attributes": [
+        {
+          "name": "Title",
+          "value": "$100.00"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:10:19",
+  "date_modified": "2025-12-30T11:10:37",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/GiftCard.jpg",
+      "local_path": "categories/uncategorized/products/gift-card/images/01.jpg",
+      "alt": "import placeholder for 404352133"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/gift-card"
+}

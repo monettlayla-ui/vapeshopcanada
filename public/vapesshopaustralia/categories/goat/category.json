@@ -1,0 +1,19 @@
+{
+  "id": "goat",
+  "wp_id": 980,
+  "name": "GOAT",
+  "description": null,
+  "url": "https://vapesshopaustralia.com/product-category/goat/",
+  "parent_id": null,
+  "parent_slug": null,
+  "product_count_reported": 5,
+  "product_count_scraped": 5,
+  "image": null,
+  "products": [
+    "goat-frosted",
+    "goat-blueberry",
+    "goat-cool-mint",
+    "goat-wild-cherry",
+    "goat-crystal-ice"
+  ]
+}

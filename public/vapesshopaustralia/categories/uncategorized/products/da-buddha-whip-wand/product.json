@@ -1,0 +1,119 @@
+{
+  "id": "da-buddha-whip-wand",
+  "wp_id": 3979,
+  "title": "Da Buddha Whip / Wand",
+  "description": "Upgrade your Da Buddha Vaporizer experience with the essential Da Buddha Whip/Wand, a premium replacement whip designed to enhance your vaping sessions. This kit includes a high-quality ground glass wand that ensures a snug fit and optimum vapor flow, eliminating the common issue of air leakage for a smoother, richer vape. Although the mouthpiece is not included, it’s readily available for purchase, allowing you to customize your setup.\n\nChoose between standard or optional tubing sizes; however, note that the original Buddha Tubing is intentionally larger to secure the wand, which may cause a slight kink when inserted. For those preferring a seamless fit without the kink, the Arizer Tubing is recommended as an excellent alternative.\n\nThis whip kit is a must-have accessory for any serious vaper looking to maintain the performance of their Da Buddha Vaporizer. Whether you’re replacing an old whip or upgrading, this kit offers the perfect blend of functionality and quality, assuring that every inhalation is as satisfying as the first.",
+  "description_html": "<p> </p>\n<p dir=\"ltr\"><span>Upgrade your Da Buddha Vaporizer experience with the essential Da Buddha Whip/Wand, a premium replacement whip designed to enhance your vaping sessions. This kit includes a high-quality ground glass wand that ensures a snug fit and optimum vapor flow, eliminating the common issue of air leakage for a smoother, richer vape. Although the mouthpiece is not included, it&#8217;s readily available for purchase, allowing you to customize your setup.</span></p>\n<p dir=\"ltr\"><span>Choose between standard or optional tubing sizes; however, note that the original Buddha Tubing is intentionally larger to secure the wand, which may cause a slight kink when inserted. For those preferring a seamless fit without the kink, the Arizer Tubing is recommended as an excellent alternative.</span></p>\n<p dir=\"ltr\"><span>This whip kit is a must-have accessory for any serious vaper looking to maintain the performance of their Da Buddha Vaporizer. Whether you&#8217;re replacing an old whip or upgrading, this kit offers the perfect blend of functionality and quality, assuring that every inhalation is as satisfying as the first. </span></p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "7F-DB-WH-3",
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/da-buddha-whip-wand/",
+  "attributes": {
+    "Color": [
+      "Blue glass",
+      "Blue glass",
+      "Blue glass",
+      "Clear glass",
+      "Clear glass"
+    ],
+    "Tube": [
+      "No Tube",
+      "Clear tube",
+      "Blue tube",
+      "No Tube",
+      "Clear tube"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3980,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Clear glass"
+        },
+        {
+          "name": "Tube",
+          "value": "No Tube"
+        }
+      ]
+    },
+    {
+      "id": 3981,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Clear glass"
+        },
+        {
+          "name": "Tube",
+          "value": "Clear tube"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Direct Flow",
+      "slug": "direct-flow",
+      "url": "https://vapesshopaustralia.com/product-tag/direct-flow/"
+    },
+    {
+      "name": "glass",
+      "slug": "glass",
+      "url": "https://vapesshopaustralia.com/product-tag/glass/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:29:21",
+  "date_modified": "2025-12-30T07:29:53",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dabuddha-wand-clear.jpg",
+      "local_path": "categories/uncategorized/products/da-buddha-whip-wand/images/01.jpg",
+      "alt": "import placeholder for 176873361"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dabuddha-wand-blue.jpg",
+      "local_path": "categories/uncategorized/products/da-buddha-whip-wand/images/02.jpg",
+      "alt": "da buddha whip / wand"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dabuddha-wand-black.jpg",
+      "local_path": "categories/uncategorized/products/da-buddha-whip-wand/images/03.jpg",
+      "alt": "da buddha whip / wand"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dabuddha-whip.php_.jpg",
+      "local_path": "categories/uncategorized/products/da-buddha-whip-wand/images/04.jpg",
+      "alt": "da buddha whip / wand"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/da-buddha-whip-wand"
+}

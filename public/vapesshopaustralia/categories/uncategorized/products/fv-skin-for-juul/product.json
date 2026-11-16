@@ -1,0 +1,70 @@
+{
+  "id": "fv-skin-for-juul",
+  "wp_id": 1858,
+  "title": "FV Skin for Juul",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000003967",
+  "type": "variable",
+  "price": 6.75,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/fv-skin-for-juul/",
+  "attributes": {
+    "Color": [
+      "Blue Honeycomb",
+      "White Marble"
+    ]
+  },
+  "variations": [
+    {
+      "id": 1859,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "White Marble"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "juul",
+      "slug": "juul",
+      "url": "https://vapesshopaustralia.com/product-tag/juul/"
+    },
+    {
+      "name": "skin",
+      "slug": "skin",
+      "url": "https://vapesshopaustralia.com/product-tag/skin/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:12:57",
+  "date_modified": "2025-12-30T07:02:20",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/17bbf1c7a339d00e4623b8b370e2d0ee.jpg",
+      "local_path": "categories/uncategorized/products/fv-skin-for-juul/images/01.jpg",
+      "alt": "import placeholder for 4480075563088"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/11e27ffa3aefe5674bc35eb81d998955.jpg",
+      "local_path": "categories/uncategorized/products/fv-skin-for-juul/images/02.jpg",
+      "alt": "fv skin for juul"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/fv-skin-for-juul"
+}

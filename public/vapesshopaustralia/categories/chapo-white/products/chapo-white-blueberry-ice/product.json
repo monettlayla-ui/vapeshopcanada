@@ -1,0 +1,44 @@
+{
+  "id": "chapo-white-blueberry-ice",
+  "wp_id": 8154,
+  "title": "CHAPO WHITE – Blueberry Ice",
+  "description": "CHAPO WHITE BLUEBERRY ICE STRONG is an invigorating nicotine pouch product, featuring a refreshing blend of mint and blueberry flavors. Each pouch contains a high nicotine concentration of 13.2 mg, ensuring a robust experience for users.",
+  "description_html": "<p>CHAPO WHITE BLUEBERRY ICE STRONG is an invigorating nicotine pouch product, featuring a refreshing blend of mint and blueberry flavors. Each pouch contains a high nicotine concentration of 13.2 mg, ensuring a robust experience for users.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 25.0,
+  "sale_price": 20.0,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/chapo-white-blueberry-ice/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:31:10",
+  "date_modified": "2025-12-30T20:31:06",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Bluberry.webp",
+      "local_path": "categories/chapo-white/products/chapo-white-blueberry-ice/images/01.webp",
+      "alt": "import placeholder for 68048"
+    }
+  ],
+  "categories": [
+    {
+      "name": "CHAPO WHITE",
+      "slug": "chapo-white",
+      "url": "https://vapesshopaustralia.com/product-category/chapo-white/"
+    }
+  ],
+  "stored_in": "categories/chapo-white/products/chapo-white-blueberry-ice"
+}

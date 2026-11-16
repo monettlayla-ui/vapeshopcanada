@@ -1,0 +1,111 @@
+{
+  "id": "arizer-pvc-travel-tube-with-cap",
+  "wp_id": 3524,
+  "title": "Arizer PVC Travel Tube with Cap",
+  "description": "Secure your vaporizing experience on-the-go with the Arizer PVC Travel Tube with Cap. Designed to fit seamlessly with Arizer’s ArGo, Air, Air II, Solo, and Solo II Glass Tubes, this travel-friendly accessory ensures your 70mm, 90mm, or 110mm aroma tubes are always protected. Whether you’re commuting or on a rugged adventure, this robust PVC tube with a snug cap offers maximum safety against drops and scratches, keeping your aromatherapy sessions ready anytime, anywhere.\n\nEnhance your Arizer experience with this essential, easy-to-carry solution that brings both style and functionality to your daily routine. Ideal for the modern traveler, this PVC travel tube is a must-have for maintaining your device in pristine condition, ensuring your peace of mind while on the move.",
+  "description_html": "<p dir=\"ltr\"><span>Secure your vaporizing experience on-the-go with the Arizer PVC Travel Tube with Cap. Designed to fit seamlessly with Arizer&#8217;s ArGo, Air, Air II, Solo, and Solo II Glass Tubes, this travel-friendly accessory ensures your 70mm, 90mm, or 110mm aroma tubes are always protected. Whether you&#8217;re commuting or on a rugged adventure, this robust PVC tube with a snug cap offers maximum safety against drops and scratches, keeping your aromatherapy sessions ready anytime, anywhere.</span></p>\n<p dir=\"ltr\"><span>Enhance your Arizer experience with this essential, easy-to-carry solution that brings both style and functionality to your daily routine. Ideal for the modern traveler, this PVC travel tube is a must-have for maintaining your device in pristine condition, ensuring your peace of mind while on the move.</span></p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/arizer-pvc-travel-tube-with-cap/",
+  "attributes": {
+    "Quantity": [
+      "70MM / Argo",
+      "90mm",
+      "110mm"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3525,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "90mm"
+        }
+      ]
+    },
+    {
+      "id": 3526,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "110mm"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "AIR-LINK",
+      "slug": "air-link",
+      "url": "https://vapesshopaustralia.com/product-tag/air-link/"
+    },
+    {
+      "name": "Arizer",
+      "slug": "arizer",
+      "url": "https://vapesshopaustralia.com/product-tag/arizer/"
+    },
+    {
+      "name": "arizer air",
+      "slug": "arizer-air",
+      "url": "https://vapesshopaustralia.com/product-tag/arizer-air/"
+    },
+    {
+      "name": "Arizer Solo",
+      "slug": "arizer-solo",
+      "url": "https://vapesshopaustralia.com/product-tag/arizer-solo/"
+    },
+    {
+      "name": "stamped-recommend-collection-155145927",
+      "slug": "stamped-recommend-collection-155145927",
+      "url": "https://vapesshopaustralia.com/product-tag/stamped-recommend-collection-155145927/"
+    },
+    {
+      "name": "stamped-recommend-collection-155157255",
+      "slug": "stamped-recommend-collection-155157255",
+      "url": "https://vapesshopaustralia.com/product-tag/stamped-recommend-collection-155157255/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:20:44",
+  "date_modified": "2025-12-30T07:22:33",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Arizer-PVC-tube-70mmArGo.jpg",
+      "local_path": "categories/uncategorized/products/arizer-pvc-travel-tube-with-cap/images/01.jpg",
+      "alt": "import placeholder for 1689621004339"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Arizer-PVC-tube-90mm.jpg",
+      "local_path": "categories/uncategorized/products/arizer-pvc-travel-tube-with-cap/images/02.jpg",
+      "alt": "arizer pvc travel tube with cap"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/Arizer-PVC-tube-110mm.jpg",
+      "local_path": "categories/uncategorized/products/arizer-pvc-travel-tube-with-cap/images/03.jpg",
+      "alt": "arizer pvc travel tube with cap"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/arizer-pvc-travel-tube-with-cap"
+}

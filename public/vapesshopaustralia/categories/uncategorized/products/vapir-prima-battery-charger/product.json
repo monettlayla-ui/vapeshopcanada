@@ -1,0 +1,53 @@
+{
+  "id": "vapir-prima-battery-charger",
+  "wp_id": 3493,
+  "title": "Vapir Prima Battery Charger",
+  "description": "Battery Charger for your Vapir Prima Battery\n\nDoes NOT include charger cord or AC, just the base",
+  "description_html": "<p>Battery Charger for your Vapir Prima Battery</p>\n<p>Does NOT include charger cord or AC, just the base </p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 14.95,
+  "sale_price": 9.95,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/vapir-prima-battery-charger/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Vapir",
+      "slug": "vapir",
+      "url": "https://vapesshopaustralia.com/product-tag/vapir/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:20:31",
+  "date_modified": "2025-12-30T07:20:39",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/vapir-prima-batterycharger.png",
+      "local_path": "categories/uncategorized/products/vapir-prima-battery-charger/images/01.png",
+      "alt": "import placeholder for 3687262343"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/vapir-prima-battery-charger"
+}

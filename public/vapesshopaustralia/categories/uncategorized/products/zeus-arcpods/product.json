@@ -1,0 +1,65 @@
+{
+  "id": "zeus-arcpods",
+  "wp_id": 4956,
+  "title": "Zeus ArcPods",
+  "description": "Each pack contains 5 Zeus ArcPods\n\nDesigned for use with 3rd generation vaporizers such as the Zeus Arc GTS and Arc S, Zeus ArcPods make it easier and more convenient than ever to take your vaporizer and herb with you. No more packing on the go, just pop in and enjoy.\n\nEven for home use, the ArcPods simplify the dry herb vaping process, minimizing loading times and keeping your unit cleaner, drastically cutting down on cleaning.\n\nEach ArcPod is reusable and constructed out of durable and energy efficient aluminum to facilitate rapid heat transfer from the heating chamber to the dry herb stored inside .They feature paper lids that make it easy to tell when your herb is finished.\n\nRecommended for use with the Zeus Xtruder, the ArcPod automatically ejects from the Xtruder once completely filled with 0.3 grams of herb, ensuring a consistent amount of dry herb is loaded every time.\n\nCompatibility:\nZeus Arc GTS\nZeus Arc S\nZeus Arc GT\nZeus Arc\n\nEach pack contains:\n5x Zeus ArcPods™\n15x Zeus ArcPod Lid",
+  "description_html": "<p><strong>Each pack contains 5 Zeus ArcPods</strong></p>\n<p>Designed for use with 3rd generation vaporizers such as the Zeus Arc GTS and Arc S, Zeus ArcPods make it easier and more convenient than ever to take your vaporizer and herb with you. No more packing on the go, just pop in and enjoy. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Even for home use, the ArcPods simplify the dry herb vaping process, minimizing loading times and keeping your unit cleaner, drastically cutting down on cleaning. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Each ArcPod is reusable and constructed out of durable and energy efficient aluminum to facilitate rapid heat transfer from the heating chamber to the dry herb stored inside .They feature paper lids that make it easy to tell when your herb is finished. <br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Recommended for use with the Zeus Xtruder, the ArcPod automatically ejects from the Xtruder once completely filled with 0.3 grams of herb, ensuring a consistent amount of dry herb is loaded every time.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Compatibility:<br data-mce-fragment=\"1\">    Zeus Arc GTS<br data-mce-fragment=\"1\">    Zeus Arc S<br data-mce-fragment=\"1\">    Zeus Arc GT<br data-mce-fragment=\"1\">    Zeus Arc<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\">Each pack contains:<br data-mce-fragment=\"1\">    5x Zeus ArcPods™<br data-mce-fragment=\"1\">    15x Zeus ArcPod Lid </p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 24.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/zeus-arcpods/",
+  "attributes": {
+    "Quantity": [
+      "1 Pack",
+      "3 Pack"
+    ]
+  },
+  "variations": [
+    {
+      "id": 5009,
+      "attributes": [
+        {
+          "name": "Quantity",
+          "value": "3 Pack"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:27:31",
+  "date_modified": "2025-12-30T10:27:54",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/zeus-arcpods-3pack.jpg",
+      "local_path": "categories/uncategorized/products/zeus-arcpods/images/01.jpg",
+      "alt": "import placeholder for 7235764486316"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/zeus-arcpods.jpg",
+      "local_path": "categories/uncategorized/products/zeus-arcpods/images/02.jpg",
+      "alt": "zeus arcpods"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/zeus-arcpods"
+}

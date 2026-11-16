@@ -1,0 +1,68 @@
+{
+  "id": "crafty-wear-tear-set",
+  "wp_id": 2760,
+  "title": "CRAFTY Wear & Tear Set",
+  "description": "The CRAFTY Wear and Tear Set includes all the small parts necessary to renew your Filling Chamber.\n\nKit includes:\n3 pcs. Mouthpiece\n1 pc. Cooling Unit\n1 pc. Screen Set\n2 pcs. Filling Chamber Tool\n1 pc. Cleaning Brush",
+  "description_html": "<p><strong></strong>The CRAFTY Wear and Tear Set includes all the small parts necessary to renew your Filling Chamber.</p>\n<p>Kit includes:<br />3 pcs. Mouthpiece<br />1 pc. Cooling Unit<br />1 pc. Screen Set<br />2 pcs. Filling Chamber Tool<br />1 pc. Cleaning Brush</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 46.95,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/crafty-wear-tear-set/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "Crafty",
+      "slug": "crafty",
+      "url": "https://vapesshopaustralia.com/product-tag/crafty/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    },
+    {
+      "name": "stamped-recommend-collection-155056007",
+      "slug": "stamped-recommend-collection-155056007",
+      "url": "https://vapesshopaustralia.com/product-tag/stamped-recommend-collection-155056007/"
+    },
+    {
+      "name": "Storz &amp; Bickel",
+      "slug": "storz-bickel",
+      "url": "https://vapesshopaustralia.com/product-tag/storz-bickel/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:13:47",
+  "date_modified": "2025-12-30T07:14:25",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/storz-crafty-wearandtear.jpg",
+      "local_path": "categories/uncategorized/products/crafty-wear-tear-set/images/01.jpg",
+      "alt": "import placeholder for 385371909"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/crafty-wear-tear-set"
+}

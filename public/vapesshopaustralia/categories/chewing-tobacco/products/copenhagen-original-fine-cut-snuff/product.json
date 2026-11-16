@@ -1,0 +1,49 @@
+{
+  "id": "copenhagen-original-fine-cut-snuff",
+  "wp_id": 5133,
+  "title": "Copenhagen Original Fine Cut Snuff",
+  "description": "Copenhagen, born in 1822, was among the first brands of moist smokeless tobacco on the market, and today remains the most authentic and best-selling premium product in the category, with retail sales exceeding $1 billion per year. It’s available in original fine cut and long cut, as well as in Copenhagen Pouches. Copenhagen is also known for freshness, with a “sell by date” stamped on the bottom of every can, and for such distinguishing features as its traditional metal lid and fiberboard can. Like all of our products, Copenhagen is made from 100 percent American-grown tobacco.",
+  "description_html": "<p><em>Copenhagen</em>, born in 1822, was among the first brands of moist smokeless tobacco on the market, and today remains the most authentic and best-selling premium product in the category, with retail sales exceeding $1 billion per year. It’s available in original fine cut and long cut, as well as in <em>Copenhagen Pouches</em>. <em>Copenhagen</em> is also known for freshness, with a “sell by date” stamped on the bottom of every can, and for such distinguishing features as its traditional metal lid and fiberboard can. Like all of our products, <em>Copenhagen</em> is made from 100 percent American-grown tobacco.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 68.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/copenhagen-original-fine-cut-snuff/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:57:55",
+  "date_modified": "2025-12-30T10:58:05",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/copenhagen-snuff.png",
+      "local_path": "categories/chewing-tobacco/products/copenhagen-original-fine-cut-snuff/images/01.png",
+      "alt": "import placeholder for 3003"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Chewing Tobacco",
+      "slug": "chewing-tobacco",
+      "url": "https://vapesshopaustralia.com/product-category/chewing-tobacco/"
+    },
+    {
+      "name": "Mini Chewing Tobacco",
+      "slug": "mini-chewing-tobacco",
+      "url": "https://vapesshopaustralia.com/product-category/mini-chewing-tobacco/"
+    }
+  ],
+  "stored_in": "categories/chewing-tobacco/products/copenhagen-original-fine-cut-snuff"
+}

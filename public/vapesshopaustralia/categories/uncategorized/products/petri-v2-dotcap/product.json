@@ -1,0 +1,58 @@
+{
+  "id": "petri-v2-dotcap",
+  "wp_id": 1883,
+  "title": "Petri V2 DotCap",
+  "description": "This is a replacement chuff cap for the DotMod Petri V2 RDA, offering better airflow with a wider drip tip while maintaining a heat resistant base to ensure you will have a smooth experience even with your angriest builds.\n\n- Two-piece chuff style design for maximum draw\n\n- Heat resistant Delrin base\n\n- Frosty acrylic tip\n\n- Fits Petri V1, V1.5, V2 (not compatible with dotRDA24/Standard Tank/RTA/RDTA)",
+  "description_html": "<div>This is a replacement chuff cap for the DotMod Petri V2 RDA, offering better airflow with a wider drip tip while maintaining a heat resistant base to ensure you will have a smooth experience even with your angriest builds.</div>\n<ul>\n<li>Two-piece chuff style design for maximum draw</li>\n<li>Heat resistant Delrin base</li>\n<li>Frosty acrylic tip</li>\n<li>Fits Petri V1, V1.5, V2 (not compatible with dotRDA24/Standard Tank/RTA/RDTA)</li>\n</ul>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000004259",
+  "type": "simple",
+  "price": 27.5,
+  "sale_price": 19.99,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/petri-v2-dotcap/",
+  "attributes": {
+    "Color": [
+      "Slate"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "dotcap",
+      "slug": "dotcap",
+      "url": "https://vapesshopaustralia.com/product-tag/dotcap/"
+    },
+    {
+      "name": "dotmod",
+      "slug": "dotmod",
+      "url": "https://vapesshopaustralia.com/product-tag/dotmod/"
+    },
+    {
+      "name": "rda",
+      "slug": "rda",
+      "url": "https://vapesshopaustralia.com/product-tag/rda/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:13:21",
+  "date_modified": "2025-12-30T07:02:19",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dotMod_Petri_V2_Dot_Cap.jpg",
+      "local_path": "categories/uncategorized/products/petri-v2-dotcap/images/01.jpg",
+      "alt": "import placeholder for 4170472849488"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/petri-v2-dotcap"
+}

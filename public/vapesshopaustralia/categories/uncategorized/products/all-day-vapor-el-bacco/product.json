@@ -1,0 +1,82 @@
+{
+  "id": "all-day-vapor-el-bacco",
+  "wp_id": 1986,
+  "title": "All Day Vapor – El Bacco",
+  "description": "65VG/35PG\nOntario, Canada\nSalt Nicotine\n\nTobacco\n\nA premium robust flavour perfectly blended for those who enjoy smooth and full bodied tobacco that’s closest to the real thing.\n\nNICOTINE SALTS ARE NOT FOR USE IN SUB-OHM DEVICES or HIGH WATTAGE RANGES\nIf you are unsure of whether your device is suitable for use with salt nicotine liquids, please contact us or consult with the device manufacture.\n\nPLEASE NOTE that when ordering any item from ThunderbirdVapes.Com you will be required to show valid government ID to receive your shipment. The name on the ID, order and payment must be the same and the recipient must be 19 years of age or older. If your shipment is unable to be received due to inaccuracies in Name, Age or the validity of your ID, the Shipping and Handling WILL NOT BE REFUNDED.",
+  "description_html": "<p><span>65VG/35PG</span><br /><span>Ontario, Canada<br />Salt Nicotine</span></p>\n<p>Tobacco</p>\n<p><span>A premium robust flavour perfectly blended for those who enjoy smooth and full bodied tobacco that&#8217;s closest to the real thing.</span></p>\n<p> </p>\n<p><span><strong>NICOTINE SALTS ARE NOT FOR USE IN SUB-OHM DEVICES or HIGH WATTAGE RANGES</strong><br />If you are unsure of whether your device is suitable for use with salt nicotine liquids, please contact us or consult with the device manufacture. </span></p>\n<p><em><strong>PLEASE NOTE</strong> that when ordering any item from ThunderbirdVapes.Com you will be required to show valid government ID to receive your shipment. The name on the ID, order and payment must be the same and the recipient must be 19 years of age or older. If your shipment is unable to be received due to inaccuracies in Name, Age or the <strong>validity of your ID, the Shipping and Handling WILL NOT BE REFUNDED.</strong></em></p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "210000004617",
+  "type": "variable",
+  "price": 27.99,
+  "sale_price": 24.99,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/all-day-vapor-el-bacco/",
+  "attributes": {
+    "Size": [
+      "30ml",
+      "30ml"
+    ],
+    "Strength": [
+      "10mg",
+      "20mg"
+    ]
+  },
+  "variations": [
+    {
+      "id": 1987,
+      "attributes": [
+        {
+          "name": "Size",
+          "value": "30ml"
+        },
+        {
+          "name": "Strength",
+          "value": "20mg"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "canadian",
+      "slug": "canadian",
+      "url": "https://vapesshopaustralia.com/product-tag/canadian/"
+    },
+    {
+      "name": "salt-nic",
+      "slug": "salt-nic",
+      "url": "https://vapesshopaustralia.com/product-tag/salt-nic/"
+    },
+    {
+      "name": "tobacco",
+      "slug": "tobacco",
+      "url": "https://vapesshopaustralia.com/product-tag/tobacco/"
+    },
+    {
+      "name": "vanilla",
+      "slug": "vanilla",
+      "url": "https://vapesshopaustralia.com/product-tag/vanilla/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-29T21:14:21",
+  "date_modified": "2025-12-30T07:02:20",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/All_Day_Vapor_eLiquid_Salt_El_Bacco.jpg",
+      "local_path": "categories/uncategorized/products/all-day-vapor-el-bacco/images/01.jpg",
+      "alt": "import placeholder for 1488090234960"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/all-day-vapor-el-bacco"
+}

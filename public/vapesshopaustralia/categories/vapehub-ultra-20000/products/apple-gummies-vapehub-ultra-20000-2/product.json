@@ -1,0 +1,44 @@
+{
+  "id": "apple-gummies-vapehub-ultra-20000-2",
+  "wp_id": 7068,
+  "title": "APPLE GUMMIES  – VAPEHUB ULTRA 20000",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 88.0,
+  "sale_price": 39.95,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/apple-gummies-vapehub-ultra-20000-2/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:21:05",
+  "date_modified": "2025-12-30T11:21:14",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/22.png",
+      "local_path": "categories/vapehub-ultra-20000/products/apple-gummies-vapehub-ultra-20000-2/images/01.png",
+      "alt": "import placeholder for 80053"
+    }
+  ],
+  "categories": [
+    {
+      "name": "VAPEHUB ULTRA 20000",
+      "slug": "vapehub-ultra-20000",
+      "url": "https://vapesshopaustralia.com/product-category/vapehub-ultra-20000/"
+    }
+  ],
+  "stored_in": "categories/vapehub-ultra-20000/products/apple-gummies-vapehub-ultra-20000-2"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "dr-dabber-510-universal-battery-v2-0-2",
+  "wp_id": 4467,
+  "title": "Dr Dabber 510 Universal Battery V2.0",
+  "description": "Dabber 510 V2 USB-C now available\n\nDiscover the sleek Dr. Dabber® Universal Battery 2.0, now USB-C compatible with pass-through charging.\n\nEnjoy customizable sessions with 3 voltage settings and a 15-second pre-heat/sesh mode. Reliable for 40-50 uses per charge, it’s your go-to for consistent performance.\n\nAvailable in Cyan, Red, Purple, Yellow, and Green accents.\n\n510 Battery Features:\n510 Cartridge Battery\n3 Heat Settings\n15 Second Pre-Heat Mode\n40-50 Uses on a Charge\nUSB-C charging\n\nWhat’s in the Box:\n1x – Dr. Dabber Universal 510 Battery V2\nDoes NOT include USB-C cable or charger\n\nWARRANTY – 1 year manufacturer warranty\nWarranty inquiries to be directed to: info@drdabber.com\nInclude a copy of your invoice, your shipping address and full name along with a description of the issue.",
+  "description_html": "<p><strong>Dabber 510 V2 USB-C now available</strong></p>\n<p>Discover the sleek Dr. Dabber® Universal Battery 2.0, now USB-C compatible with pass-through charging. </p>\n<p>Enjoy customizable sessions with 3 voltage settings and a 15-second pre-heat/sesh mode. Reliable for 40-50 uses per charge, it’s your go-to for consistent performance. </p>\n<p>Available in Cyan, Red, Purple, Yellow, and Green accents.</p>\n<p><strong>510 Battery Features:</strong><br />    510 Cartridge Battery<br />    3 Heat Settings<br />    15 Second Pre-Heat Mode<br />    40-50 Uses on a Charge<br />    USB-C charging</p>\n<p><strong>What&#8217;s in the Box:</strong><br />    1x &#8211; Dr. Dabber Universal 510 Battery V2<br />    Does NOT include USB-C cable or charger</p>\n<p>WARRANTY &#8211; 1 year manufacturer warranty<br />Warranty inquiries to be directed to: info@drdabber.com <br />Include a copy of your invoice, your shipping address and full name along with a description of the issue.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 18.95,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/dr-dabber-510-universal-battery-v2-0-2/",
+  "attributes": {
+    "Color": [
+      "Green V2 USB-C",
+      "Purple USB-C",
+      "Red USB-C"
+    ]
+  },
+  "variations": [
+    {
+      "id": 4468,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Purple USB-C"
+        }
+      ]
+    },
+    {
+      "id": 4470,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Red USB-C"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    },
+    {
+      "name": "compact",
+      "slug": "compact",
+      "url": "https://vapesshopaustralia.com/product-tag/compact/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:25:27",
+  "date_modified": "2025-12-30T10:25:48",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/drdabber-510-black.jpg",
+      "local_path": "categories/uncategorized/products/dr-dabber-510-universal-battery-v2-0-2/images/01.jpg",
+      "alt": "import placeholder for 7545182650540"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dabber510-v2-green.jpg",
+      "local_path": "categories/uncategorized/products/dr-dabber-510-universal-battery-v2-0-2/images/02.jpg",
+      "alt": "dr dabber 510 universal battery v2.0"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dabber510-v2-purple-1.jpg",
+      "local_path": "categories/uncategorized/products/dr-dabber-510-universal-battery-v2-0-2/images/03.jpg",
+      "alt": "dabber510 v2 purple 1.jpg"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dabber510-v2-red.jpg",
+      "local_path": "categories/uncategorized/products/dr-dabber-510-universal-battery-v2-0-2/images/04.jpg",
+      "alt": "dabber510 v2 red.jpg"
+    },
+    {
+      "position": 5,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dabber510-v2-cyan.jpg",
+      "local_path": "categories/uncategorized/products/dr-dabber-510-universal-battery-v2-0-2/images/05.jpg",
+      "alt": "dr dabber 510 universal battery v2.0"
+    },
+    {
+      "position": 6,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/dabber510-v2-yellow.jpg",
+      "local_path": "categories/uncategorized/products/dr-dabber-510-universal-battery-v2-0-2/images/06.jpg",
+      "alt": "dr dabber 510 universal battery v2.0"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/dr-dabber-510-universal-battery-v2-0-2"
+}

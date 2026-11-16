@@ -1,0 +1,91 @@
+{
+  "id": "ssv-surfer-replacement-heater-cover",
+  "wp_id": 2539,
+  "title": "SSV (Surfer) Replacement Heater Cover",
+  "description": "Elevate your vaping experience with the SSV (Surfer) Replacement Heater Cover, an essential part for your Silver Surfer Vaporizer.\n\nWhether you’re dealing with a broken heater cover or simply seeking an upgrade, this replacement heater cover is your go-to solution. Available in three distinct types – Standard Heater Cover, Ground Glass Heater Cover, and Spherical Heater Cover – each variant promises a perfect fit and seamless functionality for your SSV.\n\nCrafted from high-quality glass, these covers not only ensure durability but also enhance the aesthetic appeal of your device. The colours vary, adding a touch of personalization to your vaping journey. Don’t let a damaged part hinder your experience; choose the SSV Replacement Heater Cover for a reliable and stylish fix.\n\nRemember, whether it’s the standard glass or the conical heater cover, each piece is designed to perfectly complement your SSV standard or conical heater, ensuring your vaporizer runs smoothly and efficiently.",
+  "description_html": "<p><span style=\"font-weight: 400\">Elevate your vaping experience with the SSV (Surfer) Replacement Heater Cover, an essential part for your Silver Surfer Vaporizer. </span></p>\n<p><span style=\"font-weight: 400\">Whether you&#8217;re dealing with a broken heater cover or simply seeking an upgrade, this replacement heater cover is your go-to solution. Available in three distinct types – Standard Heater Cover, Ground Glass Heater Cover, and Spherical Heater Cover – each variant promises a perfect fit and seamless functionality for your SSV.</span></p>\n<p><span style=\"font-weight: 400\">Crafted from high-quality glass, these covers not only ensure durability but also enhance the aesthetic appeal of your device. The colours vary, adding a touch of personalization to your vaping journey. Don&#8217;t let a damaged part hinder your experience; choose the SSV Replacement Heater Cover for a reliable and stylish fix. </span></p>\n<p><span style=\"font-weight: 400\">Remember, whether it&#8217;s the standard glass or the conical heater cover, each piece is designed to perfectly complement your SSV standard or conical heater, ensuring your vaporizer runs smoothly and efficiently.</span></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "7F-SSV-HC-1",
+  "type": "variable",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/ssv-surfer-replacement-heater-cover/",
+  "attributes": {
+    "Type": [
+      "Standard",
+      "Ground Glass",
+      "Spherical"
+    ]
+  },
+  "variations": [
+    {
+      "id": 2540,
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "Ground Glass"
+        }
+      ]
+    },
+    {
+      "id": 2541,
+      "attributes": [
+        {
+          "name": "Type",
+          "value": "Spherical"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "glass",
+      "slug": "glass",
+      "url": "https://vapesshopaustralia.com/product-tag/glass/"
+    },
+    {
+      "name": "Parts",
+      "slug": "parts",
+      "url": "https://vapesshopaustralia.com/product-tag/parts/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:09:59",
+  "date_modified": "2025-12-30T07:10:47",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ssv-hc-standard.jpg",
+      "local_path": "categories/uncategorized/products/ssv-surfer-replacement-heater-cover/images/01.jpg",
+      "alt": "import placeholder for 193632425"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ssv-hc-groundglass.jpg",
+      "local_path": "categories/uncategorized/products/ssv-surfer-replacement-heater-cover/images/02.jpg",
+      "alt": "ssv (surfer) replacement heater cover"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/ssv-heatercover-spherical.jpg",
+      "local_path": "categories/uncategorized/products/ssv-surfer-replacement-heater-cover/images/03.jpg",
+      "alt": "ssv (surfer) replacement heater cover"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/ssv-surfer-replacement-heater-cover"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "yocan-kodo-plus-510-battery",
+  "wp_id": 3905,
+  "title": "Yocan Kodo Plus 510 Battery",
+  "description": "The Kodo Plus 510 Battery from Yocan is a compact and portable 510-threaded device designed for convenience. It features a 900mAh battery with USB Type-C charging for quick recharges, preset voltage settings for tailored experiences, and two-button operation for ease of use.\n\nBuilt with high-quality materials and a sleek design, it’s an excellent choice when you need your hit on the go.\n\nProduct Features:\n– 900 mAh Battery Capacity\n– USB Type-C Charging Technology\n– Preset Voltage Settings\n– Two-button Operation\n– 510-threaded Connection\n– Small, Portable\n– Premium Finish\n\nWhat’s Included:\n1 x Kodo Plus 510 Battery\n\nPurposefully cable-free. Most clients have a USB-C cable already. No clutter, no waste.\nIf you need one — we’ve got options.",
+  "description_html": "<p>The Kodo Plus 510 Battery from Yocan is a compact and portable 510-threaded device designed for convenience. It features a 900mAh battery with USB Type-C charging for quick recharges, preset voltage settings for tailored experiences, and two-button operation for ease of use.</p>\n<p>Built with high-quality materials and a sleek design, it’s an excellent choice when you need your hit on the go.<br /> <br /><strong>Product Features:</strong><br />&#8211; 900 mAh Battery Capacity  <br />&#8211; USB Type-C Charging Technology  <br />&#8211; Preset Voltage Settings  <br />&#8211; Two-button Operation  <br />&#8211; 510-threaded Connection  <br />&#8211; Small, Portable  <br />&#8211; Premium Finish </p>\n<p><strong>What&#8217;s Included:</strong><br />1 x Kodo Plus 510 Battery</p>\n<p>Purposefully cable-free. Most clients have a USB-C cable already. No clutter, no waste.<br />If you need one — <a href=\"https://vaporizers.ca/collections/tronian/products/charging-cable-usb-c-30cm?_pos=4&amp;_sid=67c072867&amp;_ss=r\" title=\"USB-C Cable\">we’ve got options</a>.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 16.95,
+  "sale_price": 14.95,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/yocan-kodo-plus-510-battery/",
+  "attributes": {
+    "Color": [
+      "Black",
+      "Green",
+      "Light Purple",
+      "Teal",
+      "Silver"
+    ]
+  },
+  "variations": [
+    {
+      "id": 3928,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Green"
+        }
+      ]
+    },
+    {
+      "id": 3929,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Light Purple"
+        }
+      ]
+    },
+    {
+      "id": 3930,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Teal"
+        }
+      ]
+    },
+    {
+      "id": 3931,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Silver"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    },
+    {
+      "name": "compact",
+      "slug": "compact",
+      "url": "https://vapesshopaustralia.com/product-tag/compact/"
+    },
+    {
+      "name": "yocan",
+      "slug": "yocan",
+      "url": "https://vapesshopaustralia.com/product-tag/yocan/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T07:28:22",
+  "date_modified": "2025-12-30T07:29:08",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/yocan-kodoplus-black.jpg",
+      "local_path": "categories/uncategorized/products/yocan-kodo-plus-510-battery/images/01.jpg",
+      "alt": "import placeholder for 8201969696940"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/yocan-kodoplus-green.jpg",
+      "local_path": "categories/uncategorized/products/yocan-kodo-plus-510-battery/images/02.jpg",
+      "alt": "yocan kodo plus 510 battery"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/yocan-kodoplus-purple.jpg",
+      "local_path": "categories/uncategorized/products/yocan-kodo-plus-510-battery/images/03.jpg",
+      "alt": "yocan kodo plus 510 battery"
+    },
+    {
+      "position": 4,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/yocan-kodoplus-teal.jpg",
+      "local_path": "categories/uncategorized/products/yocan-kodo-plus-510-battery/images/04.jpg",
+      "alt": "yocan kodo plus 510 battery"
+    },
+    {
+      "position": 5,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/yocan-kodoplus-silver.jpg",
+      "local_path": "categories/uncategorized/products/yocan-kodo-plus-510-battery/images/05.jpg",
+      "alt": "yocan kodo plus 510 battery"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/yocan-kodo-plus-510-battery"
+}

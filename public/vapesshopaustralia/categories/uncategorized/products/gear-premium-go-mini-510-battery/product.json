@@ -1,0 +1,86 @@
+{
+  "id": "gear-premium-go-mini-510-battery",
+  "wp_id": 4899,
+  "title": "Gear Premium GO MINI 510 Battery",
+  "description": "The GEAR Premium® GO MINI 510 Battery offers the best of portability and convenience with a travel-friendly 510-thread connection and convenient USB Type-C charging technology. Adjust between multiple voltage settings and start vaping in seconds with a lightning-fast 10-second preheat. Take your sesh to go with the GEAR Premium® GO MINI!\n\nProduct Features:\n– 400mAh battery\n– 510-threaded connection\n– Variable voltage setting\n– 10-second preheat\n– 15-second safety cut off\n– USB Type-C charging technology",
+  "description_html": "<p>The GEAR Premium® GO MINI 510 Battery offers the best of portability and convenience with a travel-friendly 510-thread connection and convenient USB Type-C charging technology. Adjust between multiple voltage settings and start vaping in seconds with a lightning-fast 10-second preheat. Take your sesh to go with the GEAR Premium® GO MINI!</p>\n<p><strong>Product Features:</strong><br />&#8211; 400mAh battery<br />&#8211; 510-threaded connection<br />&#8211; Variable voltage setting<br />&#8211; 10-second preheat<br />&#8211; 15-second safety cut off<br />&#8211; USB Type-C charging technology</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "variable",
+  "price": 10.99,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/gear-premium-go-mini-510-battery/",
+  "attributes": {
+    "Color": [
+      "Black",
+      "Silver"
+    ]
+  },
+  "variations": [
+    {
+      "id": 4900,
+      "attributes": [
+        {
+          "name": "Color",
+          "value": "Silver"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    },
+    {
+      "name": "compact",
+      "slug": "compact",
+      "url": "https://vapesshopaustralia.com/product-tag/compact/"
+    },
+    {
+      "name": "Oil",
+      "slug": "oil",
+      "url": "https://vapesshopaustralia.com/product-tag/oil/"
+    },
+    {
+      "name": "Portable",
+      "slug": "portable",
+      "url": "https://vapesshopaustralia.com/product-tag/portable/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:27:20",
+  "date_modified": "2025-12-30T10:28:04",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/gear-gomini-510-2.jpg",
+      "local_path": "categories/uncategorized/products/gear-premium-go-mini-510-battery/images/01.jpg",
+      "alt": "import placeholder for 8066179563692"
+    },
+    {
+      "position": 2,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/gear-gomini-510.jpg",
+      "local_path": "categories/uncategorized/products/gear-premium-go-mini-510-battery/images/02.jpg",
+      "alt": "gear premium go mini 510 battery"
+    },
+    {
+      "position": 3,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/gear-gomini-510-silver.jpg",
+      "local_path": "categories/uncategorized/products/gear-premium-go-mini-510-battery/images/03.jpg",
+      "alt": "gear premium go mini 510 battery"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/gear-premium-go-mini-510-battery"
+}

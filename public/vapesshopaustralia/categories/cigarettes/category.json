@@ -1,0 +1,22 @@
+{
+  "id": "cigarettes",
+  "wp_id": 960,
+  "name": "CIGARETTES",
+  "description": null,
+  "url": "https://vapesshopaustralia.com/product-category/cigarettes/",
+  "parent_id": null,
+  "parent_slug": null,
+  "product_count_reported": 8,
+  "product_count_scraped": 8,
+  "image": null,
+  "products": [
+    "double-happiness-red",
+    "esse-menthol",
+    "manchester-light",
+    "manchester-red",
+    "manchester-sapphire-blue",
+    "marlboro-gold",
+    "marlboro-ice-blast",
+    "euro-blue"
+  ]
+}

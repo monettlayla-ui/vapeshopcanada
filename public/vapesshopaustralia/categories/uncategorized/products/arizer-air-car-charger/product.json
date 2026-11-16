@@ -1,0 +1,58 @@
+{
+  "id": "arizer-air-car-charger",
+  "wp_id": 6292,
+  "title": "Arizer Air Car Charger",
+  "description": "Arizer Air Car Charger for recharging the Air in your vehicle",
+  "description_html": "<p>Arizer Air Car Charger for recharging the Air in your vehicle</p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": "AZ-A-CC",
+  "type": "simple",
+  "price": 0.0,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/arizer-air-car-charger/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "Accessories",
+      "slug": "accessories",
+      "url": "https://vapesshopaustralia.com/product-tag/accessories/"
+    },
+    {
+      "name": "AIR-LINK",
+      "slug": "air-link",
+      "url": "https://vapesshopaustralia.com/product-tag/air-link/"
+    },
+    {
+      "name": "stamped-recommend-collection-155145927",
+      "slug": "stamped-recommend-collection-155145927",
+      "url": "https://vapesshopaustralia.com/product-tag/stamped-recommend-collection-155145927/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:09:47",
+  "date_modified": "2025-12-30T11:09:57",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/F-AirCarCharger.png",
+      "local_path": "categories/uncategorized/products/arizer-air-car-charger/images/01.png",
+      "alt": "import placeholder for 443128989"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/arizer-air-car-charger"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "skittles-alibarbar-ingot-9000-puffs",
+  "wp_id": 7233,
+  "title": "SKITTLES – ALIBARBAR INGOT – 9000 PUFFS",
+  "description": "ALIBARBAR INGOT – 9000 PUFFS\n\nThe Alibarbar Ingot series has launched 13 flavours, with mysterious blind box flavours waiting to be unveiled.\n\nE-liquid capacity：22ml\nBattery capacity：2350mah\nPuffs：up to 9000\nSize：103x40x26mm\nNet weight：90g\nCoil resistance：1.2Ω\nNon rechargeable\nLED display",
+  "description_html": "<p><strong>ALIBARBAR INGOT – 9000 PUFFS</strong></p>\n<div class=\"woocommerce-product-details__short-description\">\n<p>The Alibarbar Ingot series has launched 13 flavours, with mysterious blind box flavours waiting to be unveiled.</p>\n<p><strong>E-liquid capacity：</strong>22ml<br /> <strong>Battery capacity：</strong>2350mah<br /> <strong>Puffs：</strong>up to 9000<br /> <strong>Size：</strong>103x40x26mm<br /> <strong>Net weight：</strong>90g<br /> <strong>Coil resistance：</strong>1.2Ω<br /> <strong>Non rechargeable</strong><br /> <strong>LED display</strong></p>\n</p></div>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 89.0,
+  "sale_price": 43.95,
+  "currency": "AUD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/skittles-alibarbar-ingot-9000-puffs/",
+  "attributes": {},
+  "variations": [],
+  "tags": [
+    {
+      "name": "ali",
+      "slug": "ali",
+      "url": "https://vapesshopaustralia.com/product-tag/ali/"
+    },
+    {
+      "name": "ali bar",
+      "slug": "ali-bar",
+      "url": "https://vapesshopaustralia.com/product-tag/ali-bar/"
+    },
+    {
+      "name": "ali barbar",
+      "slug": "ali-barbar",
+      "url": "https://vapesshopaustralia.com/product-tag/ali-barbar/"
+    },
+    {
+      "name": "Vape",
+      "slug": "vape",
+      "url": "https://vapesshopaustralia.com/product-tag/vape/"
+    },
+    {
+      "name": "Vapes",
+      "slug": "vapes",
+      "url": "https://vapesshopaustralia.com/product-tag/vapes/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T11:21:31",
+  "date_modified": "2025-12-30T11:22:03",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/alibarbar-vape-9000-SKITTLES.png",
+      "local_path": "categories/alibarbar-9000/products/skittles-alibarbar-ingot-9000-puffs/images/01.png",
+      "alt": "import placeholder for 75877"
+    }
+  ],
+  "categories": [
+    {
+      "name": "ALIBARBAR 9000",
+      "slug": "alibarbar-9000",
+      "url": "https://vapesshopaustralia.com/product-category/alibarbar-9000/"
+    }
+  ],
+  "stored_in": "categories/alibarbar-9000/products/skittles-alibarbar-ingot-9000-puffs"
+}

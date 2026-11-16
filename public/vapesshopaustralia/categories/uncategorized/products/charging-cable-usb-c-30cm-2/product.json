@@ -1,0 +1,73 @@
+{
+  "id": "charging-cable-usb-c-30cm-2",
+  "wp_id": 4665,
+  "title": "Charging Cable USB-C 30cm",
+  "description": "Need an extra USB-C cable or a replacement?\n\nLook no further",
+  "description_html": "<p>Need an extra USB-C cable or a replacement?</p>\n<p>Look no further</p>\n<p> </p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 2.95,
+  "sale_price": null,
+  "currency": "AUD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopaustralia.com/product/charging-cable-usb-c-30cm-2/",
+  "attributes": {
+    "Title": [
+      "Default Title"
+    ]
+  },
+  "variations": [],
+  "tags": [
+    {
+      "name": "510",
+      "slug": "510",
+      "url": "https://vapesshopaustralia.com/product-tag/510/"
+    },
+    {
+      "name": "compact",
+      "slug": "compact",
+      "url": "https://vapesshopaustralia.com/product-tag/compact/"
+    },
+    {
+      "name": "Portable",
+      "slug": "portable",
+      "url": "https://vapesshopaustralia.com/product-tag/portable/"
+    },
+    {
+      "name": "pulsar",
+      "slug": "pulsar",
+      "url": "https://vapesshopaustralia.com/product-tag/pulsar/"
+    },
+    {
+      "name": "Tronian",
+      "slug": "tronian",
+      "url": "https://vapesshopaustralia.com/product-tag/tronian/"
+    },
+    {
+      "name": "Wax",
+      "slug": "wax",
+      "url": "https://vapesshopaustralia.com/product-tag/wax/"
+    }
+  ],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "date_published": "2025-12-30T10:26:00",
+  "date_modified": "2025-12-30T10:26:48",
+  "images": [
+    {
+      "position": 1,
+      "original_url": "https://vapesshopaustralia.com/wp-content/uploads/2025/12/cable-usbc.jpg",
+      "local_path": "categories/uncategorized/products/charging-cable-usb-c-30cm-2/images/01.jpg",
+      "alt": "import placeholder for 7926348480684"
+    }
+  ],
+  "categories": [],
+  "stored_in": "categories/uncategorized/products/charging-cable-usb-c-30cm-2"
+}
