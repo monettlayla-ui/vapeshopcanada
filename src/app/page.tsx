@@ -6,7 +6,7 @@ import { Faq } from "@/components/sections/Faq";
 import { Features } from "@/components/sections/Features";
 import { CategoryBanners } from "@/components/sections/CategoryBanners";
 import { FeaturedProducts } from "@/components/sections/FeaturedProducts";
-import { extraSections, alfakherContent, alibarbarContent, alibarbarProductRows, alfakherProductRows, eLiquidsContent, gunnpodsContent, gunnpodsProductRows, homeProductRows, hqdContent, hqdProductRows, igetContent, igetProductRows, introContent, mrFogContent, mrFogProductRows, smokelessContent, smokelessProductRows, vaporassoContent } from "@/config/site";
+import { extraSections, alfakherContent, alibarbarContent, alibarbarProductRows, alfakherProductRows, eLiquidsContent, gunnpodsContent, gunnpodsProductRows, homeProductRows, hqdContent, hqdProductRows, igetContent, igetProductRows, introContent, mrFogContent, mrFogProductRows, smokelessContent, smokelessProductRows, vaporassoContent, vaporassoProductRows } from "@/config/site";
 import { FloatingCartButton } from "@/components/ui/FloatingCartButton";
 
 export default function Home() {
@@ -53,6 +53,9 @@ export default function Home() {
           <FeaturedProducts key={row.slugs[0]} {...row} />
         ))}
         <TextSection {...vaporassoContent} />
+        {vaporassoProductRows.map((row) => (
+          <FeaturedProducts key={row.slugs[0]} {...row} />
+        ))}
         <TextSection {...mrFogContent} />
         {mrFogProductRows.map((row) => (
           <FeaturedProducts key={row.slugs[0]} {...row} />

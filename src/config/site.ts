@@ -553,3 +553,10 @@ export const extraSections: Record<"pouches" | "geekBar" | "eLiquids" | "glass",
     ],
   },
 };
+
+/** Product row shown under the Vaporesso text section. */
+export const vaporassoProductRows: ProductRow[] = [
+  {
+    slugs: ["xros-5-mini-kit-2ml", "xros-4-nano-kit-2ml", "xros-5-kit-2ml", "xros-4-kit-2ml"],
+  },
+];
