@@ -79,7 +79,7 @@ export async function POST(req: Request) {
     shipProvince: text(raw.shipProvince),
     shipPostalCode: text(raw.shipPostalCode),
     notes: text(raw.notes),
-    payment: (typeof raw.payment === "string" && raw.payment in PAYMENT_METHODS ? raw.payment : "bank") as PaymentMethod,
+    payment: (typeof raw.payment === "string" && raw.payment in PAYMENT_METHODS ? raw.payment : "etransfer") as PaymentMethod,
   };
   if (Object.keys(validateCheckout(form)).length > 0) {
     return fail("Please check your details and try again.", 400);

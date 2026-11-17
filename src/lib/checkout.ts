@@ -30,16 +30,12 @@ export const PROVINCES = [
   "Yukon",
 ];
 
-export type PaymentMethod = "bank" | "payid" | "bitcoin";
+export type PaymentMethod = "etransfer" | "bitcoin";
 
 export const PAYMENT_METHODS: Record<PaymentMethod, { label: string; note: string }> = {
-  bank: {
-    label: "Bank transfer",
-    note: "After submitting your order, kindly contact support for payment details.",
-  },
-  payid: {
-    label: "PAYID",
-    note: "After submitting your order, kindly contact support for PayID payment details.",
+  etransfer: {
+    label: "E-transfer",
+    note: "After submitting your order, kindly contact support for the e-transfer payment details.",
   },
   bitcoin: {
     label: "Bitcoin",
@@ -84,7 +80,7 @@ export const EMPTY_FORM: CheckoutForm = {
   shipProvince: "",
   shipPostalCode: "",
   notes: "",
-  payment: "bank",
+  payment: "etransfer",
 };
 
 export type FieldErrors = Partial<Record<Exclude<keyof CheckoutForm, "shipDifferent">, string>>;

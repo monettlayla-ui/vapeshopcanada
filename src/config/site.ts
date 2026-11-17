@@ -213,7 +213,7 @@ export const features: { icon: FeatureIconName; title: string; text: string }[] 
   {
     icon: "arrow",
     title: "Easy Payment",
-    text: "We accept flexible payment options such as Wire Bank Transfers, Payid and Cryptocurrency.",
+    text: "We accept flexible payment options such as E-transfer and Bitcoin.",
   },
 ];
 
