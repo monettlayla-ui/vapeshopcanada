@@ -21,12 +21,8 @@ export const navItems: NavItem[] = [
   { label: "Cart", href: "/cart" },
 ];
 
-/** Footer links keep "My account", which is not in the top nav. */
-export const footerNavItems: NavItem[] = [
-  ...navItems.slice(0, 4),
-  { label: "My account", href: "/my-account" },
-  ...navItems.slice(4),
-];
+/** Footer links: same as the top nav (there is no customer account on this site). */
+export const footerNavItems: NavItem[] = [...navItems];
 
 export const emptyCartContent = {
   title: "Cart",

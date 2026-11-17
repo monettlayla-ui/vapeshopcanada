@@ -33,7 +33,11 @@ export function Footer() {
           {/* Contact */}
           <div className="text-slate-800 md:text-center">
             <p>{c.contactLabel}</p>
-            <p className="mt-6">{c.email}</p>
+            <p className="mt-6">
+              <a href={`mailto:${c.email}`} className="underline underline-offset-4 hover:text-slate-950">
+                {c.email}
+              </a>
+            </p>
           </div>
         </div>
       </div>
