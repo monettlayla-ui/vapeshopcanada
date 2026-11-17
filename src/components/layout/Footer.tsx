@@ -41,6 +41,14 @@ export function Footer() {
       <div className="border-t border-slate-300 bg-white px-4 py-5 text-center text-slate-700">
         {c.copyright}
       </div>
+
+      <div className="bg-[#f3f3f3] px-5 pt-8 pb-14 text-center text-[15px] leading-relaxed text-slate-500 sm:text-lg sm:leading-8">
+        <p className="mx-auto max-w-3xl">
+          © <Link href="/" className="underline decoration-slate-400 underline-offset-4">{c.notice.brand}</Link>
+          {"  -  "}
+          <strong className="font-bold">{c.notice.servingLead}</strong> {c.notice.servingRest}
+        </p>
+      </div>
     </footer>
   );
 }

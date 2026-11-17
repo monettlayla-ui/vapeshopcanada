@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import nodemailer from "nodemailer";
 import { COUNTRIES, MIN_ORDER_TOTAL, PAYMENT_METHODS, PROVINCES, hasProvinceList, validateCheckout, type CheckoutForm, type PaymentMethod } from "@/lib/checkout";
 import { SHIPPING_METHODS, roundMoney, type ShippingMethod } from "@/lib/cart";
 import { orderHtml, orderText, type Order, type OrderLine } from "@/lib/order-email";
@@ -16,12 +17,34 @@ function limited(ip: string): boolean {
 
 const fail = (error: string, status: number) => NextResponse.json({ ok: false, error }, { status });
 
+// Preferred: send through the business mailbox itself (Hostinger SMTP). Falls back to Resend if configured.
+const smtpConfigured = () => Boolean(process.env.SMTP_USER && process.env.SMTP_PASSWORD);
+const fromAddress = () => process.env.ORDER_FROM_EMAIL || `Vape Shop Canada <${process.env.SMTP_USER}>`;
+
 async function sendMail(opts: { to: string; subject: string; text: string; html: string; replyTo?: string }) {
+  if (smtpConfigured()) {
+    const port = Number(process.env.SMTP_PORT ?? 465);
+    const transport = nodemailer.createTransport({
+      host: process.env.SMTP_HOST ?? "smtp.hostinger.com",
+      port,
+      secure: port === 465,
+      auth: { user: process.env.SMTP_USER, pass: process.env.SMTP_PASSWORD },
+    });
+    await transport.sendMail({
+      from: fromAddress(),
+      to: opts.to,
+      subject: opts.subject,
+      text: opts.text,
+      html: opts.html,
+      replyTo: opts.replyTo,
+    });
+    return;
+  }
   const res = await fetch("https://api.resend.com/emails", {
     method: "POST",
     headers: { Authorization: `Bearer ${process.env.RESEND_API_KEY}`, "Content-Type": "application/json" },
     body: JSON.stringify({
-      from: process.env.ORDER_FROM_EMAIL,
+      from: fromAddress(),
       to: [opts.to],
       subject: opts.subject,
       text: opts.text,
@@ -41,9 +64,9 @@ type Body = {
 
 export async function POST(req: Request) {
   // The shop owner sets these in the host's environment settings (never in the code).
-  const apiKey = process.env.RESEND_API_KEY;
-  const toEmail = process.env.ORDER_TO_EMAIL;
-  if (!apiKey || !toEmail || !process.env.ORDER_FROM_EMAIL) return fail("not_configured", 503);
+  const toEmail = process.env.ORDER_TO_EMAIL || process.env.SMTP_USER;
+  const resendReady = Boolean(process.env.RESEND_API_KEY && process.env.ORDER_FROM_EMAIL);
+  if (!toEmail || !(smtpConfigured() || resendReady)) return fail("not_configured", 503);
 
   const ip = req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ?? "unknown";
   if (limited(ip)) return fail("Too many orders from this connection. Please try again later.", 429);
@@ -126,7 +149,8 @@ export async function POST(req: Request) {
   }
 
   // Optional confirmation to the customer; a failure here must not fail the order.
-  if (process.env.SEND_CUSTOMER_CONFIRMATION === "true") {
+  // On by default; set SEND_CUSTOMER_CONFIRMATION=false to turn it off.
+  if (process.env.SEND_CUSTOMER_CONFIRMATION !== "false") {
     try {
       await sendMail({
         to: form.email.trim(),

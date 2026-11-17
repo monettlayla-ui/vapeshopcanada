@@ -413,8 +413,15 @@ export const footerContent = {
     { label: "Privacy Policy", href: "/privacy-policy" },
   ] as NavItem[],
   contactLabel: "Contact",
-  email: "sales@vapesshopaustralia.com",
+  email: "sales@vapesshopcanada.com",
   copyright: "Copyright © 2026 VAPE SHOP CANADA",
+  /** Age and delivery notice shown at the very bottom of every page. */
+  notice: {
+    brand: "Vape Shop Canada - Canada's Vape Shop Online",
+    servingLead: "Serving Ontario.",
+    servingRest:
+      "Quebec, British Columbia, Alberta, Saskatchewan, Manitoba, New Brunswick, Newfoundland, Nova Scotia, Prince Edward Island, Yukon, Northwest Territories and Nunavut. You must be at least 19 to buy and/or use this website. Government-issued photo ID is required for delivery and pickup.",
+  },
 };
 
 export const aboutHero = {
@@ -473,7 +480,7 @@ export const contactContent = {
   title: "Contact Us",
   text: "We offer authentic vape products, competitive prices, fast Canada-wide delivery, secure payments, reliable support, and a hassle-free online shopping experience.",
   address: "Canada",
-  email: "Sales@vapesshopaustralia.com",
+  email: "sales@vapesshopcanada.com",
   phone: "+1 (782) 910-0204",
 };
 

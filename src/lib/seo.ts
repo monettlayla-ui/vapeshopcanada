@@ -11,7 +11,7 @@ export const seoConfig = {
   domain: "www.vapesshopcanada.com",
   telephone: "+17829100204",
   /** Set to the business mailbox on the domain once it exists. Left out of structured data while empty. */
-  email: "",
+  email: "sales@vapesshopcanada.com",
   /** Online-only store serving all of Canada, so no street address is published. */
   areaServed: "Canada",
   /** Real social profile URLs only. Leave empty until they exist. */
