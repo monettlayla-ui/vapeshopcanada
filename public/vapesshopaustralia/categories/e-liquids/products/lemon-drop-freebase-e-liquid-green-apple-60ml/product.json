@@ -1,0 +1,41 @@
+{
+  "id": "lemon-drop-freebase-e-liquid-green-apple-60ml",
+  "title": "Lemon Drop Freebase E-Liquid – Green Apple 60ml",
+  "description": "Description\nTart green apples plunged into sweet and tangy lemonade for the perfect all-day combo.\n70% VG 30% PG",
+  "description_html": "<p>Description</p><p>Tart green apples plunged into sweet and tangy lemonade for the perfect all-day combo.</p><p>70% VG 30% PG</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 35.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/lemon-drop-freebase-e-liquid-green-apple-60ml/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/lemon-drop-freebase-e-liquid-green-apple-60ml/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/lemon-drop-freebase-e-liquid-green-apple-60ml"
+}

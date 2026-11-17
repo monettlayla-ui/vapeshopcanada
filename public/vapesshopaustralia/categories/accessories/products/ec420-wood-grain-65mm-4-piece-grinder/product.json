@@ -1,0 +1,41 @@
+{
+  "id": "ec420-wood-grain-65mm-4-piece-grinder",
+  "title": "EC420 Wood Grain 65mm 4-Piece Grinder",
+  "description": "Metal\n65mm 4-piece\nWood Grain",
+  "description_html": "<p>Metal</p><p>65mm 4-piece</p><p>Wood Grain</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 32.49,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/ec420-wood-grain-65mm-4-piece-grinder/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/ec420-wood-grain-65mm-4-piece-grinder/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/ec420-wood-grain-65mm-4-piece-grinder"
+}

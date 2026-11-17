@@ -1,0 +1,41 @@
+{
+  "id": "smokers-gift-set-canna-girl-design",
+  "title": "Smoker’s Gift Set – Canna Girl Design",
+  "description": "Glass Ash Tray x 1\nMetal Grinder x 1\nMetal Container x 1\nMetal Handpipe x 1\nMetal Rolling Tray x 1",
+  "description_html": "<p>Glass Ash Tray x 1</p><p>Metal Grinder x 1</p><p>Metal Container x 1</p><p>Metal Handpipe x 1</p><p>Metal Rolling Tray x 1</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 39.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/smokers-gift-set-canna-girl-design/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/smokers-gift-set-canna-girl-design/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/smokers-gift-set-canna-girl-design"
+}

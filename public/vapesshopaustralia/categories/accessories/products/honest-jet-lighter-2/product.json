@@ -1,0 +1,41 @@
+{
+  "id": "honest-jet-lighter-2",
+  "title": "Honest Jet Lighter",
+  "description": "Due to shipping laws all Honest torches are shipped empty.\nIncluded\n1 x Honest Torch (random colour)(empty for shipping)",
+  "description_html": "<p>Due to shipping laws all Honest torches are shipped empty.</p><p>Included</p><p>1 x Honest Torch (random colour)(empty for shipping)</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 17.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/honest-jet-lighter-2/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/honest-jet-lighter-2/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/honest-jet-lighter-2"
+}

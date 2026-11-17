@@ -1,0 +1,41 @@
+{
+  "id": "east-coast-420-full-colour-cone-bowl",
+  "title": "East Coast 420 Full Colour Cone Bowl",
+  "description": "Pick between Clear, Pink, White, Green or Black Bowls!\n1pc",
+  "description_html": "<p>Pick between Clear, Pink, White, Green or Black Bowls!</p><p>1pc</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 8.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/east-coast-420-full-colour-cone-bowl/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/east-coast-420-full-colour-cone-bowl/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/east-coast-420-full-colour-cone-bowl"
+}

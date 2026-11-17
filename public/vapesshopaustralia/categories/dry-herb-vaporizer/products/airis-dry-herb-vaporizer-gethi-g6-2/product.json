@@ -1,0 +1,41 @@
+{
+  "id": "airis-dry-herb-vaporizer-gethi-g6-2",
+  "title": "AIRIS DRY HERB VAPORIZER GETHI G6",
+  "description": "Weight 0.2 kg\nColor\nBlack, Rainbow\nBattery Capacity\n1500 mAh",
+  "description_html": "<p>Weight 0.2 kg</p><p>Color</p><p>Black, Rainbow</p><p>Battery Capacity</p><p>1500 mAh</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 89.0,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/airis-dry-herb-vaporizer-gethi-g6-2/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/dry-herb-vaporizer/products/airis-dry-herb-vaporizer-gethi-g6-2/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "DRY HERB VAPORIZER",
+      "slug": "dry-herb-vaporizer",
+      "url": "https://vapeshopcanada.com/product-category/dry-herb-vaporizer/"
+    }
+  ],
+  "stored_in": "categories/dry-herb-vaporizer/products/airis-dry-herb-vaporizer-gethi-g6-2"
+}

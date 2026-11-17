@@ -1,0 +1,41 @@
+{
+  "id": "smokers-gift-set-cookies-design",
+  "title": "Smoker’s Gift Set – Cookies Design",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 39.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/smokers-gift-set-cookies-design/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/disposable-vapes/products/smokers-gift-set-cookies-design/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "DISPOSABLE VAPES",
+      "slug": "disposable-vapes",
+      "url": "https://vapeshopcanada.com/product-category/disposable-vapes/"
+    }
+  ],
+  "stored_in": "categories/disposable-vapes/products/smokers-gift-set-cookies-design"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "smok-rpm3-replacement-coils",
+  "title": "SMOK RPM3 Replacement Coils",
+  "description": "Description\nNote: Sold individually. Please adjust the quantity to the desired number prior to ordering.\nSMOK RPM3 Replacement Coils features Meshed 0.15ohm and Meshed 0.23ohm coils and is installed in a press-fit manner, which is designed for the SMOK RPM 5.",
+  "description_html": "<p>Description</p><p>Note: Sold individually. Please adjust the quantity to the desired number prior to ordering.</p><p>SMOK RPM3 Replacement Coils features Meshed 0.15ohm and Meshed 0.23ohm coils and is installed in a press-fit manner, which is designed for the SMOK RPM 5.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 5.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/smok-rpm3-replacement-coils/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/smok-rpm3-replacement-coils/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/smok-rpm3-replacement-coils"
+}

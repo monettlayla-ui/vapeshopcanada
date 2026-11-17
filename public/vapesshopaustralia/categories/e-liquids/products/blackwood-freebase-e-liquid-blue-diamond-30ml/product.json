@@ -1,0 +1,41 @@
+{
+  "id": "blackwood-freebase-e-liquid-blue-diamond-30ml",
+  "title": "Blackwood Freebase E-Liquid – Blue Diamond 30ml",
+  "description": "Description\nFinally, a menthol tobacco for the true connoisseur. Combining a rich light tobacco with a smooth cooling menthol in a perfect blend.\n30ml Bottle\n65% VG 35% PG",
+  "description_html": "<p>Description</p><p>Finally, a menthol tobacco for the true connoisseur. Combining a rich light tobacco with a smooth cooling menthol in a perfect blend.</p><p>30ml Bottle</p><p>65% VG 35% PG</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 22.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/blackwood-freebase-e-liquid-blue-diamond-30ml/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/blackwood-freebase-e-liquid-blue-diamond-30ml/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/blackwood-freebase-e-liquid-blue-diamond-30ml"
+}

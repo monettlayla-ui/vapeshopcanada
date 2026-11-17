@@ -1,0 +1,41 @@
+{
+  "id": "nettle-leaf-25g-2",
+  "title": "Nettle Leaf 25g",
+  "description": "Disclaimer: If unsure seek professional advise before using herbs.",
+  "description_html": "<p>Disclaimer: If unsure seek professional advise before using herbs.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 7.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/nettle-leaf-25g-2/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/nettle-leaf-25g-2/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/nettle-leaf-25g-2"
+}

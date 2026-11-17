@@ -1,0 +1,41 @@
+{
+  "id": "marble-pick",
+  "title": "Marble Pick",
+  "description": "Marble Pick Tool by 7th floor is both handy as well as attractive. Each marble pick is hand crafted out of bright eye catching colour and clear glass.\nThe marble picks have a sharp point on one end and a glass mushroom on the other. And come in blue and red.\nIncluded\n1 x Marble Pick",
+  "description_html": "<p>Marble Pick Tool by 7th floor is both handy as well as attractive. Each marble pick is hand crafted out of bright eye catching colour and clear glass.</p><p>The marble picks have a sharp point on one end and a glass mushroom on the other. And come in blue and red.</p><p>Included</p><p>1 x Marble Pick</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 8.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/marble-pick/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/marble-pick/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/marble-pick"
+}

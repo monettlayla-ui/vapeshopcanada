@@ -1,0 +1,41 @@
+{
+  "id": "ec420-diamond-shape-grinder-55mm-4-piece",
+  "title": "EC420 Diamond Shape Grinder – 55mm 4-Piece",
+  "description": "Metal\n55mm 4-Piece\nDiamond Shape",
+  "description_html": "<p>Metal</p><p>55mm 4-Piece</p><p>Diamond Shape</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 24.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/ec420-diamond-shape-grinder-55mm-4-piece/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/ec420-diamond-shape-grinder-55mm-4-piece/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/ec420-diamond-shape-grinder-55mm-4-piece"
+}

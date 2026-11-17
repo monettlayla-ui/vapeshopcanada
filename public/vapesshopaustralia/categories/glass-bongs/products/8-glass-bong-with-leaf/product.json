@@ -1,0 +1,41 @@
+{
+  "id": "8-glass-bong-with-leaf",
+  "title": "8″ Glass Bong with Leaf",
+  "description": "Height: 203 mm\nJoint: 14 mm F\nIncludes the stem and the glass bowl",
+  "description_html": "<p>Height: 203 mm</p><p>Joint: 14 mm F</p><p>Includes the stem and the glass bowl</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 34.89,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/8-glass-bong-with-leaf/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/glass-bongs/products/8-glass-bong-with-leaf/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "GLASS BONGS",
+      "slug": "glass-bongs",
+      "url": "https://vapeshopcanada.com/product-category/glass-bongs/"
+    }
+  ],
+  "stored_in": "categories/glass-bongs/products/8-glass-bong-with-leaf"
+}

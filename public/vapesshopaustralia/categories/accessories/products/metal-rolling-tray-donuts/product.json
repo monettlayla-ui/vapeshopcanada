@@ -1,0 +1,41 @@
+{
+  "id": "metal-rolling-tray-donuts",
+  "title": "Metal Rolling Tray – Donuts",
+  "description": "Description\nSmall size:\n7″ x 5″\nMedium size:\n11.5″ x 7.5″\nMetal",
+  "description_html": "<p>Description</p><p>Small size:</p><p>7″ x 5″</p><p>Medium size:</p><p>11.5″ x 7.5″</p><p>Metal</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 8.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/metal-rolling-tray-donuts/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/metal-rolling-tray-donuts/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/metal-rolling-tray-donuts"
+}

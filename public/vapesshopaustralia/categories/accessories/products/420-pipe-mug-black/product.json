@@ -1,0 +1,41 @@
+{
+  "id": "420-pipe-mug-black",
+  "title": "420 Pipe Mug – Black",
+  "description": "This mug pipe with a 420 design can hold up to 400 ml of liquid. The handle of this mug includes a built-in pipe where smokers can pack dry herb in to take a quick hit while drinking. It even features a carb hole for greater control over the size and force of the hits.",
+  "description_html": "<p>This mug pipe with a 420 design can hold up to 400 ml of liquid. The handle of this mug includes a built-in pipe where smokers can pack dry herb in to take a quick hit while drinking. It even features a carb hole for greater control over the size and force of the hits.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 19.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/420-pipe-mug-black/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/420-pipe-mug-black/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/420-pipe-mug-black"
+}

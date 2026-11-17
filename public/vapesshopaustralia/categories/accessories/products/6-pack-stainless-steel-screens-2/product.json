@@ -1,0 +1,41 @@
+{
+  "id": "6-pack-stainless-steel-screens-2",
+  "title": "6 Pack Stainless Steel Screens",
+  "description": "Dimensions\nDiameter – 16mm\nIncluded\n6 x Stainless Steel Screens",
+  "description_html": "<p>Dimensions</p><p>Diameter – 16mm</p><p>Included</p><p>6 x Stainless Steel Screens</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 9.5,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/6-pack-stainless-steel-screens-2/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/6-pack-stainless-steel-screens-2/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/6-pack-stainless-steel-screens-2"
+}

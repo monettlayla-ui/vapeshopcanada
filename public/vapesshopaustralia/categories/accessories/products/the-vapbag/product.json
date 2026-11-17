@@ -1,0 +1,41 @@
+{
+  "id": "the-vapbag",
+  "title": "The Vapbag",
+  "description": "The Vapbag\nThe Vapbag is a neat little storage option, designed to store and carry your vapman along with various different accessories such as the filling, small herb container, sieve and extra mouthpieces.\nThis beautiful little bag is made from sustainable material which include cork and canvas.\nIncluded\n1 x The Vapbag",
+  "description_html": "<p>The Vapbag</p><p>The Vapbag is a neat little storage option, designed to store and carry your vapman along with various different accessories such as the filling, small herb container, sieve and extra mouthpieces.</p><p>This beautiful little bag is made from sustainable material which include cork and canvas.</p><p>Included</p><p>1 x The Vapbag</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 19.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/the-vapbag/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/the-vapbag/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/the-vapbag"
+}

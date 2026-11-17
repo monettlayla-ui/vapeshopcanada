@@ -1,0 +1,41 @@
+{
+  "id": "smok-novo-4-replacement-pod",
+  "title": "SMOK Novo 4 Replacement Pod",
+  "description": "Description\nNote: Sold individually. Please adjust the quantity to the desired number prior to ordering.\nThis is the replacement pod for the SMOK Novo 4 vape device. This replacement pod holds 2ml of e-liquid.\nAccessory Quick Links:\nLP1 Replacement Coils",
+  "description_html": "<p>Description</p><p>Note: Sold individually. Please adjust the quantity to the desired number prior to ordering.</p><p>This is the replacement pod for the SMOK Novo 4 vape device. This replacement pod holds 2ml of e-liquid.</p><p>Accessory Quick Links:</p><p>LP1 Replacement Coils</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 6.99,
+  "sale_price": 5.59,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/smok-novo-4-replacement-pod/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/smok-novo-4-replacement-pod/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/smok-novo-4-replacement-pod"
+}

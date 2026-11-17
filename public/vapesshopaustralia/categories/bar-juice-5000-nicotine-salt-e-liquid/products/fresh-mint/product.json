@@ -1,0 +1,41 @@
+{
+  "id": "fresh-mint",
+  "title": "Fresh Mint",
+  "description": "Nicotine Strength:\n10MG – Medium Nicotine\n20MG – High Nicotine",
+  "description_html": "<p>Nicotine Strength:</p><p>10MG – Medium Nicotine</p><p>20MG – High Nicotine</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 7.51,
+  "sale_price": 5.0,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/fresh-mint/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/bar-juice-5000-nicotine-salt-e-liquid/products/fresh-mint/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "BAR JUICE 5000 NICOTINE SALT E-LIQUID",
+      "slug": "bar-juice-5000-nicotine-salt-e-liquid",
+      "url": "https://vapeshopcanada.com/product-category/bar-juice-5000-nicotine-salt-e-liquid/"
+    }
+  ],
+  "stored_in": "categories/bar-juice-5000-nicotine-salt-e-liquid/products/fresh-mint"
+}

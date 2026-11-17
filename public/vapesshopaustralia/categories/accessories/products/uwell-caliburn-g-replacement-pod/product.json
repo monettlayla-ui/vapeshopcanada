@@ -1,0 +1,41 @@
+{
+  "id": "uwell-caliburn-g-replacement-pod",
+  "title": "UWell Caliburn G Replacement Pod",
+  "description": "Description\nSpecifications\nNote: Sold as pairs.\nThese replacement pods have a 1.6ml e-liquid capacity. They also feature an integrated coil.\nReplacement pod for the\nUWell Caliburn G Pod Vape Device\nand\nUWell Koko Prime Pod Vape Device\n.\nAvailable in:\n0.8ohm\n1.0ohm",
+  "description_html": "<p>Description</p><p>Specifications</p><p>Note: Sold as pairs.</p><p>These replacement pods have a 1.6ml e-liquid capacity. They also feature an integrated coil.</p><p>Replacement pod for the</p><p>UWell Caliburn G Pod Vape Device</p><p>and</p><p>UWell Koko Prime Pod Vape Device</p><p>.</p><p>Available in:</p><p>0.8ohm</p><p>1.0ohm</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 15.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/uwell-caliburn-g-replacement-pod/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/uwell-caliburn-g-replacement-pod/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/uwell-caliburn-g-replacement-pod"
+}

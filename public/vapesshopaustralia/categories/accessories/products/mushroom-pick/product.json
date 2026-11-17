@@ -1,0 +1,41 @@
+{
+  "id": "mushroom-pick",
+  "title": "Mushroom Pick",
+  "description": "These awesome little mushroom picks are very handy and can be used for a variety of jobs.\nThe mushroom picks have a sharp point on one end and a glass mushroom on the other. And come in blue and red.\nIncluded\n1 x Mushroom Pick",
+  "description_html": "<p>These awesome little mushroom picks are very handy and can be used for a variety of jobs.</p><p>The mushroom picks have a sharp point on one end and a glass mushroom on the other. And come in blue and red.</p><p>Included</p><p>1 x Mushroom Pick</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 9.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/mushroom-pick/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/mushroom-pick/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/mushroom-pick"
+}

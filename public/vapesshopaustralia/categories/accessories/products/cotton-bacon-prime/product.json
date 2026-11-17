@@ -1,0 +1,41 @@
+{
+  "id": "cotton-bacon-prime",
+  "title": "Cotton Bacon Prime",
+  "description": "That’s right, the folks at Wick ‘n’ Vape have further refined their already exceptional, industry standard cotton wicking! Cotton Bacon Prime promises to wick 33% faster than traditional Cotton Bacon, boasting better wicking than any cotton on the market currently. We are very excited to be among the first to bring you this top shelf cotton!\nSpecifications:\nPerfect for Squonking, tanks and RDAs\n33% faster absorption, easier separation\nThe most cutting edge, cleanest and easy to use cotton wick.\nEvery bag of Cotton Bacon PRIME includes a unique authentication number that can be verified independently",
+  "description_html": "<p>That’s right, the folks at Wick ‘n’ Vape have further refined their already exceptional, industry standard cotton wicking! Cotton Bacon Prime promises to wick 33% faster than traditional Cotton Bacon, boasting better wicking than any cotton on the market currently. We are very excited to be among the first to bring you this top shelf cotton!</p><p>Specifications:</p><p>Perfect for Squonking, tanks and RDAs</p><p>33% faster absorption, easier separation</p><p>The most cutting edge, cleanest and easy to use cotton wick.</p><p>Every bag of Cotton Bacon PRIME includes a unique authentication number that can be verified independently</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 8.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/cotton-bacon-prime/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/cotton-bacon-prime/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/cotton-bacon-prime"
+}

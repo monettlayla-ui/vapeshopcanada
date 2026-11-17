@@ -1,0 +1,41 @@
+{
+  "id": "lavender-flower-organic-25g",
+  "title": "Lavender Flower Organic 25g",
+  "description": "The most common herb used to treat headaches and migraines.\nDeeply relaxing, helping to treat insomnia and stress.\nHelps to improve blood flow.\nDisclaimer: If unsure seek professional advise before using herbs.",
+  "description_html": "<p>The most common herb used to treat headaches and migraines.</p><p>Deeply relaxing, helping to treat insomnia and stress.</p><p>Helps to improve blood flow.</p><p>Disclaimer: If unsure seek professional advise before using herbs.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 7.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/lavender-flower-organic-25g/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/lavender-flower-organic-25g/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/lavender-flower-organic-25g"
+}

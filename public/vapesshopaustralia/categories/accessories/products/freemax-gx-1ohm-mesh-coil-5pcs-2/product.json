@@ -1,0 +1,41 @@
+{
+  "id": "freemax-gx-1ohm-mesh-coil-5pcs-2",
+  "title": "FREEMAX GX 1OHM MESH COIL (5PCS)",
+  "description": "Brand:\nFreemax\nResistance:\n1ohm\nOptimal Power Range",
+  "description_html": "<p>Brand:</p><p>Freemax</p><p>Resistance:</p><p>1ohm</p><p>Optimal Power Range</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 29.63,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/freemax-gx-1ohm-mesh-coil-5pcs-2/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/freemax-gx-1ohm-mesh-coil-5pcs-2/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/freemax-gx-1ohm-mesh-coil-5pcs-2"
+}

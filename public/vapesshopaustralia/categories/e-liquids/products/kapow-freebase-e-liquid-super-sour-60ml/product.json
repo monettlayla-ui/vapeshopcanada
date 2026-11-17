@@ -1,0 +1,41 @@
+{
+  "id": "kapow-freebase-e-liquid-super-sour-60ml",
+  "title": "Kapow Freebase E-Liquid – Super Sour 60ml",
+  "description": "Description\nA name that says it all – tart and tangy with subtle hints of citrus, pucker up for a “JOLT” of sour goodness!\n60ml Bottle\n70% VG 30% PG",
+  "description_html": "<p>Description</p><p>A name that says it all – tart and tangy with subtle hints of citrus, pucker up for a “JOLT” of sour goodness!</p><p>60ml Bottle</p><p>70% VG 30% PG</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 37.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/kapow-freebase-e-liquid-super-sour-60ml/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/kapow-freebase-e-liquid-super-sour-60ml/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/kapow-freebase-e-liquid-super-sour-60ml"
+}

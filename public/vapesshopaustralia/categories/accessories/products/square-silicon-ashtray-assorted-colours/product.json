@@ -1,0 +1,41 @@
+{
+  "id": "square-silicon-ashtray-assorted-colours",
+  "title": "Square Silicon Ashtray – Assorted Colours",
+  "description": "Description\nThis silicon ashtray is just over 3″ wide, can withstand the heat of ashes and roaches, and won’t break if dropped. A stoner’s dream. Available in assorted colours.",
+  "description_html": "<p>Description</p><p>This silicon ashtray is just over 3″ wide, can withstand the heat of ashes and roaches, and won’t break if dropped. A stoner’s dream. Available in assorted colours.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 9.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/square-silicon-ashtray-assorted-colours/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/square-silicon-ashtray-assorted-colours/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/square-silicon-ashtray-assorted-colours"
+}

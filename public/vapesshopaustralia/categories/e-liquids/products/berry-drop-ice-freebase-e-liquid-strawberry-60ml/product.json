@@ -1,0 +1,41 @@
+{
+  "id": "berry-drop-ice-freebase-e-liquid-strawberry-60ml",
+  "title": "Berry Drop Ice Freebase E-Liquid – Strawberry 60ml",
+  "description": "Description\nRipe strawberry and sour blue raspberry blended with ice.\n70% VG 30% PG",
+  "description_html": "<p>Description</p><p>Ripe strawberry and sour blue raspberry blended with ice.</p><p>70% VG 30% PG</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 37.99,
+  "sale_price": 30.39,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/berry-drop-ice-freebase-e-liquid-strawberry-60ml/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/berry-drop-ice-freebase-e-liquid-strawberry-60ml/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/berry-drop-ice-freebase-e-liquid-strawberry-60ml"
+}

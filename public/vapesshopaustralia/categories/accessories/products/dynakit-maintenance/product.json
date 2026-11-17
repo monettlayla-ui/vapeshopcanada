@@ -1,0 +1,41 @@
+{
+  "id": "dynakit-maintenance",
+  "title": "DynaKit – Maintenance",
+  "description": "DynaKit – Maintenance\nThe Maintenance DynaKit will help keep your vapcap clean and functioning as intended. It comes with DynaWax to lubricate o-rings and rejuvenate wood parts. Along with all o-rings used in vapcaps and some hard bristled pipe cleaners to help clean out condensers.\nIncluded\n1 x DynaWax\n3 x Condenser O-rings\n5 x High Temp O-rings\n5 x Cotton Pipe Cleaners",
+  "description_html": "<p>DynaKit – Maintenance</p><p>The Maintenance DynaKit will help keep your vapcap clean and functioning as intended. It comes with DynaWax to lubricate o-rings and rejuvenate wood parts. Along with all o-rings used in vapcaps and some hard bristled pipe cleaners to help clean out condensers.</p><p>Included</p><p>1 x DynaWax</p><p>3 x Condenser O-rings</p><p>5 x High Temp O-rings</p><p>5 x Cotton Pipe Cleaners</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 14.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/dynakit-maintenance/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/dynakit-maintenance/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/dynakit-maintenance"
+}

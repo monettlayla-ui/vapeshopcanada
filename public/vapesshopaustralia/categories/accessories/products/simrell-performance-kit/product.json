@@ -1,0 +1,41 @@
+{
+  "id": "simrell-performance-kit",
+  "title": "Simrell Performance Kit",
+  "description": "Simrell Performance Kit\nIntroducing the NEW Simrell Performance Kit. A collaborative project between George (( Dynavap Founder )) and Austyn (( Simrell Collection Founder )) to merge the original airflow characteristics of the Dynavap product line, combined with the cooling power of the Intercooler, into one package. Now you can easily add cooling to your Dynavap “M”, Vong and many other dynavap stems. Feel free to get in touch if you have any questions about compatibility.\nIncluded\n1 x Simrell Performance kit (Including condenser & Intercooler)",
+  "description_html": "<p>Simrell Performance Kit</p><p>Introducing the NEW Simrell Performance Kit. A collaborative project between George (( Dynavap Founder )) and Austyn (( Simrell Collection Founder )) to merge the original airflow characteristics of the Dynavap product line, combined with the cooling power of the Intercooler, into one package. Now you can easily add cooling to your Dynavap “M”, Vong and many other dynavap stems. Feel free to get in touch if you have any questions about compatibility.</p><p>Included</p><p>1 x Simrell Performance kit (Including condenser &amp; Intercooler)</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 49.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/simrell-performance-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/simrell-performance-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/simrell-performance-kit"
+}

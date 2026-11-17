@@ -1,0 +1,41 @@
+{
+  "id": "apple-drop-salt-e-liquid-grape-30ml",
+  "title": "Apple Drop Salt E-Liquid – Grape 30ml",
+  "description": "Description\nTangy purple grape juice blended with a green apple base.\nApple Drop Salt is NOT intended for use in Sub-Ohm Tank systems. Apple Drop Salt E-Liquid is intended for small pod systems.\n50% VG 50% PG",
+  "description_html": "<p>Description</p><p>Tangy purple grape juice blended with a green apple base.</p><p>Apple Drop Salt is NOT intended for use in Sub-Ohm Tank systems. Apple Drop Salt E-Liquid is intended for small pod systems.</p><p>50% VG 50% PG</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 27.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/apple-drop-salt-e-liquid-grape-30ml/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/apple-drop-salt-e-liquid-grape-30ml/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/apple-drop-salt-e-liquid-grape-30ml"
+}

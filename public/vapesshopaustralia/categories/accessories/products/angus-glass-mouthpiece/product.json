@@ -1,0 +1,41 @@
+{
+  "id": "angus-glass-mouthpiece",
+  "title": "Angus Glass Mouthpiece",
+  "description": "Angus Glass Mouthpiece\nThis glass mouthpiece is the same glass mouthpiece that comes with your Angus\nIncluded\n1 x Angus Glass Mouthpiece",
+  "description_html": "<p>Angus Glass Mouthpiece</p><p>This glass mouthpiece is the same glass mouthpiece that comes with your Angus</p><p>Included</p><p>1 x Angus Glass Mouthpiece</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 8.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/angus-glass-mouthpiece/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/angus-glass-mouthpiece/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/angus-glass-mouthpiece"
+}

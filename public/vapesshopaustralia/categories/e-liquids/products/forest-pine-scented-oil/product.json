@@ -1,0 +1,41 @@
+{
+  "id": "forest-pine-scented-oil",
+  "title": "Forest Pine Scented Oil",
+  "description": "Enjoy the aroma of Forest Pine. Set the mood in your home… Fresh cool forest air.",
+  "description_html": "<p>Enjoy the aroma of Forest Pine. Set the mood in your home… Fresh cool forest air.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 7.0,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/forest-pine-scented-oil/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/forest-pine-scented-oil/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/forest-pine-scented-oil"
+}

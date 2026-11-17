@@ -1,0 +1,41 @@
+{
+  "id": "juiced-up-freebase-e-liquid-blue-raspberry-60ml",
+  "title": "Juiced Up Freebase E-Liquid – Blue Raspberry 60ml",
+  "description": "Description\nThe clean blue raspberry you have been looking for.\n70% VG 30% PG",
+  "description_html": "<p>Description</p><p>The clean blue raspberry you have been looking for.</p><p>70% VG 30% PG</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 37.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/juiced-up-freebase-e-liquid-blue-raspberry-60ml/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/juiced-up-freebase-e-liquid-blue-raspberry-60ml/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/juiced-up-freebase-e-liquid-blue-raspberry-60ml"
+}

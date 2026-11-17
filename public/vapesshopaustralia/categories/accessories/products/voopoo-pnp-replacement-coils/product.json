@@ -1,0 +1,41 @@
+{
+  "id": "voopoo-pnp-replacement-coils",
+  "title": "Voopoo PnP Replacement Coils",
+  "description": "Description\nSpecifications\nSold individually. Please adjust the quantity to the desired number prior to ordering.\nReplacement Voopoo PnP coil.\nAvailable in:\nM2 0.6ohm Single Coil\nR1 0.8ohm Dual Coil\nR2 1.0ohm\nVM1 0.3ohm\nVM3 0.45ohm\nVM4 0.6ohm\nVM5 0.2ohm\nVM6 0.15ohm",
+  "description_html": "<p>Description</p><p>Specifications</p><p>Sold individually. Please adjust the quantity to the desired number prior to ordering.</p><p>Replacement Voopoo PnP coil.</p><p>Available in:</p><p>M2 0.6ohm Single Coil</p><p>R1 0.8ohm Dual Coil</p><p>R2 1.0ohm</p><p>VM1 0.3ohm</p><p>VM3 0.45ohm</p><p>VM4 0.6ohm</p><p>VM5 0.2ohm</p><p>VM6 0.15ohm</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 5.4,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/voopoo-pnp-replacement-coils/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/voopoo-pnp-replacement-coils/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/voopoo-pnp-replacement-coils"
+}

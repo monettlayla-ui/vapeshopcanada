@@ -1,0 +1,41 @@
+{
+  "id": "stinger-by-simrell-collection",
+  "title": "Stinger by Simrell Collection",
+  "description": "Stinger\nA modular Vortex system adaptable to any OEM or aftermarket Dynavap stem. The Simrell Mouthpiece features a titanium intercooler, titanium mouthpiece and telescoping condenser that allows it to fit any stem. For the full vortex experience, all you need is the new mouthpiece and a Simrell Stem. Attach a tip and cap and you’re good.",
+  "description_html": "<p>Stinger</p><p>A modular Vortex system adaptable to any OEM or aftermarket Dynavap stem. The Simrell Mouthpiece features a titanium intercooler, titanium mouthpiece and telescoping condenser that allows it to fit any stem. For the full vortex experience, all you need is the new mouthpiece and a Simrell Stem. Attach a tip and cap and you’re good.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 120.0,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/stinger-by-simrell-collection/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/stinger-by-simrell-collection/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/stinger-by-simrell-collection"
+}

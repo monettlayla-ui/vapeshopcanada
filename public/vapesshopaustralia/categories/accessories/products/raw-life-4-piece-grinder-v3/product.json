@@ -1,0 +1,41 @@
+{
+  "id": "raw-life-4-piece-grinder-v3",
+  "title": "RAW Life 4 Piece Grinder V3",
+  "description": "Every component has a LIFEtime guarantee. If anything goes wrong with your grinder (other than something that’s not our fault, like your driving over it, or dropping it from a building), let us know so we can replace the component that has failed. If you need our support, go to RAWthentic.com/lifegrinder",
+  "description_html": "<p>Every component has a LIFEtime guarantee. If anything goes wrong with your grinder (other than something that’s not our fault, like your driving over it, or dropping it from a building), let us know so we can replace the component that has failed. If you need our support, go to RAWthentic.com/lifegrinder</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 66.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/raw-life-4-piece-grinder-v3/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/raw-life-4-piece-grinder-v3/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/raw-life-4-piece-grinder-v3"
+}

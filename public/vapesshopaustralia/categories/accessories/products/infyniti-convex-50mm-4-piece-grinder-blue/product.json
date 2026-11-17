@@ -1,0 +1,41 @@
+{
+  "id": "infyniti-convex-50mm-4-piece-grinder-blue",
+  "title": "Infyniti Convex 50mm 4-Piece Grinder – Blue",
+  "description": "Infyniti Convex Grinder\n50mm\n4-Piece",
+  "description_html": "<p>Infyniti Convex Grinder</p><p>50mm</p><p>4-Piece</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 25.0,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/infyniti-convex-50mm-4-piece-grinder-blue/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/infyniti-convex-50mm-4-piece-grinder-blue/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/infyniti-convex-50mm-4-piece-grinder-blue"
+}

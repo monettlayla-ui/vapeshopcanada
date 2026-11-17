@@ -1,0 +1,41 @@
+{
+  "id": "smok-tfv16-replacement-coils",
+  "title": "SMOK TFV16 Replacement Coils",
+  "description": "Description\nSpecifications\nSold individually. Please adjust the quantity to the desired number prior to ordering.\nReplacement coils for the SMOK TFV16 tank.\nMesh Coil 0.17ohm (Best: 120w)\nDual Mesh Coil 0.12ohm (Best: 120w)",
+  "description_html": "<p>Description</p><p>Specifications</p><p>Sold individually. Please adjust the quantity to the desired number prior to ordering.</p><p>Replacement coils for the SMOK TFV16 tank.</p><p>Mesh Coil 0.17ohm (Best: 120w)</p><p>Dual Mesh Coil 0.12ohm (Best: 120w)</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 7.99,
+  "sale_price": 6.39,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/smok-tfv16-replacement-coils/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/smok-tfv16-replacement-coils/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/smok-tfv16-replacement-coils"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "smok-rpm160-replacement-coils",
+  "title": "SMOK RPM160 Replacement Coils",
+  "description": "Description\nSpecifications\nSold individually. Please adjust the quantity to the desired number prior to ordering.\nReplacement coils for the RPM160 Pod Vape device.\nAvailable in:\nMesh 0.15ohm",
+  "description_html": "<p>Description</p><p>Specifications</p><p>Sold individually. Please adjust the quantity to the desired number prior to ordering.</p><p>Replacement coils for the RPM160 Pod Vape device.</p><p>Available in:</p><p>Mesh 0.15ohm</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 6.99,
+  "sale_price": 5.59,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/smok-rpm160-replacement-coils/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/smok-rpm160-replacement-coils/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/smok-rpm160-replacement-coils"
+}

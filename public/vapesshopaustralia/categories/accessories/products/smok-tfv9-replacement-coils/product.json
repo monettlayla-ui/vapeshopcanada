@@ -1,0 +1,41 @@
+{
+  "id": "smok-tfv9-replacement-coils",
+  "title": "SMOK TFV9 Replacement Coils",
+  "description": "Description\nNote: Sold individually. Please adjust the quantity to the desired number prior to ordering.\nThese are the replacement 0.15ohm mesh coils for the SMOK TFV9 Tank.",
+  "description_html": "<p>Description</p><p>Note: Sold individually. Please adjust the quantity to the desired number prior to ordering.</p><p>These are the replacement 0.15ohm mesh coils for the SMOK TFV9 Tank.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 5.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/smok-tfv9-replacement-coils/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/smok-tfv9-replacement-coils/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/smok-tfv9-replacement-coils"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dynawax",
+  "title": "DynaWax",
+  "description": "DynaWax is made from beeswax with some added hemp oil for consistency.\nIt has many uses including but not limited to lubricating o-rings, polishing wood dynastashes, midsections and mouthpieces, lubricating facial hair and much more. 😉\nIncluded\n1 x DynaWax",
+  "description_html": "<p>DynaWax is made from beeswax with some added hemp oil for consistency.</p><p>It has many uses including but not limited to lubricating o-rings, polishing wood dynastashes, midsections and mouthpieces, lubricating facial hair and much more. 😉</p><p>Included</p><p>1 x DynaWax</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 8.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/dynawax/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/dynawax/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/dynawax"
+}

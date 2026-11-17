@@ -1,0 +1,41 @@
+{
+  "id": "smok-nord-replacement-coils",
+  "title": "SMOK Nord Replacement Coils",
+  "description": "Description\nSpecifications\nSold individually. Please adjust the quantity to the desired number prior to ordering.\nReplacement coil for SMOK Nord, Nord 2, Trinity Alpha and other SMOK devices.\nAvailable in:\n0.6ohm Mesh\n25w Max\n1.4ohm Regular MTL\n12w\n0.8ohm Mesh MTL\n16w\n0.8ohm DC MTL\n16w",
+  "description_html": "<p>Description</p><p>Specifications</p><p>Sold individually. Please adjust the quantity to the desired number prior to ordering.</p><p>Replacement coil for SMOK Nord, Nord 2, Trinity Alpha and other SMOK devices.</p><p>Available in:</p><p>0.6ohm Mesh</p><p>25w Max</p><p>1.4ohm Regular MTL</p><p>12w</p><p>0.8ohm Mesh MTL</p><p>16w</p><p>0.8ohm DC MTL</p><p>16w</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 4.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/smok-nord-replacement-coils/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/smok-nord-replacement-coils/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/smok-nord-replacement-coils"
+}

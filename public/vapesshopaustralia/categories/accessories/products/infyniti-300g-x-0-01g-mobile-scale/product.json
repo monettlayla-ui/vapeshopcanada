@@ -1,0 +1,41 @@
+{
+  "id": "infyniti-300g-x-0-01g-mobile-scale",
+  "title": "Infyniti 300g x 0.01g Mobile Scale",
+  "description": "Capacity: 300g\nAccuracy: 0.01g\nDigital display with blue backlight\nAuto shut off after 60 seconds no activity\nLarge stainless steel weighing platform\nStandard weight auto calibration\n2 x AAA batteries included",
+  "description_html": "<p>Capacity: 300g</p><p>Accuracy: 0.01g</p><p>Digital display with blue backlight</p><p>Auto shut off after 60 seconds no activity</p><p>Large stainless steel weighing platform</p><p>Standard weight auto calibration</p><p>2 x AAA batteries included</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 17.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/infyniti-300g-x-0-01g-mobile-scale/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/infyniti-300g-x-0-01g-mobile-scale/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/infyniti-300g-x-0-01g-mobile-scale"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "voopoo-uforce-replacement-coils",
+  "title": "VooPoo Uforce Replacement Coils",
+  "description": "Description\nSpecifications\nSold individually. Please adjust the quantity to the desired number prior to ordering.\nReplacement coil for Voopoo Uforce tank.\nAvailable in:\nN1 0.13ohm (50w-100w)\nN3 0.2ohm (65w-100w)\nP2 0.6ohm (24w-28w)\nU2 0.4ohm (40w-80w)\nU4 0.23ohm (50w-120w)",
+  "description_html": "<p>Description</p><p>Specifications</p><p>Sold individually. Please adjust the quantity to the desired number prior to ordering.</p><p>Replacement coil for Voopoo Uforce tank.</p><p>Available in:</p><p>N1 0.13ohm (50w-100w)</p><p>N3 0.2ohm (65w-100w)</p><p>P2 0.6ohm (24w-28w)</p><p>U2 0.4ohm (40w-80w)</p><p>U4 0.23ohm (50w-120w)</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 6.99,
+  "sale_price": 5.59,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/voopoo-uforce-replacement-coils/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/voopoo-uforce-replacement-coils/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/voopoo-uforce-replacement-coils"
+}

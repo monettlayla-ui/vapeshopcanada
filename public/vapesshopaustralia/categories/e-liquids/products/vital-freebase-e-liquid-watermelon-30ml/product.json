@@ -1,0 +1,41 @@
+{
+  "id": "vital-freebase-e-liquid-watermelon-30ml",
+  "title": "Vital Freebase E-Liquid – Watermelon 30ml",
+  "description": "Description\nAll the goodness without the seeds! Enjoy this fresh and sweet watermelon flavor that is just in time for summer!\n70% VG 30% PG\n30ml Bottle",
+  "description_html": "<p>Description</p><p>All the goodness without the seeds! Enjoy this fresh and sweet watermelon flavor that is just in time for summer!</p><p>70% VG 30% PG</p><p>30ml Bottle</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 20.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/vital-freebase-e-liquid-watermelon-30ml/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/vital-freebase-e-liquid-watermelon-30ml/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/vital-freebase-e-liquid-watermelon-30ml"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "huny-bucket",
+  "title": "Huny Bucket",
+  "description": "The Non-Stick Silicone Huny Bucket is perfect for anything sticky giving you the ability to remove 100% of your material. You can also easily label your jars with preprinted labels.\nThe outer case of the container is made out of a rigid plastic with a SCREW TOP LID. Which is not common for concentrate containers. There is no chance of the lid coming off in your pocket with the Huny Bucket.",
+  "description_html": "<p>The Non-Stick Silicone Huny Bucket is perfect for anything sticky giving you the ability to remove 100% of your material. You can also easily label your jars with preprinted labels.</p><p>The outer case of the container is made out of a rigid plastic with a SCREW TOP LID. Which is not common for concentrate containers. There is no chance of the lid coming off in your pocket with the Huny Bucket.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 7.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/huny-bucket/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/huny-bucket/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/huny-bucket"
+}

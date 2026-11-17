@@ -1,0 +1,41 @@
+{
+  "id": "orange-chronic",
+  "title": "Orange Chronic",
+  "description": "No scrubbing or waiting\nNo after taste or smell\nEasy to use\nEarth friendly\nFree rinsing, brightens glass, metal and plastic",
+  "description_html": "<p>No scrubbing or waiting</p><p>No after taste or smell</p><p>Easy to use</p><p>Earth friendly</p><p>Free rinsing, brightens glass, metal and plastic</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 8.12,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/orange-chronic/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/e-liquids/products/orange-chronic/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "E-LIQUIDS",
+      "slug": "e-liquids",
+      "url": "https://vapeshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/e-liquids/products/orange-chronic"
+}

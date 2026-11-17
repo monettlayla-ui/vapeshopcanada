@@ -476,3 +476,80 @@ export const contactContent = {
   email: "Sales@vapesshopaustralia.com",
   phone: "9-334-7565-9787",
 };
+
+/**
+ * More product types, shown on the home page so visitors can see what else is in the shop.
+ * Each block links to its category through the shop's category dropdown.
+ */
+export type ExtraSection = {
+  title: string;
+  paragraphs: string[];
+  rows: ProductRow[];
+};
+
+export const extraSections: Record<"pouches" | "geekBar" | "eLiquids" | "glass", ExtraSection> = {
+  pouches: {
+    title: "Nicotine Pouches - IGET Shion Pouches Canada",
+    paragraphs: [
+      "Prefer something discreet? IGET Shion nicotine pouches are tobacco-free, smoke-free and easy to use anywhere. Choose from fresh mint, fruit and ice flavours in different strengths.",
+    ],
+    rows: [
+      {
+        slugs: [
+          "apple-iget-shion-x1-nicotine-pouch-12mg-2",
+          "blueberry-ice-iget-shion-x1-nicotine-pouch-12mg",
+          "citrus-iget-shion-x1-nicotine-pouch-12mg",
+          "cool-mint-iget-shion-x1-nicotine-pouch-12mg-2",
+        ],
+      },
+    ],
+  },
+  geekBar: {
+    title: "Geek Bar - Geek Bar Disposable Vapes Canada",
+    paragraphs: [
+      "Geek Bar disposable vapes are loved for their big puff counts and bold flavours. Browse Geek Bar Pulse X 25000 and Geek Bar 9000 puff devices, ready to use straight out of the box.",
+    ],
+    rows: [
+      {
+        slugs: [
+          "atl-mint-geek-bar-pulse-x-25000",
+          "banana-taffy-freeze-geek-bar-pulse-x-25000",
+          "blueberry-jam-geek-bar-pulse-x-25000",
+          "3x-fantasi-70-30-shortfill-bundle-9",
+        ],
+      },
+    ],
+  },
+  eLiquids: {
+    title: "E-Liquids - Salt Nic & Freebase Vape Juice Canada",
+    paragraphs: [
+      "Refill your favourite device with premium e-liquids. We stock nicotine salts and freebase juices in fruit, ice, dessert and menthol flavours from trusted brands.",
+    ],
+    rows: [
+      {
+        slugs: [
+          "apple-drop-freebase-e-liquid-double-apple-60ml",
+          "berry-drop-ice-salt-nic-e-liquid-dragonfruit-30ml",
+          "big-5-juice-co-buffalo-100ml",
+          "banana-ice-2",
+        ],
+      },
+    ],
+  },
+  glass: {
+    title: "Glass Bongs & Accessories",
+    paragraphs: [
+      "Looking for the gear that goes with your vape? Explore glass bongs, water pipes, adapters, bowls and other accessories.",
+    ],
+    rows: [
+      {
+        slugs: [
+          "10-blueberry-double-ring-soft-glass-beaker-bong",
+          "12-dopezilla-cerberus-water-pipe-milky-purple",
+          "14mm-45-degree-male-quartz-banger",
+          "14mm-kannastor-press",
+        ],
+      },
+    ],
+  },
+};

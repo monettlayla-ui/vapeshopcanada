@@ -1,0 +1,41 @@
+{
+  "id": "14mm-45-degree-female-quartz-banger-2",
+  "title": "14mm 45 Degree Female Quartz Banger",
+  "description": null,
+  "description_html": null,
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 9.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/14mm-45-degree-female-quartz-banger-2/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/glass-bongs/products/14mm-45-degree-female-quartz-banger-2/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "GLASS BONGS",
+      "slug": "glass-bongs",
+      "url": "https://vapeshopcanada.com/product-category/glass-bongs/"
+    }
+  ],
+  "stored_in": "categories/glass-bongs/products/14mm-45-degree-female-quartz-banger-2"
+}

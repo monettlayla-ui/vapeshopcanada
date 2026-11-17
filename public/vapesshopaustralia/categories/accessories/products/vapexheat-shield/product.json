@@ -1,0 +1,41 @@
+{
+  "id": "vapexheat-shield",
+  "title": "VapeXheat Shield",
+  "description": "The VapeXheat Shield is a must for the Cloud EVO as it does get a bit toasty. This heat shield also has a gauge on it making it easier to find your sweet spot.",
+  "description_html": "<p>The VapeXheat Shield is a must for the Cloud EVO as it does get a bit toasty. This heat shield also has a gauge on it making it easier to find your sweet spot.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 15.0,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/vapexheat-shield/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/vapexheat-shield/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/vapexheat-shield"
+}

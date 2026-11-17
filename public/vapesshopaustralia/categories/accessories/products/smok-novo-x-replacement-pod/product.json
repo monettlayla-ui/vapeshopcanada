@@ -1,0 +1,41 @@
+{
+  "id": "smok-novo-x-replacement-pod",
+  "title": "SMOK Novo X Replacement Pod",
+  "description": "Description\nSpecifications\nNote: Sold individually. Please adjust the quantity to the desired number.\nReplacement pod for SMOK Novo X device.\nMesh 0.8ohm pod (10W-15W)\nDC 0.8ohm MTL pod (15W-25W)\n2ml",
+  "description_html": "<p>Description</p><p>Specifications</p><p>Note: Sold individually. Please adjust the quantity to the desired number.</p><p>Replacement pod for SMOK Novo X device.</p><p>Mesh 0.8ohm pod (10W-15W)</p><p>DC 0.8ohm MTL pod (15W-25W)</p><p>2ml</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 5.69,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/smok-novo-x-replacement-pod/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/smok-novo-x-replacement-pod/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/smok-novo-x-replacement-pod"
+}

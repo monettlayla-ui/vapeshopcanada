@@ -1,0 +1,41 @@
+{
+  "id": "utillian-2-usb-charger",
+  "title": "Utillian 2 USB Charger",
+  "description": "Description\nReplacement charger for the Utillian 2 Concentrate Vape Device.",
+  "description_html": "<p>Description</p><p>Replacement charger for the Utillian 2 Concentrate Vape Device.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 6.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/utillian-2-usb-charger/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/utillian-2-usb-charger/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/utillian-2-usb-charger"
+}

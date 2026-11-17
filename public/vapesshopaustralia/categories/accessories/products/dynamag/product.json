@@ -1,0 +1,41 @@
+{
+  "id": "dynamag",
+  "title": "DynaMag",
+  "description": "The DynaMag is a strong magnet and can be attached to metal surfaces. This gives you a location to sit your vapcap while cooling. This magnet can also be used to remove the hot cap for faster cooling and repacking of your vapcap.\nIncluded\n1 x DynaMag Magnet",
+  "description_html": "<p>The DynaMag is a strong magnet and can be attached to metal surfaces. This gives you a location to sit your vapcap while cooling. This magnet can also be used to remove the hot cap for faster cooling and repacking of your vapcap.</p><p>Included</p><p>1 x DynaMag Magnet</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 7.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/dynamag/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/dynamag/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/dynamag"
+}

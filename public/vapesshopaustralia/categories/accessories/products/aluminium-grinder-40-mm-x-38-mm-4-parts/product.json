@@ -1,0 +1,41 @@
+{
+  "id": "aluminium-grinder-40-mm-x-38-mm-4-parts",
+  "title": "Aluminium Grinder, 40 mm x 38 mm, 4 parts",
+  "description": "Grinder for dry herb.",
+  "description_html": "<p>Grinder for dry herb.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 12.39,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/aluminium-grinder-40-mm-x-38-mm-4-parts/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/aluminium-grinder-40-mm-x-38-mm-4-parts/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/aluminium-grinder-40-mm-x-38-mm-4-parts"
+}

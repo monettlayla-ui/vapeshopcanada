@@ -1,0 +1,41 @@
+{
+  "id": "banana-ice-3",
+  "title": "Banana Ice",
+  "description": "Nicotine Strength:\n10MG – Medium Nicotine\n20MG – High Nicotine\nContents:\n1 x 10ml Bar Juice 5000 Nicotine Salt E-Liquid\nFeatures:\n10ml Nic Salt E-Liquid\n40% VG / 60% PG\nDesigned For MTL (Mouth To Lung) Vaping\nMade In China\nTPD Compliant\nTamper Evident Seal\nChildproof Cap\nRecyclable Bottle",
+  "description_html": "<p>Nicotine Strength:</p><p>10MG – Medium Nicotine</p><p>20MG – High Nicotine</p><p>Contents:</p><p>1 x 10ml Bar Juice 5000 Nicotine Salt E-Liquid</p><p>Features:</p><p>10ml Nic Salt E-Liquid</p><p>40% VG / 60% PG</p><p>Designed For MTL (Mouth To Lung) Vaping</p><p>Made In China</p><p>TPD Compliant</p><p>Tamper Evident Seal</p><p>Childproof Cap</p><p>Recyclable Bottle</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 7.51,
+  "sale_price": 5.0,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/banana-ice-3/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/bar-juice-5000-nicotine-salt-e-liquid/products/banana-ice-3/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "BAR JUICE 5000 NICOTINE SALT E-LIQUID",
+      "slug": "bar-juice-5000-nicotine-salt-e-liquid",
+      "url": "https://vapeshopcanada.com/product-category/bar-juice-5000-nicotine-salt-e-liquid/"
+    }
+  ],
+  "stored_in": "categories/bar-juice-5000-nicotine-salt-e-liquid/products/banana-ice-3"
+}

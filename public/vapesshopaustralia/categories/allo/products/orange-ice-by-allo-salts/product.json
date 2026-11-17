@@ -1,0 +1,41 @@
+{
+  "id": "orange-ice-by-allo-salts",
+  "title": "Orange Ice by ALLO Salts",
+  "description": "About ALLO Salts\nManufactured in New Zealand,ALLoO E-Liquid is created in an ISO 5 Cleanroom, ensuring the highest level of quality and safety in every bottle. View the full ALLOALLOALLO Range of vaping products.\nSpecifications:\nPUFF COUNT\nELIQUID VOLUME\nXS\nBATTERY CAPACITY (MAH)\nXS\nRECHARGEABLE\nXS\nCHILD SAFETY MECHANISM\nXS\nPUFF COUNT\nELIQUID VOLUME\n30 ML\nBATTERY CAPACITY (MAH)\nRECHARGEABLE\nCHILD SAFETY MECHANISM\n* Puff and volume specifications based on each consumable. E.g. if product contains 2x pods, specifications are per pod.",
+  "description_html": "<p>About ALLO Salts</p><p>Manufactured in New Zealand,ALLoO E-Liquid is created in an ISO 5 Cleanroom, ensuring the highest level of quality and safety in every bottle. View the full ALLOALLOALLO Range of vaping products.</p><p>Specifications:</p><p>PUFF COUNT</p><p>ELIQUID VOLUME</p><p>XS</p><p>BATTERY CAPACITY (MAH)</p><p>XS</p><p>RECHARGEABLE</p><p>XS</p><p>CHILD SAFETY MECHANISM</p><p>XS</p><p>PUFF COUNT</p><p>ELIQUID VOLUME</p><p>30 ML</p><p>BATTERY CAPACITY (MAH)</p><p>RECHARGEABLE</p><p>CHILD SAFETY MECHANISM</p><p>* Puff and volume specifications based on each consumable. E.g. if product contains 2x pods, specifications are per pod.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 27.12,
+  "sale_price": 20.05,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/orange-ice-by-allo-salts/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/allo/products/orange-ice-by-allo-salts/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ALLO",
+      "slug": "allo",
+      "url": "https://vapeshopcanada.com/product-category/allo/"
+    }
+  ],
+  "stored_in": "categories/allo/products/orange-ice-by-allo-salts"
+}

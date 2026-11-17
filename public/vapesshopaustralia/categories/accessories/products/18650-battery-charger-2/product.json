@@ -1,0 +1,41 @@
+{
+  "id": "18650-battery-charger-2",
+  "title": "18650 Battery Charger",
+  "description": "18650 Battery Charger\nThis particular battery charger is from Arizer so you can be sure that it is of a high quality.\nWith this charger you have the ability to charge one or two 18650 batteries at a time.\nIncluded\n1 x 18650 Battery charger",
+  "description_html": "<p>18650 Battery Charger</p><p>This particular battery charger is from Arizer so you can be sure that it is of a high quality.</p><p>With this charger you have the ability to charge one or two 18650 batteries at a time.</p><p>Included</p><p>1 x 18650 Battery charger</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 52.95,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapeshopcanada.com/product/18650-battery-charger-2/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/accessories/products/18650-battery-charger-2/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ACCESSORIES",
+      "slug": "accessories",
+      "url": "https://vapeshopcanada.com/product-category/accessories/"
+    }
+  ],
+  "stored_in": "categories/accessories/products/18650-battery-charger-2"
+}
