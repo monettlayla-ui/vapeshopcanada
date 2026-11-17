@@ -63,6 +63,8 @@ export function CheckoutContent() {
   const errors = validateCheckout(form);
   const shown = (key: keyof typeof errors) => (touched[key] || submitted ? errors[key] : undefined);
   const belowMinimum = cart.total < MIN_ORDER_TOTAL;
+  // The order can only be placed when every field is valid and the minimum is met.
+  const canOrder = !belowMinimum && Object.keys(errors).length === 0;
 
   const set = <K extends keyof CheckoutForm>(key: K, value: CheckoutForm[K]) =>
     setForm((f) => ({ ...f, [key]: value }));
@@ -284,12 +286,24 @@ export function CheckoutContent() {
 
             <button
               type="submit"
-              disabled={belowMinimum || sending}
-              className="flex h-14 w-full items-center justify-center gap-3 rounded-[4px] bg-[#c98aa0] text-lg font-semibold text-white transition hover:bg-[#bb7a91] disabled:cursor-not-allowed disabled:bg-[#d6a5b5] disabled:hover:bg-[#d6a5b5]"
+              disabled={sending}
+              aria-disabled={!canOrder || sending}
+              className={`flex h-14 w-full items-center justify-center gap-3 rounded-[4px] text-lg font-semibold text-white transition ${
+                canOrder
+                  ? "bg-[#e0457b] shadow-md shadow-[#e0457b]/30 hover:bg-[#cc3a6d] disabled:opacity-80"
+                  : "cursor-not-allowed bg-[#d6a5b5]"
+              }`}
             >
-              <svg viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5" aria-hidden="true">
-                <path d="M17 9V7a5 5 0 0 0-10 0v2H5v12h14V9h-2Zm-8-2a3 3 0 0 1 6 0v2H9V7Z" />
-              </svg>
+              {canOrder ? (
+                /* Unlocked: every field is OK */
+                <svg viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5" aria-hidden="true">
+                  <path d="M17 8h-1V6a4 4 0 0 0-7.7-1.5l1.9.7A2 2 0 0 1 14 6v2H7a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-9a2 2 0 0 0-2-2Z" />
+                </svg>
+              ) : (
+                <svg viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5" aria-hidden="true">
+                  <path d="M17 9V7a5 5 0 0 0-10 0v2H5v12h14V9h-2Zm-8-2a3 3 0 0 1 6 0v2H9V7Z" />
+                </svg>
+              )}
               {sending ? "Sending your order..." : "Place Order"} {!sending && <span>{formatPrice(cart.total)}</span>}
             </button>
           </section>
