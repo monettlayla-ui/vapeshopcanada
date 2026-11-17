@@ -1,10 +1,16 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import Image from "next/image";
 import Link from "next/link";
 import { CheckoutContent } from "@/components/checkout/CheckoutContent";
 import { siteConfig } from "@/config/site";
 
-export const metadata: Metadata = { title: "Checkout - Vape Shop Canada" };
+export const metadata: Metadata = pageMetadata({
+  title: 'Checkout',
+  description: 'Complete your Vape Shop Canada order.',
+  path: '/checkout',
+  noindex: true,
+});
 
 export default function CheckoutPage() {
   return (

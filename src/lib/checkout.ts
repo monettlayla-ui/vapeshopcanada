@@ -7,7 +7,12 @@ export const MIN_ORDER_TOTAL = 200;
 export const minOrderMessage = (total: number) =>
   `You must have an order with a minimum of ${formatPrice(MIN_ORDER_TOTAL)} to place your order, your current order total is ${formatPrice(total)}.`;
 
-export const COUNTRIES = ["Canada"];
+import { COUNTRIES } from "./countries";
+
+export { COUNTRIES };
+
+/** Only Canada has a fixed province list; other countries type their own state or region. */
+export const hasProvinceList = (country: string) => country === "Canada";
 
 export const PROVINCES = [
   "Alberta",
@@ -25,7 +30,7 @@ export const PROVINCES = [
   "Yukon",
 ];
 
-export type PaymentMethod = "bank" | "payid";
+export type PaymentMethod = "bank" | "payid" | "bitcoin";
 
 export const PAYMENT_METHODS: Record<PaymentMethod, { label: string; note: string }> = {
   bank: {
@@ -35,6 +40,10 @@ export const PAYMENT_METHODS: Record<PaymentMethod, { label: string; note: strin
   payid: {
     label: "PAYID",
     note: "After submitting your order, kindly contact support for PayID payment details.",
+  },
+  bitcoin: {
+    label: "Bitcoin",
+    note: "After submitting your order, kindly contact support for the Bitcoin wallet address and the amount to send.",
   },
 };
 
@@ -90,15 +99,15 @@ export function validateCheckout(f: CheckoutForm): FieldErrors {
   if (!f.country) errors.country = "Country is required";
   if (!f.street.trim()) errors.street = "Street address is required";
   if (!f.city.trim()) errors.city = "Town / City is required";
-  if (!f.province) errors.province = "Province is required";
-  if (!f.postalCode.trim()) errors.postalCode = "Postal code is required";
+  if (!f.province) errors.province = "State / Province is required";
+  if (!f.postalCode.trim()) errors.postalCode = "Postal / ZIP code is required";
   if (!f.phone.trim()) errors.phone = "Phone is required";
   else if (f.phone.replace(/\D/g, "").length < 7) errors.phone = "Enter a valid phone number";
   if (f.shipDifferent) {
     if (!f.shipStreet.trim()) errors.shipStreet = "Street address is required";
     if (!f.shipCity.trim()) errors.shipCity = "Town / City is required";
-    if (!f.shipProvince) errors.shipProvince = "Province is required";
-    if (!f.shipPostalCode.trim()) errors.shipPostalCode = "Postal code is required";
+    if (!f.shipProvince) errors.shipProvince = "State / Province is required";
+    if (!f.shipPostalCode.trim()) errors.shipPostalCode = "Postal / ZIP code is required";
   }
   return errors;
 }

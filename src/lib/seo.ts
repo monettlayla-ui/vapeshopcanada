@@ -1,0 +1,76 @@
+import type { Metadata } from "next";
+
+/**
+ * Single source of truth for business details used by SEO (metadata, structured data, sitemap).
+ * Keep these identical everywhere a search engine can see them.
+ */
+export const seoConfig = {
+  name: "Vape Shop Canada",
+  /** Live production address (the apex domain redirects here). No trailing slash. */
+  url: "https://www.vapesshopcanada.com",
+  domain: "www.vapesshopcanada.com",
+  telephone: "+17829100204",
+  /** Set to the business mailbox on the domain once it exists. Left out of structured data while empty. */
+  email: "",
+  /** Online-only store serving all of Canada, so no street address is published. */
+  areaServed: "Canada",
+  /** Real social profile URLs only. Leave empty until they exist. */
+  sameAs: [] as string[],
+  locale: "en_CA",
+  description:
+    "Buy disposable vapes, vape kits, pods, e-liquids and nicotine pouches online in Canada. Authentic brands like IGET, Geek Bar and HQD with fast Canada-wide delivery from Vape Shop Canada.",
+  keywords: [
+    "vape shop Canada",
+    "buy vapes online Canada",
+    "disposable vapes Canada",
+    "vape kits Canada",
+    "e-liquids Canada",
+    "nicotine pouches Canada",
+    "IGET Canada",
+    "Geek Bar Canada",
+    "HQD Canada",
+    "vape delivery Canada",
+  ],
+  logo: "/logo.png",
+  /** Default share image (1280x853 photo). */
+  shareImage: "/images/hero-1.jpg",
+};
+
+export const absoluteUrl = (path = "/") => new URL(path, seoConfig.url).toString();
+
+/** Shorten text to a search-snippet length without cutting a word in half. */
+export function snippet(text: string | null | undefined, max = 155): string {
+  const clean = (text ?? "").replace(/\s+/g, " ").trim();
+  if (clean.length <= max) return clean;
+  const cut = clean.slice(0, max - 1);
+  return `${cut.slice(0, cut.lastIndexOf(" ") > 80 ? cut.lastIndexOf(" ") : cut.length).replace(/[,.;:\s-]+$/, "")}…`;
+}
+
+type PageMetaInput = {
+  title: string;
+  description: string;
+  path: string;
+  image?: string;
+  noindex?: boolean;
+};
+
+/** Per-page metadata with its own canonical, Open Graph and Twitter card. */
+export function pageMetadata({ title, description, path, image, noindex }: PageMetaInput): Metadata {
+  const img = image ?? seoConfig.shareImage;
+  return {
+    title,
+    description,
+    alternates: { canonical: path },
+    robots: noindex ? { index: false, follow: false } : undefined,
+    openGraph: {
+      type: "website",
+      locale: seoConfig.locale,
+      siteName: seoConfig.name,
+      title,
+      description,
+      url: path,
+      images: [{ url: img, alt: title }],
+    },
+    twitter: { card: "summary_large_image", title, description, images: [img] },
+  };
+}

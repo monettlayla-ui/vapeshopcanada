@@ -10,6 +10,7 @@ import {
   MIN_ORDER_TOTAL,
   PAYMENT_METHODS,
   PROVINCES,
+  hasProvinceList,
   buildOrderMailto,
   minOrderMessage,
   validateCheckout,
@@ -155,13 +156,22 @@ export function CheckoutContent() {
               <TextField {...field("firstName", "Jane")} autoComplete="given-name" />
               <TextField {...field("lastName", "Doe")} autoComplete="family-name" />
             </div>
-            <SelectField {...field("country", "Country / Region")} options={COUNTRIES} autoComplete="country-name" />
+            <SelectField
+              {...field("country", "Country / Region")}
+              onChange={(v) => setForm((f) => ({ ...f, country: v, province: "", shipProvince: "" }))}
+              options={COUNTRIES}
+              autoComplete="country-name"
+            />
             <TextField {...field("street", "House number and street name")} autoComplete="address-line1" />
             <TextField {...field("apartment", "Apartment, suite, unit, etc.")} autoComplete="address-line2" />
             <div className="grid gap-4 sm:grid-cols-3">
               <TextField {...field("city", "Town / City")} autoComplete="address-level2" />
-              <SelectField {...field("province", "Province")} options={PROVINCES} autoComplete="address-level1" />
-              <TextField {...field("postalCode", "Postal code")} autoComplete="postal-code" />
+              {hasProvinceList(form.country) ? (
+                <SelectField {...field("province", "Province")} options={PROVINCES} autoComplete="address-level1" />
+              ) : (
+                <TextField {...field("province", "State / Province / Region")} autoComplete="address-level1" />
+              )}
+              <TextField {...field("postalCode", "Postal / ZIP code")} autoComplete="postal-code" />
             </div>
             <TextField {...field("phone", "+1 415 555 0142")} type="tel" autoComplete="tel" />
 
@@ -180,8 +190,12 @@ export function CheckoutContent() {
                 <TextField {...field("shipStreet", "Shipping street address")} autoComplete="shipping address-line1" />
                 <div className="grid gap-4 sm:grid-cols-3">
                   <TextField {...field("shipCity", "Town / City")} autoComplete="shipping address-level2" />
-                  <SelectField {...field("shipProvince", "Province")} options={PROVINCES} autoComplete="shipping address-level1" />
-                  <TextField {...field("shipPostalCode", "Postal code")} autoComplete="shipping postal-code" />
+                  {hasProvinceList(form.country) ? (
+                    <SelectField {...field("shipProvince", "Province")} options={PROVINCES} autoComplete="shipping address-level1" />
+                  ) : (
+                    <TextField {...field("shipProvince", "State / Province / Region")} autoComplete="shipping address-level1" />
+                  )}
+                  <TextField {...field("shipPostalCode", "Postal / ZIP code")} autoComplete="shipping postal-code" />
                 </div>
               </div>
             )}

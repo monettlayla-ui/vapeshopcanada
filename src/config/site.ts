@@ -474,7 +474,7 @@ export const contactContent = {
   text: "We offer authentic vape products, competitive prices, fast Canada-wide delivery, secure payments, reliable support, and a hassle-free online shopping experience.",
   address: "Canada",
   email: "Sales@vapesshopaustralia.com",
-  phone: "9-334-7565-9787",
+  phone: "+1 (782) 910-0204",
 };
 
 /**

@@ -1,6 +1,7 @@
 import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { cacheLife } from "next/cache";
+import { JsonLd } from "@/components/seo/JsonLd";
 
 async function loadFaq() {
   "use cache";
@@ -22,8 +23,19 @@ async function loadFaq() {
 
 export async function FaqPage() {
   const { title, heading, items } = await loadFaq();
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: items.map((item) => ({
+      "@type": "Question",
+      name: item.question,
+      acceptedAnswer: { "@type": "Answer", text: item.answer },
+    })),
+  };
+
   return (
     <section className="bg-white pb-16">
+      <JsonLd data={jsonLd} />
       <h1 className="px-4 pt-2 text-[2rem] font-medium leading-tight text-slate-800 sm:px-0">{title}</h1>
       <div className="mx-auto max-w-[1000px] px-4 text-center">
         <h2 className="mt-8 text-[2rem] font-medium text-slate-800">{heading}</h2>

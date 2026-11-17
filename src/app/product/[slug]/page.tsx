@@ -6,7 +6,9 @@ import { FloatingCartButton } from "@/components/ui/FloatingCartButton";
 import { ProductDetail } from "@/components/product/ProductDetail";
 import { ProductDescription } from "@/components/product/ProductDescription";
 import { RelatedProducts } from "@/components/product/RelatedProducts";
-import { getAllProductSlugs, getProduct } from "@/lib/products";
+import { JsonLd } from "@/components/seo/JsonLd";
+import { formatPrice, getAllProductSlugs, getProduct, productImageUrl } from "@/lib/products";
+import { absoluteUrl, pageMetadata, seoConfig, snippet } from "@/lib/seo";
 
 export async function generateStaticParams() {
   return (await getAllProductSlugs()).map((slug) => ({ slug }));
@@ -15,7 +17,18 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps<"/product/[slug]">): Promise<Metadata> {
   const { slug } = await params;
   const product = await getProduct(slug);
-  return { title: product ? `${product.title} - Vape Shop Canada` : "Product not found" };
+  if (!product) return { title: "Product not found", robots: { index: false, follow: false } };
+
+  const category = product.categories[0]?.name;
+  const price = product.on_sale && product.sale_price !== null ? product.sale_price : product.price;
+  const image = productImageUrl(product) ?? undefined;
+  const description = snippet(
+    `${product.title}${category ? ` - ${category}` : ""}. ${product.short_description ?? product.description ?? ""} Buy online in Canada${
+      price !== null ? ` for ${formatPrice(price)}` : ""
+    } with fast delivery from Vape Shop Canada.`,
+  );
+  const meta = pageMetadata({ title: product.title, description, path: `/product/${product.id}`, image });
+  return { ...meta, openGraph: { ...meta.openGraph, type: "website" } };
 }
 
 /** Everything that depends on the URL lives here, inside a Suspense boundary. */
@@ -24,8 +37,51 @@ async function ProductBody({ params }: { params: PageProps<"/product/[slug]">["p
   const product = await getProduct(slug);
   if (!product) notFound();
 
+  const price = product.on_sale && product.sale_price !== null ? product.sale_price : product.price;
+  const image = productImageUrl(product);
+  const category = product.categories[0];
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Product",
+        "@id": absoluteUrl(`/product/${product.id}#product`),
+        name: product.title,
+        description: snippet(product.description ?? product.title, 500),
+        ...(image ? { image: [absoluteUrl(image)] } : {}),
+        sku: product.sku ?? product.id,
+        ...(category ? { category: category.name } : {}),
+        ...(price !== null
+          ? {
+              offers: {
+                "@type": "Offer",
+                url: absoluteUrl(`/product/${product.id}`),
+                priceCurrency: "CAD",
+                price: price.toFixed(2),
+                itemCondition: "https://schema.org/NewCondition",
+                availability: product.in_stock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
+                seller: { "@type": "Organization", name: seoConfig.name },
+              },
+            }
+          : {}),
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: absoluteUrl("/") },
+          { "@type": "ListItem", position: 2, name: "Shop", item: absoluteUrl("/shop") },
+          ...(category
+            ? [{ "@type": "ListItem", position: 3, name: category.name, item: absoluteUrl(`/shop?category=${category.slug}`) }]
+            : []),
+          { "@type": "ListItem", position: category ? 4 : 3, name: product.title },
+        ],
+      },
+    ],
+  };
+
   return (
     <>
+      <JsonLd data={jsonLd} />
       <ProductDetail product={product} />
       <ProductDescription product={product} />
       <RelatedProducts product={product} />

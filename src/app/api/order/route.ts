@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { MIN_ORDER_TOTAL, PAYMENT_METHODS, PROVINCES, validateCheckout, type CheckoutForm } from "@/lib/checkout";
+import { COUNTRIES, MIN_ORDER_TOTAL, PAYMENT_METHODS, PROVINCES, hasProvinceList, validateCheckout, type CheckoutForm, type PaymentMethod } from "@/lib/checkout";
 import { SHIPPING_METHODS, roundMoney, type ShippingMethod } from "@/lib/cart";
 import { orderHtml, orderText, type Order, type OrderLine } from "@/lib/order-email";
 import { getProduct } from "@/lib/products";
@@ -79,12 +79,12 @@ export async function POST(req: Request) {
     shipProvince: text(raw.shipProvince),
     shipPostalCode: text(raw.shipPostalCode),
     notes: text(raw.notes),
-    payment: raw.payment === "payid" ? "payid" : "bank",
+    payment: (typeof raw.payment === "string" && raw.payment in PAYMENT_METHODS ? raw.payment : "bank") as PaymentMethod,
   };
   if (Object.keys(validateCheckout(form)).length > 0) {
     return fail("Please check your details and try again.", 400);
   }
-  if (!(form.payment in PAYMENT_METHODS) || !PROVINCES.includes(form.province)) {
+  if (!COUNTRIES.includes(form.country) || (hasProvinceList(form.country) && !PROVINCES.includes(form.province))) {
     return fail("Please check your details and try again.", 400);
   }
   const shippingMethod = body.shippingMethod as ShippingMethod;
