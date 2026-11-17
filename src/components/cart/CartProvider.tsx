@@ -36,6 +36,8 @@ type CartContextValue = {
   add: (item: Omit<CartItem, "qty">, qty?: number) => void;
   setQty: (slug: string, qty: number) => void;
   remove: (slug: string) => void;
+  /** Empty the cart (after an order is placed). */
+  clear: () => void;
   has: (slug: string) => boolean;
   setShippingMethod: (method: ShippingMethod) => void;
 };
@@ -97,6 +99,8 @@ export function CartProvider({ children }: { children: ReactNode }) {
     setItems((prev) => prev.filter((i) => i.slug !== slug));
   }, []);
 
+  const clear = useCallback(() => setItems([]), []);
+
   const value = useMemo<CartContextValue>(() => {
     const count = items.reduce((n, i) => n + i.qty, 0);
     const subtotal = roundMoney(items.reduce((sum, i) => sum + i.price * i.qty, 0));
@@ -115,10 +119,11 @@ export function CartProvider({ children }: { children: ReactNode }) {
       add,
       setQty,
       remove,
+      clear,
       has: (slug) => items.some((i) => i.slug === slug),
       setShippingMethod: setShippingMethodState,
     };
-  }, [items, ready, shippingMethod, isOpen, add, setQty, remove]);
+  }, [items, ready, shippingMethod, isOpen, add, setQty, remove, clear]);
 
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;
 }

@@ -32,6 +32,29 @@ export function CheckoutContent() {
   const [touched, setTouched] = useState<Record<string, boolean>>({});
   const [submitted, setSubmitted] = useState(false);
   const [placed, setPlaced] = useState(false);
+  const [sending, setSending] = useState(false);
+  const [serverError, setServerError] = useState("");
+  const [confirmation, setConfirmation] = useState<{ number: string; email: string } | null>(null);
+
+  if (confirmation) {
+    return (
+      <div className="mx-auto max-w-xl px-6 py-20 text-center">
+        <h1 className="text-3xl font-medium text-slate-800">Thank you, your order has been received</h1>
+        <p className="mt-4 text-slate-700">
+          Order number: <strong>{confirmation.number}</strong>
+        </p>
+        <p className="mt-4 text-[15px] leading-relaxed text-slate-700">
+          We will contact you at {confirmation.email} with the payment details to complete your order.
+        </p>
+        <Link
+          href="/shop"
+          className="mt-8 inline-block rounded-[4px] bg-[#c98aa0] px-8 py-3.5 font-semibold text-white hover:bg-[#bb7a91]"
+        >
+          Continue shopping
+        </Link>
+      </div>
+    );
+  }
 
   if (!cart.ready) return <div className="min-h-[70vh]" aria-hidden="true" />;
   if (cart.items.length === 0) return <EmptyCart />;
@@ -52,18 +75,51 @@ export function CheckoutContent() {
     onBlur: blur(key),
   });
 
-  function onSubmit(e: FormEvent) {
+  async function onSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault();
     setSubmitted(true);
-    if (belowMinimum || Object.keys(errors).length > 0) return;
-    window.location.href = buildOrderMailto(contactContent.email, form, {
-      items: cart.items,
-      subtotal: cart.subtotal,
-      shippingMethod: cart.shippingMethod,
-      shipping: cart.shipping,
-      total: cart.total,
-    });
-    setPlaced(true);
+    setServerError("");
+    if (belowMinimum || Object.keys(errors).length > 0 || sending) return;
+    const website = String(new FormData(e.currentTarget).get("website") ?? "");
+
+    setSending(true);
+    try {
+      const res = await fetch("/api/order", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          form,
+          website,
+          shippingMethod: cart.shippingMethod,
+          items: cart.items.map((i) => ({ slug: i.slug, qty: i.qty })),
+        }),
+      });
+      const data = (await res.json().catch(() => ({}))) as { ok?: boolean; number?: string; error?: string };
+
+      if (res.ok && data.ok) {
+        setConfirmation({ number: data.number ?? "", email: form.email.trim() });
+        cart.clear();
+        window.scrollTo({ top: 0 });
+        return;
+      }
+      if (data.error === "not_configured") {
+        // Order emails are not set up on this server yet: fall back to the customer's email app.
+        window.location.href = buildOrderMailto(contactContent.email, form, {
+          items: cart.items,
+          subtotal: cart.subtotal,
+          shippingMethod: cart.shippingMethod,
+          shipping: cart.shipping,
+          total: cart.total,
+        });
+        setPlaced(true);
+        return;
+      }
+      setServerError(data.error || "Something went wrong. Please try again.");
+    } catch {
+      setServerError("Could not reach the server. Check your connection and try again.");
+    } finally {
+      setSending(false);
+    }
   }
 
   return (
@@ -196,15 +252,31 @@ export function CheckoutContent() {
               .
             </p>
 
+            {/* Honeypot: hidden from people, filled in by bots. */}
+            <input
+              type="text"
+              name="website"
+              tabIndex={-1}
+              autoComplete="off"
+              aria-hidden="true"
+              className="absolute -left-[9999px] h-0 w-0 opacity-0"
+            />
+
+            {serverError && (
+              <p role="alert" className="rounded-[4px] border border-[#e02b1d] bg-[#fff5f4] p-3 text-[14px] text-[#e02b1d]">
+                {serverError}
+              </p>
+            )}
+
             <button
               type="submit"
-              disabled={belowMinimum}
+              disabled={belowMinimum || sending}
               className="flex h-14 w-full items-center justify-center gap-3 rounded-[4px] bg-[#c98aa0] text-lg font-semibold text-white transition hover:bg-[#bb7a91] disabled:cursor-not-allowed disabled:bg-[#d6a5b5] disabled:hover:bg-[#d6a5b5]"
             >
               <svg viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5" aria-hidden="true">
                 <path d="M17 9V7a5 5 0 0 0-10 0v2H5v12h14V9h-2Zm-8-2a3 3 0 0 1 6 0v2H9V7Z" />
               </svg>
-              Place Order <span>{formatPrice(cart.total)}</span>
+              {sending ? "Sending your order..." : "Place Order"} {!sending && <span>{formatPrice(cart.total)}</span>}
             </button>
           </section>
         </form>
