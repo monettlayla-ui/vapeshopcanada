@@ -49,7 +49,7 @@ export function CheckoutContent() {
         </p>
         <Link
           href="/shop"
-          className="mt-8 inline-block rounded-[4px] bg-[#c98aa0] px-8 py-3.5 font-semibold text-white hover:bg-[#bb7a91]"
+          className="mt-8 inline-block rounded-[4px] bg-[#e0457b] px-8 py-3.5 font-semibold text-white shadow-md shadow-[#e0457b]/30 hover:bg-[#cc3a6d]"
         >
           Continue shopping
         </Link>
