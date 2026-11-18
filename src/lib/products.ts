@@ -56,6 +56,10 @@ const SAVED_ORDER_KEY = { default: "default", popularity: "popularity", rating: 
 const SHARED_FILES = new Set(["products_index.json", "shop_orders.json", "categories_index.json"]);
 const memo = new Map<string, unknown>();
 
+/** Brands removed from the store: their products and categories are hidden everywhere. */
+const HIDDEN_BRANDS = ["alibarbar"];
+const isHidden = (...texts: string[]) => texts.some((t) => HIDDEN_BRANDS.some((b) => t.toLowerCase().includes(b)));
+
 async function readJson<T>(relPath: string): Promise<T> {
   if (memo.has(relPath)) return memo.get(relPath) as T;
   const value = localizeJson(JSON.parse(await fs.readFile(path.join(/*turbopackIgnore: true*/ DATA_DIR, relPath), "utf-8")) as T);
@@ -70,7 +74,9 @@ let indexMemo: ProductIndexEntry[] | undefined;
 async function loadIndex(): Promise<ProductIndexEntry[]> {
   if (indexMemo) return indexMemo;
   const index = await readJson<ProductIndexEntry[]>("products_index.json");
-  indexMemo = index.map((e) => ({
+  indexMemo = index
+    .filter((e) => !isHidden(e.id, e.title))
+    .map((e) => ({
     ...e,
     categories: e.categories.length ? e.categories : [DEFAULT_CATEGORY.slug],
   }));
@@ -143,6 +149,7 @@ export async function getCategoryList(): Promise<CategoryInfo[]> {
   const counts = new Map<string, number>();
   for (const p of index) for (const slug of p.categories) counts.set(slug, (counts.get(slug) ?? 0) + 1);
   return cats
+    .filter((c) => !isHidden(c.id, c.name))
     .map((c) => ({ slug: c.id, name: c.name, count: counts.get(c.id) ?? 0 }))
     .sort((a, b) => {
       // "New Products" is pinned to the top on the live shop; the rest are A–Z.

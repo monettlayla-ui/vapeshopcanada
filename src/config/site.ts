@@ -63,18 +63,18 @@ export type ProductRow = { title?: string; slugs: string[] };
 export const homeProductRows: ProductRow[] = [
   {
     slugs: [
-      "10-pack-alibarbar-ingot-9000-puffs",
-      "20-pack-alibarbar-ingot-9000-puffs",
-      "3-pack-alibarbar-ingot-9000-puffs",
-      "5-pack-alibarbar-ingot-9000-puffs",
+      "bimo-gti-40000-puffs-blueberry-lacy-cherry",
+      "bimo-gti-40000-puffs-cherry-berry",
+      "bimo-gti-40000-puffs-freeze-cola",
+      "bimo-gti-40000-puffs-grape-bubble-gum",
     ],
   },
   {
     slugs: [
-      "banana-buzz-alibarbar-ingot-9000-puffs",
-      "blackberry-ice-alibarbar-ingot-9000-puffs",
-      "blackberry-pomegranate-cherry-alibarbar-ingot-9000-puffs-2",
-      "blackberry-pomegranate-cherry-alibarbar-ingot-9000-puffs",
+      "airmez-xbeats-40000-puffs-banana-taffy-freeze",
+      "airmez-xbeats-40000-puffs-blackberry-b-pop",
+      "airmez-xbeats-40000-puffs-blue-rancher",
+      "airmez-xbeats-40000-puffs-blue-razz",
     ],
   },
   {
@@ -371,32 +371,32 @@ export const mrFogProductRows: ProductRow[] = [
   },
 ];
 
-export const alibarbarContent = {
-  title: "ALIBARBAR Vapes Canada - ALIBARBAR Vapes For Sale Canada",
+export const airmezBimoContent = {
+  title: "Airmez & Bimo Vapes Canada - Long-Lasting Disposable Vapes For Sale",
   paragraphs: [
     [
-      "AliBarBar vapes for sale at Vape Shop Canada bring premium flavor, convenience, and reliability to your vaping experience. These sleek disposable vapes and pod devices are perfect for beginners and seasoned vapers, delivering smooth, consistent puffs without the need for refills or charging.",
-      "With a wide selection of exciting flavors, including fruity, icy, and dessert-inspired blends, AliBarBar vapes ensure a satisfying and enjoyable vape every time. Buying AliBarBar online Canada is simple and hassle-free, with authentic products, fast delivery, and a smooth online shopping experience. Upgrade your sessions with AliBarBar disposable vapes and experience why Vape Shop Canada is the ultimate destination for top-quality vape devices and e-liquids.",
+      "Looking for the best disposable vapes in Canada? Airmez and Bimo vapes for sale at Vape Shop Canada deliver up to 40,000 puffs per device, so one disposable vape lasts for weeks. Each Airmez Matrix Pro, Airmez XBeats, Bimo GTI and Bimo Felxy comes ready to use, with no refilling, no charging stress and no complicated setup.",
+      "Choose from smooth fruity, icy, mint and candy-inspired flavors, all with strong nicotine and mesh-coil performance for a consistent hit from the first puff to the last. Buy Airmez and Bimo vapes online in Canada with authentic products, discreet packaging and fast Canada-wide delivery. Pay by E-transfer or Bitcoin, and enjoy high-puff disposable vapes at a great price from your trusted online vape shop.",
     ],
   ],
 };
 
-/** Product rows shown under the ALIBARBAR text section. */
-export const alibarbarProductRows: ProductRow[] = [
+/** Product rows shown under the Airmez & Bimo text section. */
+export const airmezBimoProductRows: ProductRow[] = [
   {
     slugs: [
-      "10-pack-alibarbar-ingot-9000-puffs",
-      "20-pack-alibarbar-ingot-9000-puffs",
-      "3-pack-alibarbar-ingot-9000-puffs",
-      "5-pack-alibarbar-ingot-9000-puffs",
+      "airmez-matrix-pro-30000-puffs-blueberry-raspberry",
+      "airmez-matrix-pro-30000-puffs-cherry-cola",
+      "airmez-matrix-pro-30000-puffs-cherry-peach-lemonade",
+      "airmez-matrix-pro-30000-puffs-fizzy-cherry",
     ],
   },
   {
     slugs: [
-      "banana-buzz-alibarbar-ingot-9000-puffs",
-      "blackberry-ice-alibarbar-ingot-9000-puffs",
-      "blackberry-pomegranate-cherry-alibarbar-ingot-9000-puffs-2",
-      "blackberry-pomegranate-cherry-alibarbar-ingot-9000-puffs",
+      "bimo-felxy-40000-puffs-apple-aloe",
+      "bimo-felxy-40000-puffs-blueberry-ice",
+      "bimo-felxy-40000-puffs-grape-ice",
+      "bimo-felxy-40000-puffs-grapefruit-mint",
     ],
   },
 ];
