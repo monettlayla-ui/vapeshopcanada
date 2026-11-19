@@ -1,0 +1,46 @@
+{
+  "id": "zblock-2ml-pod-2-pack-extreme-mint",
+  "title": "ZBlock 2mL Pod 2-Pack - Extreme Mint",
+  "description": "The\nZBlock 2mL Pod 2-Pack - Extreme Mint\n-  Cool mint. A 2-Pack of sealed, prefilled replacement pods for the ZBlock closed pod system by ZiipLab. Each pod holds 2mL of 20mg/mL salt nicotine e-liquid and clicks into the draw-activated ZBlock device.\nProduct Type:\nPrefilled Pod (closed, non-refillable)\nE-Liquid Capacity:\n2mL per pod\nNicotine Strength:\n20mg/mL (2%) salt nicotine\nFlavour Profile:\nMint\nActivation:\nDraw-activated (no buttons)\nCompatible Devices:\nZBlock device (included in the ZBlock Starter Kit)\nPack Contents:\n2 x 2mL prefilled pods (4mL total)\nBrand:\nZBlock\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>ZBlock 2mL Pod 2-Pack - Extreme Mint</strong>  -  Cool mint. A 2-Pack of sealed, prefilled replacement pods for the ZBlock closed pod system by ZiipLab. Each pod holds 2mL of 20mg/mL salt nicotine e-liquid and clicks into the draw-activated ZBlock device.</p> <ul> <li> <strong>Product Type:</strong> Prefilled Pod (closed, non-refillable)</li> <li> <strong>E-Liquid Capacity:</strong> 2mL per pod</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL (2%) salt nicotine</li> <li> <strong>Flavour Profile:</strong> Mint</li> <li> <strong>Activation:</strong> Draw-activated (no buttons)</li> <li> <strong>Compatible Devices:</strong> ZBlock device (included in the ZBlock Starter Kit)</li> <li> <strong>Pack Contents:</strong> 2 x 2mL prefilled pods (4mL total)</li> <li> <strong>Brand:</strong> ZBlock</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 13.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/zblock-2ml-pod-2-pack-extreme-mint/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/zblock/products/zblock-2ml-pod-2-pack-extreme-mint/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ZBLOCK",
+      "slug": "zblock",
+      "url": "https://vapesshopcanada.com/product-category/zblock/"
+    },
+    {
+      "name": "Prefilled Pods",
+      "slug": "prefilled-pods",
+      "url": "https://vapesshopcanada.com/product-category/prefilled-pods/"
+    }
+  ],
+  "stored_in": "categories/zblock/products/zblock-2ml-pod-2-pack-extreme-mint"
+}

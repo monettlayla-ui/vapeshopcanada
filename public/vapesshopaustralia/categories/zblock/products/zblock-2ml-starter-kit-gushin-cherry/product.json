@@ -1,0 +1,46 @@
+{
+  "id": "zblock-2ml-starter-kit-gushin-cherry",
+  "title": "ZBlock 2mL Starter Kit - Gushin Cherry",
+  "description": "The\nZBlock 2mL Starter Kit - Gushin Cherry\nis an entry point to the ZBlock closed pod system by ZiipLab. The kit pairs the draw-activated ZBlock device with prefilled 2mL pods at 20mg/mL salt nicotine  -  Cherry in a chewy gusher candy profile.\nProduct Type:\nStarter Kit (closed pod system)\nE-Liquid Capacity:\n2mL per pod\nNicotine Strength:\n20mg/mL (2%) salt nicotine\nFlavour Profile:\nCherry, Gusher Candy\nActivation:\nDraw-activated (no buttons)\nCompatible Devices:\nZBlock 2mL prefilled pods\nPack Contents:\n1 x ZBlock Battery Device, 1 x prefilled 2mL pod\nBrand:\nZBlock\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>ZBlock 2mL Starter Kit - Gushin Cherry</strong> is an entry point to the ZBlock closed pod system by ZiipLab. The kit pairs the draw-activated ZBlock device with prefilled 2mL pods at 20mg/mL salt nicotine  -  Cherry in a chewy gusher candy profile.</p> <ul> <li> <strong>Product Type:</strong> Starter Kit (closed pod system)</li> <li> <strong>E-Liquid Capacity:</strong> 2mL per pod</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL (2%) salt nicotine</li> <li> <strong>Flavour Profile:</strong> Cherry, Gusher Candy</li> <li> <strong>Activation:</strong> Draw-activated (no buttons)</li> <li> <strong>Compatible Devices:</strong> ZBlock 2mL prefilled pods</li> <li> <strong>Pack Contents:</strong> 1 x ZBlock Battery Device, 1 x prefilled 2mL pod</li> <li> <strong>Brand:</strong> ZBlock</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 9.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/zblock-2ml-starter-kit-gushin-cherry/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/zblock/products/zblock-2ml-starter-kit-gushin-cherry/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ZBLOCK",
+      "slug": "zblock",
+      "url": "https://vapesshopcanada.com/product-category/zblock/"
+    },
+    {
+      "name": "Starter Kits",
+      "slug": "starter-kits",
+      "url": "https://vapesshopcanada.com/product-category/starter-kits/"
+    }
+  ],
+  "stored_in": "categories/zblock/products/zblock-2ml-starter-kit-gushin-cherry"
+}
