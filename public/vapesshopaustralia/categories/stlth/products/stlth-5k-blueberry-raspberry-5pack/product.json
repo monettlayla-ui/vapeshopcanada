@@ -1,0 +1,46 @@
+{
+  "id": "stlth-5k-blueberry-raspberry-5pack",
+  "title": "STLTH 5K - Blueberry Raspberry",
+  "description": "The\nSTLTH 5K in Blueberry Raspberry\ndelivers a blueberry, raspberry flavour.\nProduct Type:\nDisposable Vape (Rechargeable)\nPuff Count:\nUp to 5,000\nE-Liquid Capacity:\n10mL\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nBlueberry, Raspberry\nCoil Resistance:\nMesh Coil\nBattery:\n650mAh (USB-C Rechargeable)\nBrand:\nSTLTH\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>STLTH 5K in Blueberry Raspberry</strong> delivers a blueberry, raspberry flavour.</p> <ul> <li> <strong>Product Type:</strong> Disposable Vape (Rechargeable)</li> <li> <strong>Puff Count:</strong> Up to 5,000</li> <li> <strong>E-Liquid Capacity:</strong> 10mL</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Blueberry, Raspberry</li> <li> <strong>Coil Resistance:</strong> Mesh Coil</li> <li> <strong>Battery:</strong> 650mAh (USB-C Rechargeable)</li> <li> <strong>Brand:</strong> STLTH</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 32.99,
+  "sale_price": 27.99,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/stlth-5k-blueberry-raspberry-5pack/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/stlth/products/stlth-5k-blueberry-raspberry-5pack/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "STLTH",
+      "slug": "stlth",
+      "url": "https://vapesshopcanada.com/product-category/stlth/"
+    },
+    {
+      "name": "Disposable Vapes",
+      "slug": "disposable-vapes",
+      "url": "https://vapesshopcanada.com/product-category/disposable-vapes/"
+    }
+  ],
+  "stored_in": "categories/stlth/products/stlth-5k-blueberry-raspberry-5pack"
+}

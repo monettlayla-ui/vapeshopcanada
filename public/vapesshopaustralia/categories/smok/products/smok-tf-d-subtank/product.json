@@ -1,0 +1,46 @@
+{
+  "id": "smok-tf-d-subtank",
+  "title": "SMOK TF-D Subtank",
+  "description": "The\nSMOK TF-D Subtank\nis a sub-ohm tank designed for direct-to-lung (DTL) vaping. Featuring top-fill design with child-proof lock, adjustable top airflow, and leak-proof construction. Uses SMOK D-Coil series coils.\nProduct Type:\nSub-Ohm Tank\nTank Capacity:\n3.5mL (standard) / 5.5mL (bulb glass included)\nCoil Type:\nReplaceable - uses SMOK D-Coils\nCoil Resistance:\n0.15Ω / 0.23Ω / 0.4Ω D-Coils\nFill Method:\nTop Fill with Child-Proof Lock\nAirflow:\nAdjustable Top Airflow\nConnection:\n510 Thread\nCompatible Mods:\nSMOK X-Priv Solo 80W, SMOK X-Priv Plus, or any 510-threaded mod\nBrand:\nSMOK\nD-Coils and e-liquid sold separately. Suitable for freebase e-liquids at higher wattages.\nAvailable options: Matte Black, Stainless Steel.",
+  "description_html": "<p>The <strong>SMOK TF-D Subtank</strong> is a sub-ohm tank designed for direct-to-lung (DTL) vaping. Featuring top-fill design with child-proof lock, adjustable top airflow, and leak-proof construction. Uses SMOK D-Coil series coils.</p> <ul> <li> <strong>Product Type:</strong> Sub-Ohm Tank</li> <li> <strong>Tank Capacity:</strong> 3.5mL (standard) / 5.5mL (bulb glass included)</li> <li> <strong>Coil Type:</strong> Replaceable - uses SMOK D-Coils</li> <li> <strong>Coil Resistance:</strong> 0.15Ω / 0.23Ω / 0.4Ω D-Coils</li> <li> <strong>Fill Method:</strong> Top Fill with Child-Proof Lock</li> <li> <strong>Airflow:</strong> Adjustable Top Airflow</li> <li> <strong>Connection:</strong> 510 Thread</li> <li> <strong>Compatible Mods:</strong> SMOK X-Priv Solo 80W, SMOK X-Priv Plus, or any 510-threaded mod</li> <li> <strong>Brand:</strong> SMOK</li> </ul> <p><em>D-Coils and e-liquid sold separately. Suitable for freebase e-liquids at higher wattages.</em></p><p>Available options: Matte Black, Stainless Steel.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 39.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/smok-tf-d-subtank/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/smok/products/smok-tf-d-subtank/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Smok",
+      "slug": "smok",
+      "url": "https://vapesshopcanada.com/product-category/smok/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/smok/products/smok-tf-d-subtank"
+}

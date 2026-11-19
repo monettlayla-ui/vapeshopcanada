@@ -1,0 +1,46 @@
+{
+  "id": "smok-x-priv-solo-80w-mod",
+  "title": "SMOK X-PRIV Solo 80W Mod",
+  "description": "The\nSMOK X-PRIV Solo 80W Mod\nis a compact box mod with adjustable wattage up to 80W. Features a dual touchscreen display with switchable themes, haptic feedback, and intelligent atomizer recognition. Requires a single 18650 battery (sold separately).\nProduct Type:\nBox Mod (Battery Only - No Tank)\nWattage Range:\n5-80W\nBattery:\nSingle 18650 (sold separately)\nCharging:\nUSB Type-C (2.5A Fast Charging)\nDisplay:\nDual Touchscreen with Haptic Feedback\nConnection:\n510 Thread\nResistance Range:\n0.1-2.5Ω\nCompatible Tanks:\nSMOK TF-D Subtank (with D-Coils), or any 510-threaded tank/atomizer\nBrand:\nSMOK\nTank, battery, and e-liquid sold separately. Pair with the SMOK TF-D Subtank and D-Coils for the intended setup.\nAvailable options: Black Shell, Silver Lines.",
+  "description_html": "<p>The <strong>SMOK X-PRIV Solo 80W Mod</strong> is a compact box mod with adjustable wattage up to 80W. Features a dual touchscreen display with switchable themes, haptic feedback, and intelligent atomizer recognition. Requires a single 18650 battery (sold separately).</p> <ul> <li> <strong>Product Type:</strong> Box Mod (Battery Only - No Tank)</li> <li> <strong>Wattage Range:</strong> 5-80W</li> <li> <strong>Battery:</strong> Single 18650 (sold separately)</li> <li> <strong>Charging:</strong> USB Type-C (2.5A Fast Charging)</li> <li> <strong>Display:</strong> Dual Touchscreen with Haptic Feedback</li> <li> <strong>Connection:</strong> 510 Thread</li> <li> <strong>Resistance Range:</strong> 0.1-2.5Ω</li> <li> <strong>Compatible Tanks:</strong> SMOK TF-D Subtank (with D-Coils), or any 510-threaded tank/atomizer</li> <li> <strong>Brand:</strong> SMOK</li> </ul> <p><em>Tank, battery, and e-liquid sold separately. Pair with the SMOK TF-D Subtank and D-Coils for the intended setup.</em></p><p>Available options: Black Shell, Silver Lines.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 44.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/smok-x-priv-solo-80w-mod/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/smok/products/smok-x-priv-solo-80w-mod/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Smok",
+      "slug": "smok",
+      "url": "https://vapesshopcanada.com/product-category/smok/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/smok/products/smok-x-priv-solo-80w-mod"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "gcore-ripper-x-ultra-device-kit-for-ripperx",
+  "title": "Ripper X Ultra Device",
+  "description": "The\nRipper X Ultra Device\nis a rechargeable closed pod system designed for Ripper X prefilled pods. Features up to 35W output for enhanced flavour.\nDevice Type:\nClosed Pod System\nWattage:\nUp to 35W\nBattery:\n1100mAh\nCharging:\nUSB Type-C\nPod Compatibility:\nRipper X 75K and 35K Pods\nBrand:\nRipper X / GCore\nPods sold separately. This device contains no e-liquid or nicotine.\nAvailable options: Metallic Black, Metallic Dark Blue, Metallic Red, Metallic Gray, Metallic Pink.",
+  "description_html": "<p>The <strong>Ripper X Ultra Device</strong> is a rechargeable closed pod system designed for Ripper X prefilled pods. Features up to 35W output for enhanced flavour.</p> <ul> <li> <strong>Device Type:</strong> Closed Pod System</li> <li> <strong>Wattage:</strong> Up to 35W</li> <li> <strong>Battery:</strong> 1100mAh</li> <li> <strong>Charging:</strong> USB Type-C</li> <li> <strong>Pod Compatibility:</strong> Ripper X 75K and 35K Pods</li> <li> <strong>Brand:</strong> Ripper X / GCore</li> </ul> <p><em>Pods sold separately. This device contains no e-liquid or nicotine.</em></p><p>Available options: Metallic Black, Metallic Dark Blue, Metallic Red, Metallic Gray, Metallic Pink.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 12.99,
+  "sale_price": 9.99,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/gcore-ripper-x-ultra-device-kit-for-ripperx/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/ripperx/products/gcore-ripper-x-ultra-device-kit-for-ripperx/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "RIPPERX",
+      "slug": "ripperx",
+      "url": "https://vapesshopcanada.com/product-category/ripperx/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/ripperx/products/gcore-ripper-x-ultra-device-kit-for-ripperx"
+}
