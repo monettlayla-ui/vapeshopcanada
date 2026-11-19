@@ -1,0 +1,46 @@
+{
+  "id": "stlth-open-replacement-pod-2-pack",
+  "title": "STLTH Open Replacement Pod 2-Pack",
+  "description": "The\nSTLTH Open Replacement Pod 2-Pack\n. A replacement pod with 2mL of e-liquid.\nProduct Type:\nReplacement Pod\nE-Liquid Capacity:\n2mL\nCoil Resistance:\n0.4Ω Mesh Coil\nCompatible Pods:\nSTLTH Open\nBrand:\nSTLTH\nPackage Contents:\n2 x 2.0 mL Replacement Pod Cartridges Per Pack",
+  "description_html": "<p>The <strong>STLTH Open Replacement Pod 2-Pack</strong>. A replacement pod with 2mL of e-liquid.</p> <ul> <li> <strong>Product Type:</strong> Replacement Pod</li> <li> <strong>E-Liquid Capacity:</strong> 2mL</li> <li> <strong>Coil Resistance:</strong> 0.4Ω Mesh Coil</li> <li> <strong>Compatible Pods:</strong> STLTH Open</li> <li> <strong>Brand:</strong> STLTH</li> </ul> <p><strong>Package Contents:</strong> 2 x 2.0 mL Replacement Pod Cartridges Per Pack</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 16.99,
+  "sale_price": 9.49,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/stlth-open-replacement-pod-2-pack/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/stlth/products/stlth-open-replacement-pod-2-pack/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "STLTH",
+      "slug": "stlth",
+      "url": "https://vapesshopcanada.com/product-category/stlth/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/stlth/products/stlth-open-replacement-pod-2-pack"
+}

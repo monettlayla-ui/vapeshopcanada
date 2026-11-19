@@ -1,0 +1,46 @@
+{
+  "id": "stlth-loop-open-replacement-pod-pack",
+  "title": "STLTH Loop Open Replacement Pod 2-Pack",
+  "description": "The\nSTLTH Loop Open Replacement Pod\nis a refillable replacement pod for the STLTH Loop 3 Device. Fill with your choice of e-liquid.\nProduct Type:\nRefillable Replacement Pod (Empty - Fill with E-Liquid)\nE-Liquid Capacity:\n3mL per Pod\nPack Contents:\n2 Pods\nCoil Resistance:\nIntegrated\nFill Method:\nTop Fill\nCompatible Devices:\nSTLTH Loop 3 Device\nBrand:\nSTLTH\nE-liquid sold separately.",
+  "description_html": "<p>The <strong>STLTH Loop Open Replacement Pod</strong> is a refillable replacement pod for the STLTH Loop 3 Device. Fill with your choice of e-liquid.</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod (Empty - Fill with E-Liquid)</li> <li> <strong>E-Liquid Capacity:</strong> 3mL per Pod</li> <li> <strong>Pack Contents:</strong> 2 Pods</li> <li> <strong>Coil Resistance:</strong> Integrated</li> <li> <strong>Fill Method:</strong> Top Fill</li> <li> <strong>Compatible Devices:</strong> STLTH Loop 3 Device</li> <li> <strong>Brand:</strong> STLTH</li> </ul> <p><em>E-liquid sold separately.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 10.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/stlth-loop-open-replacement-pod-pack/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/stlth/products/stlth-loop-open-replacement-pod-pack/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "STLTH",
+      "slug": "stlth",
+      "url": "https://vapesshopcanada.com/product-category/stlth/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/stlth/products/stlth-loop-open-replacement-pod-pack"
+}
