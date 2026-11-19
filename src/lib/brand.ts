@@ -1,7 +1,8 @@
 /** Known brands, matched against a product title. Order matters: first match wins. */
 const BRANDS: { name: string; match: RegExp }[] = [
   { name: "Geek Bar", match: /geek\s*bar/i },
-  { name: "IGET", match: /\biget\b/i },
+  { name: "Velo", match: /\bvelo\b/i },
+  { name: "Timber Wolf", match: /timber\s*wolf/i },
   { name: "Airmez", match: /airmez/i },
   { name: "Bimo", match: /\bbimo\b/i },
   { name: "Alfakher", match: /alfakher/i },

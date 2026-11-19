@@ -18,7 +18,7 @@ export const seoConfig = {
   sameAs: [] as string[],
   locale: "en_CA",
   description:
-    "Buy disposable vapes, vape kits, pods, e-liquids and nicotine pouches online in Canada. Authentic brands like IGET, Geek Bar and HQD with fast Canada-wide delivery from Vape Shop Canada.",
+    "Buy disposable vapes, vape kits, pods, e-liquids and nicotine pouches online in Canada. Authentic brands like Geek Bar, Bimo, Airmez and HQD with fast Canada-wide delivery from Vape Shop Canada.",
   keywords: [
     "vape shop Canada",
     "buy vapes online Canada",
@@ -26,7 +26,7 @@ export const seoConfig = {
     "vape kits Canada",
     "e-liquids Canada",
     "nicotine pouches Canada",
-    "IGET Canada",
+    "Brisk Bar Canada",
     "Geek Bar Canada",
     "HQD Canada",
     "vape delivery Canada",

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { igetBanner as c } from "@/config/site";
+import { promoBanner as c } from "@/config/site";
 import { ButtonLink } from "@/components/ui/Button";
 
 /**

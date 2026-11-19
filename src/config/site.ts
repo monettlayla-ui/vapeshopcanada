@@ -129,38 +129,38 @@ export const eLiquidsContent = {
   ],
 };
 
-export const igetBanner = {
+export const promoBanner = {
   eyebrow: "New collection",
-  title: "The Top Quality and authentic Iget Vape Collection",
-  image: "/images/iget-banner.jpg",
-  imageAlt: "IGET Bar disposable vapes surrounded by colourful smoke",
+  title: "The Top Quality and Authentic Disposable Vape Collection",
+  image: "/images/hero-2.jpg",
+  imageAlt: "Colourful disposable vape bottles surrounded by smoke",
   cta: { label: "Shop now", href: "/shop" },
 };
 
-export const igetContent = {
-  title: "IGET Vapes Canada - Buy IGET Vapes Online Canada",
+export const briskBarContent = {
+  title: "Brisk Bar Vapes Canada - Buy Brisk Bar 5000 Puff Disposable Vapes Online",
   paragraphs: [
-    "Looking for iGet vape for sale in Canada? iGet vapes are among the most popular disposable vape devices, known for their sleek design, powerful performance, and rich flavor delivery. Whether you are new to vaping or an experienced user, iGet disposable vapes offer a hassle-free experience with no refilling, no charging setup, and no maintenance required.",
-    "Our collection of iGet vapes for sale Canada includes a wide variety of flavors to suit every preference, from fruity and icy blends to classic options. Designed for long-lasting use, iGet vapes provide consistent vapor production and a smooth draw from the first puff to the last. If you want a reliable, easy-to-use device, buying iGet vape online Canada is the perfect choice for convenient and satisfying vaping",
+    "Looking for Brisk Bar vapes for sale in Canada? Brisk Bar 5000 puff disposable vapes are one of the best value disposable vapes you can buy online in Canada. Each device is ready to use straight out of the box, with no refilling, no charging and no setup, and it delivers up to 5000 smooth puffs with strong nicotine and a mesh coil for steady flavour.",
+    "Our Brisk Bar disposable vape collection includes icy fruit, cola, mint, grape and tropical flavours such as Lush Ice, Blueberry Ice, Double Apple and Exotic Fruit. Buy Brisk Bar vapes online Canada with authentic products, discreet packaging and fast Canada-wide delivery, and pay by E-transfer or Bitcoin. It is an easy, affordable way to get a long-lasting disposable vape from your trusted online vape shop.",
   ],
 };
 
-/** Product rows shown under the IGET text section. */
-export const igetProductRows: ProductRow[] = [
+/** Product rows shown under the Brisk Bar text section. */
+export const briskBarProductRows: ProductRow[] = [
   {
     slugs: [
-      "10-pack-iget-bar-pro-10000-puffs",
-      "10-pack-iget-bar-pro-10000-puffs-2",
-      "20-pack-iget-bar-pro-10000-puffs",
-      "20-pack-iget-bar-pro-10000-puffs-2",
+      "brisk-bar-lush-ice-5000-puffs",
+      "brisk-bar-banana-crispy-ice-5000-puffs",
+      "brisk-bar-bloody-cold-5000-puffs",
+      "brisk-bar-blueberry-ice-5000-puffs",
     ],
   },
   {
     slugs: [
-      "3-pack-iget-bar-pro-10000-puffs",
-      "5-pack-iget-bar-pro-10000-puffs",
-      "5-pack-iget-bar-pro-10000-puffs-2",
-      "blackberry-ice-iget-bar-pro-10000-puffs",
+      "brisk-bar-cola-ice-5000-puffs",
+      "brisk-bar-double-apple-5000-puffs",
+      "brisk-bar-exotic-fruit-5000-puffs",
+      "brisk-bar-grape-ice-5000-puffs",
     ],
   },
 ];
@@ -422,8 +422,8 @@ export const footerContent = {
 
 export const aboutHero = {
   title: "About us",
-  image: "/images/iget-banner.jpg",
-  imageAlt: "IGET Bar disposable vapes surrounded by colourful smoke",
+  image: "/images/hero-2.jpg",
+  imageAlt: "Colourful disposable vape bottles surrounded by smoke",
 };
 
 export const aboutContent = {
@@ -432,8 +432,8 @@ export const aboutContent = {
     "Vape Shop Canada is a reliable online destination created to make it simple and convenient to buy vapes online Canada from one trusted source. Our online vape store Canada offers a wide selection of disposable vapes, vape kits, vape pods, vape devices, e-liquids, vape liquids, nicotine vapes, and accessories designed to suit both new and experienced vapers. We focus on providing quality vape products that deliver consistent performance, strong flavor, and satisfying vapor production.",
   mission: {
     title: "Our Mission",
-    image: "/images/about-iget-moon.png",
-    imageAlt: "IGET Moon 5000 puff disposable vapes",
+    image: "/images/banner-vape-devices.jpg",
+    imageAlt: "Vape devices and e-cigarettes on a wooden table",
     paragraphs: [
       "Our mission is to give customers across Canada access to authentic vape products through a smooth and hassle-free ordering process.",
       "Every product available at Vape Shop Canada is sourced from reputable suppliers and handled through controlled environments to ensure safety, reliability, and compliance.",
@@ -492,17 +492,17 @@ export type ExtraSection = {
 
 export const extraSections: Record<"pouches" | "geekBar" | "eLiquids" | "glass", ExtraSection> = {
   pouches: {
-    title: "Nicotine Pouches - IGET Shion Pouches Canada",
+    title: "Nicotine Pouches Canada - Velo Nicotine Pouches For Sale",
     paragraphs: [
-      "Prefer something discreet? IGET Shion nicotine pouches are tobacco-free, smoke-free and easy to use anywhere. Choose from fresh mint, fruit and ice flavours in different strengths.",
+      "Prefer something discreet? Velo nicotine pouches are tobacco-free, smoke-free and easy to use anywhere, with no vapor and no spitting. Buy nicotine pouches online in Canada in fresh mint, citrus, coffee and berry flavours, in 2mg and 4mg strengths, with fast Canada-wide delivery from Vape Shop Canada.",
     ],
     rows: [
       {
         slugs: [
-          "apple-iget-shion-x1-nicotine-pouch-12mg-2",
-          "blueberry-ice-iget-shion-x1-nicotine-pouch-12mg",
-          "citrus-iget-shion-x1-nicotine-pouch-12mg",
-          "cool-mint-iget-shion-x1-nicotine-pouch-12mg-2",
+          "velo-pouch-citrus-burst-2mg",
+          "velo-pouch-spearmint-2mg",
+          "velo-pouch-wintergreen-2mg",
+          "velo-pouch-dragon-fruit-2mg",
         ],
       },
     ],

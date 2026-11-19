@@ -57,7 +57,7 @@ const SHARED_FILES = new Set(["products_index.json", "shop_orders.json", "catego
 const memo = new Map<string, unknown>();
 
 /** Brands removed from the store: their products and categories are hidden everywhere. */
-const HIDDEN_BRANDS = ["alibarbar"];
+const HIDDEN_BRANDS = ["alibarbar", "iget"];
 const isHidden = (...texts: string[]) => texts.some((t) => HIDDEN_BRANDS.some((b) => t.toLowerCase().includes(b)));
 
 async function readJson<T>(relPath: string): Promise<T> {
