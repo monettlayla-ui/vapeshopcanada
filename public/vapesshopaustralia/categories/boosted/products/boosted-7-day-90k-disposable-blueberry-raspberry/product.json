@@ -1,0 +1,46 @@
+{
+  "id": "boosted-7-day-90k-disposable-blueberry-raspberry",
+  "title": "Boosted 7 Day 90K - Blueberry Raspberry",
+  "description": "The\nBoosted 7 Day 90K in Blueberry Raspberry\ndelivers blueberry and raspberry.\nProduct Type:\nDisposable Vape (Rechargeable)\nPuff Count:\nUp to 90,000\nE-Liquid Capacity:\n30mL\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nBlueberry Raspberry\nCoil Resistance:\nDual Mesh Coil\nDisplay:\nE-Liquid & Battery Indicator\nBattery:\nUSB-C Rechargeable\nBrand:\nBoosted\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Boosted 7 Day 90K in Blueberry Raspberry</strong> delivers blueberry and raspberry.</p> <ul> <li> <strong>Product Type:</strong> Disposable Vape (Rechargeable)</li> <li> <strong>Puff Count:</strong> Up to 90,000</li> <li> <strong>E-Liquid Capacity:</strong> 30mL</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Blueberry Raspberry</li> <li> <strong>Coil Resistance:</strong> Dual Mesh Coil</li> <li> <strong>Display:</strong> E-Liquid &amp; Battery Indicator</li> <li> <strong>Battery:</strong> USB-C Rechargeable</li> <li> <strong>Brand:</strong> Boosted</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 44.99,
+  "sale_price": 39.99,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/boosted-7-day-90k-disposable-blueberry-raspberry/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/boosted/products/boosted-7-day-90k-disposable-blueberry-raspberry/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Boosted",
+      "slug": "boosted",
+      "url": "https://vapesshopcanada.com/product-category/boosted/"
+    },
+    {
+      "name": "Disposable Vapes",
+      "slug": "disposable-vapes",
+      "url": "https://vapesshopcanada.com/product-category/disposable-vapes/"
+    }
+  ],
+  "stored_in": "categories/boosted/products/boosted-7-day-90k-disposable-blueberry-raspberry"
+}
