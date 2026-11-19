@@ -84,7 +84,7 @@ export const merchantReturnPolicy = {
   merchantReturnLink: absoluteUrl("/refund-policy"),
 };
 
-const shippingRate = (name: string, value: number) => ({
+const shippingRate = (name: string, value: number, days: number) => ({
   "@type": "OfferShippingDetails",
   shippingLabel: name,
   shippingRate: { "@type": "MonetaryAmount", value: value.toFixed(2), currency: "CAD" },
@@ -92,9 +92,9 @@ const shippingRate = (name: string, value: number) => ({
   deliveryTime: {
     "@type": "ShippingDeliveryTime",
     handlingTime: { "@type": "QuantitativeValue", minValue: 0, maxValue: 0, unitCode: "DAY" },
-    transitTime: { "@type": "QuantitativeValue", minValue: 1, maxValue: 1, unitCode: "DAY" },
+    transitTime: { "@type": "QuantitativeValue", minValue: days, maxValue: days, unitCode: "DAY" },
   },
 });
 
-/** Shipping options shown to Google: $20 standard and $35 express, delivered in 1 business day. */
-export const shippingDetails = [shippingRate("Standard Shipping", 20), shippingRate("Express Shipping", 35)];
+/** Shipping options shown to Google: $20 standard (2 business days) and $35 express (1 business day). */
+export const shippingDetails = [shippingRate("Standard Shipping", 20, 2), shippingRate("Express Shipping", 35, 1)];
