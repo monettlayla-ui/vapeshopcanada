@@ -1,0 +1,46 @@
+{
+  "id": "stlth-banana-ice",
+  "title": "STLTH Pod 3-Pack - Banana Ice",
+  "description": "The\nSTLTH Pod in Banana Ice\ndelivers a banana flavour with a refreshing icy finish. Compatible with STLTH Type-C and STLTH Anod devices.\nProduct Type:\nPrefilled Closed Pod\nPack Contents:\n3 Pods per Pack\nE-Liquid Capacity:\n2mL per Pod\nNicotine Strength:\n0mg (Nicotine-Free)\nFlavour Profile:\nBanana, Ice\nCompatible Devices:\nSTLTH Type-C Device, STLTH Anod\nBrand:\nSTLTH\nThis product is nicotine-free.\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>STLTH Pod in Banana Ice</strong> delivers a banana flavour with a refreshing icy finish. Compatible with STLTH Type-C and STLTH Anod devices.</p> <ul> <li> <strong>Product Type:</strong> Prefilled Closed Pod</li> <li> <strong>Pack Contents:</strong> 3 Pods per Pack</li> <li> <strong>E-Liquid Capacity:</strong> 2mL per Pod</li> <li> <strong>Nicotine Strength:</strong> 0mg (Nicotine-Free)</li> <li> <strong>Flavour Profile:</strong> Banana, Ice</li> <li> <strong>Compatible Devices:</strong> STLTH Type-C Device, STLTH Anod</li> <li> <strong>Brand:</strong> STLTH</li> </ul> <p><em>This product is nicotine-free.</em></p> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 21.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/stlth-banana-ice/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/stlth/products/stlth-banana-ice/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "STLTH",
+      "slug": "stlth",
+      "url": "https://vapesshopcanada.com/product-category/stlth/"
+    },
+    {
+      "name": "Prefilled Pods",
+      "slug": "prefilled-pods",
+      "url": "https://vapesshopcanada.com/product-category/prefilled-pods/"
+    }
+  ],
+  "stored_in": "categories/stlth/products/stlth-banana-ice"
+}

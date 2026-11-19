@@ -1,0 +1,46 @@
+{
+  "id": "stlth-eco-purple-grape-ice",
+  "title": "STLTH ECO - Purple Grape Ice",
+  "description": "The\nSTLTH ECO - Purple Grape Ice\n-  Tangy purple grape with juicy, vibrant notes, rounded out by a refreshing icy exhale. A non-rechargeable disposable vape with 6mL of e-liquid and a 1000mAh battery.\nProduct Type:\nDisposable Vape (Non-Rechargeable)\nE-Liquid Capacity:\n6mL\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nPurple Grape, Ice\nBattery:\n1000mAh (Non-Rechargeable)\nBrand:\nSTLTH\nPackage Contents:\n1x STLTH ECO Disposable\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>STLTH ECO - Purple Grape Ice</strong>  -  Tangy purple grape with juicy, vibrant notes, rounded out by a refreshing icy exhale. A non-rechargeable disposable vape with 6mL of e-liquid and a 1000mAh battery.</p> <ul> <li> <strong>Product Type:</strong> Disposable Vape (Non-Rechargeable)</li> <li> <strong>E-Liquid Capacity:</strong> 6mL</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Purple Grape, Ice</li> <li> <strong>Battery:</strong> 1000mAh (Non-Rechargeable)</li> <li> <strong>Brand:</strong> STLTH</li> </ul> <p><strong>Package Contents:</strong> 1x STLTH ECO Disposable</p> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 19.49,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/stlth-eco-purple-grape-ice/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/stlth/products/stlth-eco-purple-grape-ice/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "STLTH",
+      "slug": "stlth",
+      "url": "https://vapesshopcanada.com/product-category/stlth/"
+    },
+    {
+      "name": "Disposable Vapes",
+      "slug": "disposable-vapes",
+      "url": "https://vapesshopcanada.com/product-category/disposable-vapes/"
+    }
+  ],
+  "stored_in": "categories/stlth/products/stlth-eco-purple-grape-ice"
+}
