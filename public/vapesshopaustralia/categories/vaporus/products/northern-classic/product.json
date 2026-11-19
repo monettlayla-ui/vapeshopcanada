@@ -1,0 +1,46 @@
+{
+  "id": "northern-classic",
+  "title": "Salt Nix - Northern Classic - 30mL Salt Nic E-Liquid",
+  "description": "Salt Nix - Northern Classic\nis a smooth tobacco salt nicotine e-liquid.\nProduct Type:\nSalt Nicotine E-Liquid\nFlavour Profile:\nSmooth Tobacco\nBottle Size:\n30mL\nVG/PG Ratio:\n50/50\nNicotine Strength:\n20mg\nBrand:\nSalt Nix\nMade in Canada\nSalt nicotine e-liquids are designed for low-wattage pod systems. Not for sub-ohm devices.\nThis product contains nicotine. Nicotine is a highly addictive substance.\nAvailable options: 10mg, 20mg.",
+  "description_html": "<p><strong>Salt Nix - Northern Classic</strong> is a smooth tobacco salt nicotine e-liquid.</p> <ul> <li> <strong>Product Type:</strong> Salt Nicotine E-Liquid</li> <li> <strong>Flavour Profile:</strong> Smooth Tobacco</li> <li> <strong>Bottle Size:</strong> 30mL</li> <li> <strong>VG/PG Ratio:</strong> 50/50</li> <li> <strong>Nicotine Strength:</strong> 20mg</li> <li> <strong>Brand:</strong> Salt Nix</li> <li><strong>Made in Canada</strong></li> </ul> <p><em>Salt nicotine e-liquids are designed for low-wattage pod systems. Not for sub-ohm devices.</em></p> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p><p>Available options: 10mg, 20mg.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 34.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/northern-classic/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vaporus/products/northern-classic/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vaporus",
+      "slug": "vaporus",
+      "url": "https://vapesshopcanada.com/product-category/vaporus/"
+    },
+    {
+      "name": "E-Liquids",
+      "slug": "e-liquids",
+      "url": "https://vapesshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/vaporus/products/northern-classic"
+}

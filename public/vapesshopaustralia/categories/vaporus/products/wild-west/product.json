@@ -1,0 +1,46 @@
+{
+  "id": "wild-west",
+  "title": "Vaporus Black Label - Wild West E-Liquid",
+  "description": "Vaporus Black Label - Wild West\nis a dry, spicier blonde Virginia tobacco freebase e-liquid.\nProduct Type:\nFreebase E-Liquid\nFlavour Profile:\nDry Virginia Tobacco\nBottle Size:\n30mL / 500mL\nVG/PG Ratio:\n50/50\nNicotine Strength:\nAvailable in 0mg, 3mg, 6mg, 9mg, 12mg, 18mg\nBrand:\nVaporus Black Label\nMade in Canada\nNo Added Sweeteners\n500mL bottles are made to order by the manufacturer. Please allow up to 10 business days for processing.\nThis product contains nicotine (except 0mg). Nicotine is a highly addictive substance.\nAvailable options: 500mL / 0mg, 500mL / 3mg, 500mL / 6mg, 500mL / 9mg, 500mL / 12mg, 500mL / 18mg.",
+  "description_html": "<p><strong>Vaporus Black Label - Wild West</strong> is a dry, spicier blonde Virginia tobacco freebase e-liquid.</p> <ul> <li> <strong>Product Type:</strong> Freebase E-Liquid</li> <li> <strong>Flavour Profile:</strong> Dry Virginia Tobacco</li> <li> <strong>Bottle Size:</strong> 30mL / 500mL</li> <li> <strong>VG/PG Ratio:</strong> 50/50</li> <li> <strong>Nicotine Strength:</strong> Available in 0mg, 3mg, 6mg, 9mg, 12mg, 18mg</li> <li> <strong>Brand:</strong> Vaporus Black Label</li> <li><strong>Made in Canada</strong></li> <li><strong>No Added Sweeteners</strong></li> </ul> <p><strong>500mL bottles are made to order by the manufacturer. Please allow up to 10 business days for processing.</strong></p> <p><em>This product contains nicotine (except 0mg). Nicotine is a highly addictive substance.</em></p><p>Available options: 500mL / 0mg, 500mL / 3mg, 500mL / 6mg, 500mL / 9mg, 500mL / 12mg, 500mL / 18mg.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 399.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/wild-west/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vaporus/products/wild-west/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vaporus",
+      "slug": "vaporus",
+      "url": "https://vapesshopcanada.com/product-category/vaporus/"
+    },
+    {
+      "name": "E-Liquids",
+      "slug": "e-liquids",
+      "url": "https://vapesshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/vaporus/products/wild-west"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vice-2500-classic-ice-6pack",
+  "title": "Vice 2500 - Classic Ice",
+  "description": "The\nVice 2500 - Classic Ice\ndelivers a classic sweet energy drink with an icy finish. A rechargeable disposable vape with up to 2,500 puffs.\nProduct Type:\nDisposable Vape (Rechargeable)\nPuff Count:\nUp to 2,500\nE-Liquid Capacity:\n6mL\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nBeverage, Ice\nCoil Resistance:\n1.2Ω Mesh Coil\nBattery:\n1000mAh (USB-C Rechargeable)\nBrand:\nVice\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Vice 2500 - Classic Ice</strong> delivers a classic sweet energy drink with an icy finish. A rechargeable disposable vape with up to 2,500 puffs.</p> <ul> <li> <strong>Product Type:</strong> Disposable Vape (Rechargeable)</li> <li> <strong>Puff Count:</strong> Up to 2,500</li> <li> <strong>E-Liquid Capacity:</strong> 6mL</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Beverage, Ice</li> <li> <strong>Coil Resistance:</strong> 1.2Ω Mesh Coil</li> <li> <strong>Battery:</strong> 1000mAh (USB-C Rechargeable)</li> <li> <strong>Brand:</strong> Vice</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 21.99,
+  "sale_price": 19.99,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vice-2500-classic-ice-6pack/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vice/products/vice-2500-classic-ice-6pack/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vice",
+      "slug": "vice",
+      "url": "https://vapesshopcanada.com/product-category/vice/"
+    },
+    {
+      "name": "Disposable Vapes",
+      "slug": "disposable-vapes",
+      "url": "https://vapesshopcanada.com/product-category/disposable-vapes/"
+    }
+  ],
+  "stored_in": "categories/vice/products/vice-2500-classic-ice-6pack"
+}
