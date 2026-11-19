@@ -49,8 +49,8 @@ export const introContent = {
   title: "Disposable Vapes Canada - Buy Disposable Vapes Online Canada",
   paragraphs: [
     "Finding quality disposable vapes, vape pods, or e-liquid flavors in Canada can be difficult when stock runs out. Vape Shop Canada allows you to buy vapes online in Canada easily from the comfort of your home, with a 100% guarantee of delivery to your doorstep on time. Buy vapes online Canada from the cheapest online vape store offering the best disposable vapes, e-liquids, vape kits, vape pods, vape devices, and vaporizers from top reputable brands.",
-    "We are ready to meet all your vaping needs, and Vape Shop Canada is the best place for nicotine vapes. If you are a smoker in Canada looking to quit, Vape Shop Canada is the legitimate and fast way to buy vapes, vape coils, and e-liquids hassle-free. The availability of vape products in Canada has changed significantly.",
-    "It is no longer possible to buy vapes online without a prescription, but Vape Shop Canada makes this process hassle-free. There is no need to visit a local chemist or pharmacy when buying from the best disposable vape store in Canada, because we have you covered. All our products are sourced from regulated and controlled environments, ensuring consumer safety and compliance with relevant health regulations.",
+    "We are ready to meet all your vaping needs, and Vape Shop Canada is the best place for nicotine vapes. If you are a smoker in Canada looking to quit, Vape Shop Canada is the legitimate and fast way to buy vapes, vape coils, and e-liquids hassle-free.",
+    "Vape Shop Canada makes buying vapes online simple and hassle-free, with discreet packaging and fast delivery straight to your door anywhere in Canada. All our products are sourced from regulated and controlled environments, ensuring consumer safety and compliance with relevant health regulations.",
   ],
 };
 
@@ -154,34 +154,6 @@ export const promoBanner = {
   cta: { label: "Shop now", href: "/shop" },
 };
 
-export const briskBarContent = {
-  title: "Brisk Bar Vapes Canada - Buy Brisk Bar 5000 Puff Disposable Vapes Online",
-  paragraphs: [
-    "Looking for Brisk Bar vapes for sale in Canada? Brisk Bar 5000 puff disposable vapes are one of the best value disposable vapes you can buy online in Canada. Each device is ready to use straight out of the box, with no refilling, no charging and no setup, and it delivers up to 5000 smooth puffs with strong nicotine and a mesh coil for steady flavour.",
-    "Our Brisk Bar disposable vape collection includes icy fruit, cola, mint, grape and tropical flavours such as Lush Ice, Blueberry Ice, Double Apple and Exotic Fruit. Buy Brisk Bar vapes online Canada with authentic products, discreet packaging and fast Canada-wide delivery, and pay by E-transfer or Bitcoin. It is an easy, affordable way to get a long-lasting disposable vape from your trusted online vape shop.",
-  ],
-};
-
-/** Product rows shown under the Brisk Bar text section. */
-export const briskBarProductRows: ProductRow[] = [
-  {
-    slugs: [
-      "brisk-bar-lush-ice-5000-puffs",
-      "brisk-bar-banana-crispy-ice-5000-puffs",
-      "brisk-bar-bloody-cold-5000-puffs",
-      "brisk-bar-blueberry-ice-5000-puffs",
-    ],
-  },
-  {
-    slugs: [
-      "brisk-bar-cola-ice-5000-puffs",
-      "brisk-bar-double-apple-5000-puffs",
-      "brisk-bar-exotic-fruit-5000-puffs",
-      "brisk-bar-grape-ice-5000-puffs",
-    ],
-  },
-];
-
 export const viceNexaContent = {
   title: "Vice x NEXA 80K Canada - Buy Vice 80000 Puff Disposable Vapes Online",
   paragraphs: [
@@ -263,34 +235,6 @@ export const elfBarProductRows: ProductRow[] = [
   },
 ];
 
-export const smokelessContent = {
-  title: "Smokeless Tobacco - Smokeless Tobacco For Sale Canada",
-  paragraphs: [
-    "Smokeless tobacco offers an alternative to traditional smoking, providing nicotine without inhaling smoke. Products like chewing tobacco, snuff, or pouches deliver nicotine directly through the mouth, giving users a satisfying experience while reducing exposure to harmful smoke.",
-    "At Vape Shop Canada, while we specialize in vapes, disposable vapes, and e-liquids, many users looking to transition from smokeless tobacco find vaping a cleaner, more convenient, and flavorful way to enjoy nicotine. Our high-quality devices and premium nicotine vape liquids offer an easy, smoke-free alternative, giving you the flexibility to enjoy nicotine anytime, anywhere. Explore our range to find the perfect vape online Canada for a smooth and satisfying experience.",
-  ],
-};
-
-/** Product rows shown under the smokeless tobacco text section. */
-export const smokelessProductRows: ProductRow[] = [
-  {
-    slugs: [
-      "americas-best-golden-blend",
-      "americas-best-original-blend",
-      "apple-thick-cut-2oz",
-      "browns-mule-plug",
-    ],
-  },
-  {
-    slugs: [
-      "buy-camel-snus-large-frost",
-      "copenhagen-original-fine-cut-snuff",
-      "copenhagen-snuff",
-      "creek-natural-1-2oz-fine-cut",
-    ],
-  },
-];
-
 export type FeatureIconName = "truck" | "cart" | "arrow";
 
 export const features: { icon: FeatureIconName; title: string; text: string }[] = [
@@ -308,34 +252,6 @@ export const features: { icon: FeatureIconName; title: string; text: string }[] 
     icon: "arrow",
     title: "Easy Payment",
     text: "We accept flexible payment options such as E-transfer and Bitcoin.",
-  },
-];
-
-export const alfakherContent = {
-  title: "ALFAKHER Vapes Canada - Buy ALFAKHER Vapes Online Canada",
-  paragraphs: [
-    "Looking for the finest Al Fakher shisha and vape products in Canada? Vape Shop Canada proudly offers a wide selection of Al Fakher e-liquids, premium vape juices, and authentic nicotine vapes to elevate your vaping experience. Known worldwide for quality and consistency, Al Fakher delivers rich flavors and smooth vapor, perfect for both beginners and seasoned vapers. Explore classic, fruity, and exotic blends that make every puff satisfying and enjoyable.",
-    "All our Al Fakher vape products are sourced from trusted suppliers, ensuring safety and authenticity. Whether you’re buying disposable vapes, vape kits, or e-liquids online Canada, Vape Shop Canada is your go-to destination for top-quality Al Fakher vapes, fast delivery, and a hassle-free online shopping experience.",
-  ],
-};
-
-/** Product rows shown under the Alfakher text section. */
-export const alfakherProductRows: ProductRow[] = [
-  {
-    slugs: [
-      "alfakher-crown-bar-8000-puffs-10-pack",
-      "alfakher-crown-bar-8000-puffs-20-pack",
-      "alfakher-crown-bar-8000-puffs-3-pack",
-      "alfakher-crown-bar-8000-puffs-5-pack",
-    ],
-  },
-  {
-    slugs: [
-      "alfakher-crown-bar-berry-ice-8000-puffs",
-      "alfakher-crown-bar-berry-mint-8000-puffs",
-      "alfakher-crown-bar-blackcurrant-ice-8000-puffs",
-      "alfakher-crown-bar-blue-razz-lemonade-8000-puffs",
-    ],
   },
 ];
 
@@ -404,37 +320,6 @@ export const faqContent = {
     },
   ],
 };
-
-export const gunnpodsContent = {
-  title: "GUNNpods Canada - Buy GUNNpods Canada online Canada",
-  paragraphs: [
-    [
-      "GunnPod Plus vapes for sale at Vape Shop Canada are designed for convenience, power, and smooth flavor delivery. These sleek, portable devices are perfect for both beginners and experienced vapers, offering a satisfying puff without the need for refills or complicated settings.",
-      "With a variety of exciting flavors, from fruity to icy and dessert-inspired blends, GunnPod Plus ensures a premium vaping experience every time.",
-    ],
-    "Shop GunnPod Plus online Canada and enjoy authentic products, fast delivery, and a hassle-free online shopping experience. Upgrade your vape sessions with GunnPod Plus disposable vapes and discover why Vape Shop Canada is the top destination for high-quality, reliable vape devices and e-liquids.",
-  ],
-};
-
-/** Product rows shown under the GUNNpods text section. */
-export const gunnpodsProductRows: ProductRow[] = [
-  {
-    slugs: [
-      "gunnpod-plus-4500-puffs-10-pack",
-      "gunnpod-plus-4500-puffs-20-pack",
-      "gunnpod-plus-4500-puffs-3-pack",
-      "gunnpod-plus-4500-puffs-5-pack",
-    ],
-  },
-  {
-    slugs: [
-      "gunnpod-plus-4500-puffs-50-pack",
-      "gunnpod-plus-cherry-pomegranate-ice-4500-puffs",
-      "gunnpod-plus-classic-tobacco-4500-puffs",
-      "gunnpod-plus-cola-ice-4500-puffs",
-    ],
-  },
-];
 
 export const vaporassoContent = {
   title: "Vaporasso Online Canada - Buy Vaporasso Online Canada",
@@ -588,23 +473,7 @@ export type ExtraSection = {
   rows: ProductRow[];
 };
 
-export const extraSections: Record<"pouches" | "geekBar" | "eLiquids" | "glass", ExtraSection> = {
-  pouches: {
-    title: "Nicotine Pouches Canada - Velo Nicotine Pouches For Sale",
-    paragraphs: [
-      "Prefer something discreet? Velo nicotine pouches are tobacco-free, smoke-free and easy to use anywhere, with no vapor and no spitting. Buy nicotine pouches online in Canada in fresh mint, citrus, coffee and berry flavours, in 2mg and 4mg strengths, with fast Canada-wide delivery from Vape Shop Canada.",
-    ],
-    rows: [
-      {
-        slugs: [
-          "velo-pouch-citrus-burst-2mg",
-          "velo-pouch-spearmint-2mg",
-          "velo-pouch-wintergreen-2mg",
-          "velo-pouch-dragon-fruit-2mg",
-        ],
-      },
-    ],
-  },
+export const extraSections: Record<"geekBar" | "eLiquids" | "glass", ExtraSection> = {
   geekBar: {
     title: "Geek Bar - Geek Bar Disposable Vapes Canada",
     paragraphs: [
@@ -613,10 +482,10 @@ export const extraSections: Record<"pouches" | "geekBar" | "eLiquids" | "glass",
     rows: [
       {
         slugs: [
-          "atl-mint-geek-bar-pulse-x-25000",
-          "banana-taffy-freeze-geek-bar-pulse-x-25000",
-          "blueberry-jam-geek-bar-pulse-x-25000",
           "3x-fantasi-70-30-shortfill-bundle-9",
+          "4x-berry-fantasi-70-30-shortfill-bundle-9",
+          "50ml-fantasi-berries-ice-bundle-70-30-e-liquid-bundle-4",
+          "5x-50ml-fantasi-remix-bundle-70-30-e-liquid-bundle-4",
         ],
       },
     ],
@@ -630,7 +499,7 @@ export const extraSections: Record<"pouches" | "geekBar" | "eLiquids" | "glass",
       {
         slugs: [
           "apple-drop-freebase-e-liquid-double-apple-60ml",
-          "berry-drop-ice-salt-nic-e-liquid-dragonfruit-30ml",
+          "apple-drop-salt-e-liquid-berries-30ml",
           "big-5-juice-co-buffalo-100ml",
           "banana-ice-2",
         ],

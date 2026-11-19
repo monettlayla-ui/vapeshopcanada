@@ -5,6 +5,7 @@ import { CartProvider } from "@/components/cart/CartProvider";
 import { Footer } from "@/components/layout/Footer";
 import { ScrollToTop } from "@/components/ui/ScrollToTop";
 import { FooterGate } from "@/components/layout/FooterGate";
+import { AgeGate } from "@/components/layout/AgeGate";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { absoluteUrl, seoConfig } from "@/lib/seo";
 import "./globals.css";
@@ -112,6 +113,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           </FooterGate>
           <CartDrawer />
           <ScrollToTop />
+          <AgeGate />
         </CartProvider>
       </body>
     </html>

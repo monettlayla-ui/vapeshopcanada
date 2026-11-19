@@ -1,17 +1,13 @@
 /** Known brands, matched against a product title. Order matters: first match wins. */
 const BRANDS: { name: string; match: RegExp }[] = [
   { name: "Geek Bar", match: /geek\s*bar/i },
-  { name: "Velo", match: /\bvelo\b/i },
-  { name: "Timber Wolf", match: /timber\s*wolf/i },
   { name: "Airmez", match: /airmez/i },
   { name: "Bimo", match: /\bbimo\b/i },
   { name: "Alfakher", match: /alfakher/i },
   { name: "HQD", match: /\bhqd\b/i },
   { name: "Waka", match: /\bwaka\b/i },
-  { name: "Gunnpod", match: /gunnpod/i },
   { name: "Mr Fog", match: /mr\.?\s*fog/i },
   { name: "Vaporesso", match: /vapor[ae]sso/i },
-  { name: "Brisk Bar", match: /brisk\s*bar/i },
   { name: "Allo", match: /\ballo\b/i },
   { name: "Freemax", match: /freemax/i },
   { name: "Uwell", match: /uwell/i },

@@ -26,7 +26,7 @@ export const seoConfig = {
     "vape kits Canada",
     "e-liquids Canada",
     "nicotine pouches Canada",
-    "Brisk Bar Canada",
+    "Elf Bar Canada",
     "Geek Bar Canada",
     "HQD Canada",
     "vape delivery Canada",

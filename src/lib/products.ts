@@ -3,6 +3,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import type { CartItem } from "./cart";
 import { localizeJson } from "./localize";
+import removedProducts from "./removed-products.json";
 
 const DATA_DIR = path.join(/*turbopackIgnore: true*/ process.cwd(), "public", "vapesshopaustralia");
 
@@ -57,7 +58,9 @@ const SHARED_FILES = new Set(["products_index.json", "shop_orders.json", "catego
 const memo = new Map<string, unknown>();
 
 /** Brands removed from the store: their products and categories are hidden everywhere. */
-const HIDDEN_BRANDS = ["alibarbar", "iget"];
+/** Products that cannot be sold in Canada (tobacco, nicotine pouches, THC/CBD, nicotine over 20 mg/mL). */
+const REMOVED_IDS = new Set<string>(removedProducts);
+const HIDDEN_BRANDS = ["alibarbar", "iget", "gunnpod", "brisk bar", "brisk-bar"];
 const isHidden = (...texts: string[]) => texts.some((t) => HIDDEN_BRANDS.some((b) => t.toLowerCase().includes(b)));
 
 async function readJson<T>(relPath: string): Promise<T> {
@@ -75,7 +78,7 @@ async function loadIndex(): Promise<ProductIndexEntry[]> {
   if (indexMemo) return indexMemo;
   const index = await readJson<ProductIndexEntry[]>("products_index.json");
   indexMemo = index
-    .filter((e) => !isHidden(e.id, e.title))
+    .filter((e) => !REMOVED_IDS.has(e.id) && !isHidden(e.id, e.title))
     .map((e) => ({
     ...e,
     categories: e.categories.length ? e.categories : [DEFAULT_CATEGORY.slug],
@@ -149,7 +152,7 @@ export async function getCategoryList(): Promise<CategoryInfo[]> {
   const counts = new Map<string, number>();
   for (const p of index) for (const slug of p.categories) counts.set(slug, (counts.get(slug) ?? 0) + 1);
   return cats
-    .filter((c) => !isHidden(c.id, c.name))
+    .filter((c) => !isHidden(c.id, c.name) && (counts.get(c.id) ?? 0) > 0)
     .map((c) => ({ slug: c.id, name: c.name, count: counts.get(c.id) ?? 0 }))
     .sort((a, b) => {
       // "New Products" is pinned to the top on the live shop; the rest are A–Z.

@@ -6,7 +6,7 @@ import { Faq } from "@/components/sections/Faq";
 import { Features } from "@/components/sections/Features";
 import { CategoryBanners } from "@/components/sections/CategoryBanners";
 import { FeaturedProducts } from "@/components/sections/FeaturedProducts";
-import { elfBarContent, elfBarProductRows, krazeContent, krazeProductRows, viceNexaContent, viceNexaProductRows, extraSections, alfakherContent, airmezBimoContent, airmezBimoProductRows, alfakherProductRows, eLiquidsContent, gunnpodsContent, gunnpodsProductRows, homeProductRows, hqdContent, hqdProductRows, briskBarContent, briskBarProductRows, introContent, mrFogContent, mrFogProductRows, smokelessContent, smokelessProductRows, vaporassoContent, vaporassoProductRows } from "@/config/site";
+import { elfBarContent, elfBarProductRows, krazeContent, krazeProductRows, viceNexaContent, viceNexaProductRows, extraSections, airmezBimoContent, airmezBimoProductRows, eLiquidsContent, homeProductRows, hqdContent, hqdProductRows, introContent, mrFogContent, mrFogProductRows, vaporassoContent, vaporassoProductRows } from "@/config/site";
 import { FloatingCartButton } from "@/components/ui/FloatingCartButton";
 
 export default function Home() {
@@ -22,23 +22,7 @@ export default function Home() {
         <CategoryBanners />
         <TextSection {...eLiquidsContent} compact />
         <ParallaxBanner />
-        <TextSection {...briskBarContent} tight />
-        {briskBarProductRows.map((row) => (
-          <FeaturedProducts key={row.slugs[0]} {...row} />
-        ))}
-        <TextSection {...smokelessContent} tight />
-        {smokelessProductRows.map((row) => (
-          <FeaturedProducts key={row.slugs[0]} {...row} />
-        ))}
-        <TextSection title={extraSections.pouches.title} paragraphs={extraSections.pouches.paragraphs} tight />
-        {extraSections.pouches.rows.map((row) => (
-          <FeaturedProducts key={row.slugs[0]} {...row} />
-        ))}
         <Features />
-        <TextSection {...alfakherContent} />
-        {alfakherProductRows.map((row) => (
-          <FeaturedProducts key={row.slugs[0]} {...row} />
-        ))}
         <TextSection {...hqdContent} />
         {hqdProductRows.map((row) => (
           <FeaturedProducts key={row.slugs[0]} {...row} />
@@ -60,10 +44,6 @@ export default function Home() {
           <FeaturedProducts key={row.slugs[0]} {...row} />
         ))}
         <Faq />
-        <TextSection {...gunnpodsContent} />
-        {gunnpodsProductRows.map((row) => (
-          <FeaturedProducts key={row.slugs[0]} {...row} />
-        ))}
         <TextSection {...vaporassoContent} />
         {vaporassoProductRows.map((row) => (
           <FeaturedProducts key={row.slugs[0]} {...row} />
