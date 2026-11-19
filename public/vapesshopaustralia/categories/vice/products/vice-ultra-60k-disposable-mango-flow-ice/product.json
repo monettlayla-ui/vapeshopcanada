@@ -1,0 +1,46 @@
+{
+  "id": "vice-ultra-60k-disposable-mango-flow-ice",
+  "title": "Vice Ultra 60K - Mango Flow Ice",
+  "description": "The\nVice Ultra 60K - Mango Flow Ice\ndelivers a juicy ripe mango with a cool blast of ice. A rechargeable disposable vape with up to 60,000 puffs.\nProduct Type:\nDisposable Vape (Rechargeable)\nPuff Count:\nUp to 60,000\nE-Liquid Capacity:\n25mL\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nMango, Ice\nCoil Resistance:\nMesh Coil\nBattery:\n900mAh (USB-C Rechargeable)\nDisplay:\nLED Screen (Battery + E-Liquid Level)\nAirflow:\nAdjustable\nPower Modes:\nSoft / Normal / Boost\nBrand:\nVice\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Vice Ultra 60K - Mango Flow Ice</strong> delivers a juicy ripe mango with a cool blast of ice. A rechargeable disposable vape with up to 60,000 puffs.</p> <ul> <li> <strong>Product Type:</strong> Disposable Vape (Rechargeable)</li> <li> <strong>Puff Count:</strong> Up to 60,000</li> <li> <strong>E-Liquid Capacity:</strong> 25mL</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Mango, Ice</li> <li> <strong>Coil Resistance:</strong> Mesh Coil</li> <li> <strong>Battery:</strong> 900mAh (USB-C Rechargeable)</li> <li> <strong>Display:</strong> LED Screen (Battery + E-Liquid Level)</li> <li> <strong>Airflow:</strong> Adjustable</li> <li> <strong>Power Modes:</strong> Soft / Normal / Boost</li> <li> <strong>Brand:</strong> Vice</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 43.99,
+  "sale_price": 34.99,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vice-ultra-60k-disposable-mango-flow-ice/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vice/products/vice-ultra-60k-disposable-mango-flow-ice/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vice",
+      "slug": "vice",
+      "url": "https://vapesshopcanada.com/product-category/vice/"
+    },
+    {
+      "name": "Disposable Vapes",
+      "slug": "disposable-vapes",
+      "url": "https://vapesshopcanada.com/product-category/disposable-vapes/"
+    }
+  ],
+  "stored_in": "categories/vice/products/vice-ultra-60k-disposable-mango-flow-ice"
+}

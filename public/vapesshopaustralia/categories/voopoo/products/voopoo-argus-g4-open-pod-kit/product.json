@@ -1,0 +1,46 @@
+{
+  "id": "voopoo-argus-g4-open-pod-kit",
+  "title": "VOOPOO Argus G4 Open Pod Kit",
+  "description": "The\nVOOPOO Argus G4 Open Pod Kit\n. A refillable pod device with 3.5mL of e-liquid and a 1650mAh USB-C rechargeable battery.\nProduct Type:\nVape Device\nE-Liquid Capacity:\n3.5mL\nCoil Resistance:\n0.4Ω / 0.7Ω / 1.0Ω / 3.0Ω\nBattery:\n1650mAh\nDisplay:\nYes\nAirflow:\nAdjustable\nCompatible Pods:\nVOOPOO Argus Multi-Ohm, VOOPOO Argus Top Fill V2, VOOPOO Argus Snap\nBrand:\nVOOPOO\nAvailable options: Black, Gray.",
+  "description_html": "<p>The <strong>VOOPOO Argus G4 Open Pod Kit</strong>. A refillable pod device with 3.5mL of e-liquid and a 1650mAh USB-C rechargeable battery.</p> <ul> <li> <strong>Product Type:</strong> Vape Device</li> <li> <strong>E-Liquid Capacity:</strong> 3.5mL</li> <li> <strong>Coil Resistance:</strong> 0.4Ω / 0.7Ω / 1.0Ω / 3.0Ω</li> <li> <strong>Battery:</strong> 1650mAh</li> <li> <strong>Display:</strong> Yes</li> <li> <strong>Airflow:</strong> Adjustable</li> <li> <strong>Compatible Pods:</strong> VOOPOO Argus Multi-Ohm, VOOPOO Argus Top Fill V2, VOOPOO Argus Snap</li> <li> <strong>Brand:</strong> VOOPOO</li> </ul><p>Available options: Black, Gray.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 44.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/voopoo-argus-g4-open-pod-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/voopoo/products/voopoo-argus-g4-open-pod-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Voopoo",
+      "slug": "voopoo",
+      "url": "https://vapesshopcanada.com/product-category/voopoo/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/voopoo/products/voopoo-argus-g4-open-pod-kit"
+}

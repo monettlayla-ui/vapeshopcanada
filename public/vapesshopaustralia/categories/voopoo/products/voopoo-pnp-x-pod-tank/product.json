@@ -1,0 +1,46 @@
+{
+  "id": "voopoo-pnp-x-pod-tank",
+  "title": "VOOPOO PnP X Pod Tank",
+  "description": "The\nVOOPOO PnP X Pod Tank\nis a refillable replacement pod for the PnP X platform. Features side fill, top airflow, and a magnetic connection for easy installation.\nProduct Type:\nRefillable Replacement Pod (Empty - Fill with E-Liquid)\nE-Liquid Capacity:\n5mL\nPack Contents:\n1 Pod Tank\nCoil Resistance:\nReplaceable - uses PnP X coils (sold separately)\nFill Method:\nSide Fill\nAirflow:\nTop Airflow\nCompatible Devices:\nVOOPOO DRAG X3, DRAG S3, DRAG S2, DRAG X2\nCompatible Coils:\nAll PnP X coils (0.15Ω to 1.0Ω) and PnP-TW coils\nBrand:\nVOOPOO\n⚠ Not compatible with original PnP pods (DRAG S, DRAG X, DRAG H80S, Argus Pro) or Argus Pod cartridges. PnP X is a separate platform.\nCoils and e-liquid sold separately.",
+  "description_html": "<p>The <strong>VOOPOO PnP X Pod Tank</strong> is a refillable replacement pod for the PnP X platform. Features side fill, top airflow, and a magnetic connection for easy installation.</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod (Empty - Fill with E-Liquid)</li> <li> <strong>E-Liquid Capacity:</strong> 5mL</li> <li> <strong>Pack Contents:</strong> 1 Pod Tank</li> <li> <strong>Coil Resistance:</strong> Replaceable - uses PnP X coils (sold separately)</li> <li> <strong>Fill Method:</strong> Side Fill</li> <li> <strong>Airflow:</strong> Top Airflow</li> <li> <strong>Compatible Devices:</strong> VOOPOO DRAG X3, DRAG S3, DRAG S2, DRAG X2</li> <li> <strong>Compatible Coils:</strong> All PnP X coils (0.15Ω to 1.0Ω) and PnP-TW coils</li> <li> <strong>Brand:</strong> VOOPOO</li> </ul> <p><strong>⚠ Not compatible with original PnP pods (DRAG S, DRAG X, DRAG H80S, Argus Pro) or Argus Pod cartridges. PnP X is a separate platform.</strong></p> <p><em>Coils and e-liquid sold separately.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 17.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/voopoo-pnp-x-pod-tank/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/voopoo/products/voopoo-pnp-x-pod-tank/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Voopoo",
+      "slug": "voopoo",
+      "url": "https://vapesshopcanada.com/product-category/voopoo/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/voopoo/products/voopoo-pnp-x-pod-tank"
+}

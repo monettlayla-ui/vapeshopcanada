@@ -1,0 +1,46 @@
+{
+  "id": "voopoo-argus-g-open-pod-kit-2ml-crc-version",
+  "title": "VOOPOO Argus G Pod Kit",
+  "description": "The\nVOOPOO Argus G Pod Kit\nis a compact open pod system with adjustable wattage, OLED screen, and both draw-activated and button firing. The 1000mAh battery provides 3-4 days of vaping on a single charge.\nProduct Type:\nOpen Pod System (Refillable)\nBattery:\n1000mAh\nWattage Range:\n5-25W (Adjustable)\nCharging:\nUSB Type-C (5V/1A)\nE-Liquid Capacity:\n2mL\nCoil Type:\nIntegrated (Argus Pod Cartridge)\nCoil Resistance:\n0.7Ω and 1.2Ω (both included)\nActivation:\nDraw-Activated + Button Fire\nDisplay:\nOLED Screen\nAirflow:\nAdjustable (Side Slider)\nMaterial:\nAluminum Alloy\nPod Compatibility:\nAll VOOPOO Argus Pod Family cartridges (Argus Pod 0.7Ω/1.2Ω, Argus Top Fill, Argus Top Fill V2)\nBrand:\nVOOPOO\n⚠ Not compatible with PnP X pods or coils (DRAG X3, S3, S2). This device uses Argus Pod cartridges only.\nE-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.",
+  "description_html": "<p>The <strong>VOOPOO Argus G Pod Kit</strong> is a compact open pod system with adjustable wattage, OLED screen, and both draw-activated and button firing. The 1000mAh battery provides 3-4 days of vaping on a single charge.</p> <ul> <li> <strong>Product Type:</strong> Open Pod System (Refillable)</li> <li> <strong>Battery:</strong> 1000mAh</li> <li> <strong>Wattage Range:</strong> 5-25W (Adjustable)</li> <li> <strong>Charging:</strong> USB Type-C (5V/1A)</li> <li> <strong>E-Liquid Capacity:</strong> 2mL</li> <li> <strong>Coil Type:</strong> Integrated (Argus Pod Cartridge)</li> <li> <strong>Coil Resistance:</strong> 0.7Ω and 1.2Ω (both included)</li> <li> <strong>Activation:</strong> Draw-Activated + Button Fire</li> <li> <strong>Display:</strong> OLED Screen</li> <li> <strong>Airflow:</strong> Adjustable (Side Slider)</li> <li> <strong>Material:</strong> Aluminum Alloy</li> <li> <strong>Pod Compatibility:</strong> All VOOPOO Argus Pod Family cartridges (Argus Pod 0.7Ω/1.2Ω, Argus Top Fill, Argus Top Fill V2)</li> <li> <strong>Brand:</strong> VOOPOO</li> </ul> <p><strong>⚠ Not compatible with PnP X pods or coils (DRAG X3, S3, S2). This device uses Argus Pod cartridges only.</strong></p> <p><em>E-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 44.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/voopoo-argus-g-open-pod-kit-2ml-crc-version/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/voopoo/products/voopoo-argus-g-open-pod-kit-2ml-crc-version/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Voopoo",
+      "slug": "voopoo",
+      "url": "https://vapesshopcanada.com/product-category/voopoo/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/voopoo/products/voopoo-argus-g-open-pod-kit-2ml-crc-version"
+}

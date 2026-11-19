@@ -1,0 +1,46 @@
+{
+  "id": "vice-box-mint-ice-5-pack",
+  "title": "Vice Box 6K - Mint Ice",
+  "description": "The\nVice Box 6K - Mint Ice\ndelivers a crisp and invigorating burst of cool, refreshing mint. A rechargeable disposable vape with up to 6,000 puffs.\nProduct Type:\nDisposable Vape (Rechargeable)\nPuff Count:\nUp to 6,000\nE-Liquid Capacity:\n13mL\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nMenthol, Ice\nCoil Resistance:\nMesh Coil\nBattery:\n630mAh (USB-C Rechargeable)\nAirflow:\nAdjustable\nBrand:\nVice\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Vice Box 6K - Mint Ice</strong> delivers a crisp and invigorating burst of cool, refreshing mint. A rechargeable disposable vape with up to 6,000 puffs.</p> <ul> <li> <strong>Product Type:</strong> Disposable Vape (Rechargeable)</li> <li> <strong>Puff Count:</strong> Up to 6,000</li> <li> <strong>E-Liquid Capacity:</strong> 13mL</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Menthol, Ice</li> <li> <strong>Coil Resistance:</strong> Mesh Coil</li> <li> <strong>Battery:</strong> 630mAh (USB-C Rechargeable)</li> <li> <strong>Airflow:</strong> Adjustable</li> <li> <strong>Brand:</strong> Vice</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 32.99,
+  "sale_price": 29.99,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vice-box-mint-ice-5-pack/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vice/products/vice-box-mint-ice-5-pack/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vice",
+      "slug": "vice",
+      "url": "https://vapesshopcanada.com/product-category/vice/"
+    },
+    {
+      "name": "Disposable Vapes",
+      "slug": "disposable-vapes",
+      "url": "https://vapesshopcanada.com/product-category/disposable-vapes/"
+    }
+  ],
+  "stored_in": "categories/vice/products/vice-box-mint-ice-5-pack"
+}

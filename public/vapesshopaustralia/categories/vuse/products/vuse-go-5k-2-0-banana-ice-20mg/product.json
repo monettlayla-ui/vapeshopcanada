@@ -1,0 +1,46 @@
+{
+  "id": "vuse-go-5k-2-0-banana-ice-20mg",
+  "title": "Vuse GO 5K - Banana Ice",
+  "description": "The\nVuse GO 5K - Banana Ice\ndelivers a sweet banana with a cool icy finish. A compact rechargeable disposable vape with up to 5,000 puffs.\nProduct Type:\nDisposable Vape (Rechargeable)\nPuff Count:\nUp to 5,000\nE-Liquid Capacity:\n10mL\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nBanana, Ice\nCoil Resistance:\nMesh Coil\nBattery:\n500mAh (USB-C Rechargeable)\nBrand:\nVuse\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Vuse GO 5K - Banana Ice</strong> delivers a sweet banana with a cool icy finish. A compact rechargeable disposable vape with up to 5,000 puffs.</p> <ul> <li> <strong>Product Type:</strong> Disposable Vape (Rechargeable)</li> <li> <strong>Puff Count:</strong> Up to 5,000</li> <li> <strong>E-Liquid Capacity:</strong> 10mL</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Banana, Ice</li> <li> <strong>Coil Resistance:</strong> Mesh Coil</li> <li> <strong>Battery:</strong> 500mAh (USB-C Rechargeable)</li> <li> <strong>Brand:</strong> Vuse</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 29.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vuse-go-5k-2-0-banana-ice-20mg/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vuse/products/vuse-go-5k-2-0-banana-ice-20mg/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "VUSE",
+      "slug": "vuse",
+      "url": "https://vapesshopcanada.com/product-category/vuse/"
+    },
+    {
+      "name": "Disposable Vapes",
+      "slug": "disposable-vapes",
+      "url": "https://vapesshopcanada.com/product-category/disposable-vapes/"
+    }
+  ],
+  "stored_in": "categories/vuse/products/vuse-go-5k-2-0-banana-ice-20mg"
+}

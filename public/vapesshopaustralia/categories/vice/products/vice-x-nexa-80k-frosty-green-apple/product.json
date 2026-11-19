@@ -1,0 +1,46 @@
+{
+  "id": "vice-x-nexa-80k-frosty-green-apple",
+  "title": "Vice x NEXA 80K - Frosty Green Apple",
+  "description": "The\nVice x NEXA 80K - Frosty Green Apple\n-  Vibrant green apple layered with sweet-tangy notes and a cool finish. A rechargeable disposable vape with up to 80,000 puffs from a 20mL prefilled cartridge, with a 3D curved screen, adjustable airflow and dual vaping modes.\nProduct Type:\nDisposable Vape\nPuff Count:\nUp to 80,000\nE-Liquid Capacity:\n20mL\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nGreen Apple, Ice\nDisplay:\n3D curved screen\nAirflow:\nAdjustable\nPower Modes:\nDual vaping modes\nBrand:\nVice\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Vice x NEXA 80K - Frosty Green Apple</strong>  -  Vibrant green apple layered with sweet-tangy notes and a cool finish. A rechargeable disposable vape with up to 80,000 puffs from a 20mL prefilled cartridge, with a 3D curved screen, adjustable airflow and dual vaping modes.</p> <ul> <li> <strong>Product Type:</strong> Disposable Vape</li> <li> <strong>Puff Count:</strong> Up to 80,000</li> <li> <strong>E-Liquid Capacity:</strong> 20mL</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Green Apple, Ice</li> <li> <strong>Display:</strong> 3D curved screen</li> <li> <strong>Airflow:</strong> Adjustable</li> <li> <strong>Power Modes:</strong> Dual vaping modes</li> <li> <strong>Brand:</strong> Vice</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 43.99,
+  "sale_price": 41.99,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vice-x-nexa-80k-frosty-green-apple/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vice/products/vice-x-nexa-80k-frosty-green-apple/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vice",
+      "slug": "vice",
+      "url": "https://vapesshopcanada.com/product-category/vice/"
+    },
+    {
+      "name": "Disposable Vapes",
+      "slug": "disposable-vapes",
+      "url": "https://vapesshopcanada.com/product-category/disposable-vapes/"
+    }
+  ],
+  "stored_in": "categories/vice/products/vice-x-nexa-80k-frosty-green-apple"
+}
