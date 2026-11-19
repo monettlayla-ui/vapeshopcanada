@@ -1,0 +1,46 @@
+{
+  "id": "uwell-caliburn-gpp-alpha-replacement-pod",
+  "title": "Uwell Caliburn GPP Alpha Replacement Pod",
+  "description": "The\nUwell Caliburn GPP Alpha Replacement Pod\n. A replacement pod with 3mL of e-liquid.\nProduct Type:\nReplacement Pod\nE-Liquid Capacity:\n3mL\nCoil Resistance:\n0.6Ω\nCompatible Devices:\nUwell Caliburn G5, Uwell Caliburn G4, Uwell Caliburn G3\nBrand:\nUwell",
+  "description_html": "<p>The <strong>Uwell Caliburn GPP Alpha Replacement Pod</strong>. A replacement pod with 3mL of e-liquid.</p> <ul> <li> <strong>Product Type:</strong> Replacement Pod</li> <li> <strong>E-Liquid Capacity:</strong> 3mL</li> <li> <strong>Coil Resistance:</strong> 0.6Ω</li> <li> <strong>Compatible Devices:</strong> Uwell Caliburn G5, Uwell Caliburn G4, Uwell Caliburn G3</li> <li> <strong>Brand:</strong> Uwell</li> </ul>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 4.5,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/uwell-caliburn-gpp-alpha-replacement-pod/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/uwell/products/uwell-caliburn-gpp-alpha-replacement-pod/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Uwell",
+      "slug": "uwell",
+      "url": "https://vapesshopcanada.com/product-category/uwell/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/uwell/products/uwell-caliburn-gpp-alpha-replacement-pod"
+}

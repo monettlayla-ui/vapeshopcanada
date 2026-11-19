@@ -1,0 +1,46 @@
+{
+  "id": "vaporesso-xros-2-pod-kit-crc-version",
+  "title": "Vaporesso XROS 2 Pod Kit",
+  "description": "The\nVaporesso XROS 2 Pod Kit\nis a slim refillable pod system with adjustable airflow and dual activation for a versatile MTL vaping experience.\nProduct Type:\nOpen Pod System (Refillable)\nBattery:\n800mAh\nCharging:\nUSB Type-C\nE-Liquid Capacity:\n2mL\nCoil Type:\nIntegrated Mesh\nCoil Resistance:\n0.8Ω (included)\nActivation:\nDual (Button + Draw-Activated)\nAirflow:\nAdjustable\nDisplay:\n4-Stage LED Battery Indicator\nFill Method:\nTop Fill\nPod Compatibility:\nAll Vaporesso XROS Pods (0.6Ω, 0.8Ω, 1.0Ω, 1.2Ω)\nBrand:\nVaporesso\nE-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.\nAvailable options: Forest Green, Gold, Grape Purple, Midnight Blue, Orange Red, Sakura Pink, Sierra Blue, Silver, Space Grey.",
+  "description_html": "<p>The <strong>Vaporesso XROS 2 Pod Kit</strong> is a slim refillable pod system with adjustable airflow and dual activation for a versatile MTL vaping experience.</p> <ul> <li> <strong>Product Type:</strong> Open Pod System (Refillable)</li> <li> <strong>Battery:</strong> 800mAh</li> <li> <strong>Charging:</strong> USB Type-C</li> <li> <strong>E-Liquid Capacity:</strong> 2mL</li> <li> <strong>Coil Type:</strong> Integrated Mesh</li> <li> <strong>Coil Resistance:</strong> 0.8Ω (included)</li> <li> <strong>Activation:</strong> Dual (Button + Draw-Activated)</li> <li> <strong>Airflow:</strong> Adjustable</li> <li> <strong>Display:</strong> 4-Stage LED Battery Indicator</li> <li> <strong>Fill Method:</strong> Top Fill</li> <li> <strong>Pod Compatibility:</strong> All Vaporesso XROS Pods (0.6Ω, 0.8Ω, 1.0Ω, 1.2Ω)</li> <li> <strong>Brand:</strong> Vaporesso</li> </ul> <p><em>E-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.</em></p><p>Available options: Forest Green, Gold, Grape Purple, Midnight Blue, Orange Red, Sakura Pink, Sierra Blue, Silver, Space Grey.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 37.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vaporesso-xros-2-pod-kit-crc-version/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vaporesso/products/vaporesso-xros-2-pod-kit-crc-version/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vaporesso",
+      "slug": "vaporesso",
+      "url": "https://vapesshopcanada.com/product-category/vaporesso/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/vaporesso/products/vaporesso-xros-2-pod-kit-crc-version"
+}

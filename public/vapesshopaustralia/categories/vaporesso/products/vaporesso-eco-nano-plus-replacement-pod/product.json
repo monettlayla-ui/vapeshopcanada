@@ -1,0 +1,46 @@
+{
+  "id": "vaporesso-eco-nano-plus-replacement-pod",
+  "title": "Vaporesso ECO Nano PLUS Replacement Pod",
+  "description": "The\nVaporesso ECO Nano PLUS Replacement Pod\nis a refillable replacement pod for compatible Vaporesso devices.\nProduct Type:\nRefillable Replacement Pod (Empty - Built-in Coil)\nE-Liquid Capacity:\n10mL\nCoil Resistance:\n0.8Ω Mesh (built-in)\nCoil Material:\nIntegrated LUSH Mesh\nCompatible Devices:\nVaporesso ECO Nano PLUS\nBrand:\nVaporesso\nCoil is built in  -  replace the pod when flavour fades. E-liquid sold separately.",
+  "description_html": "<p>The <strong>Vaporesso ECO Nano PLUS Replacement Pod</strong> is a refillable replacement pod for compatible Vaporesso devices.</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod (Empty - Built-in Coil)</li> <li> <strong>E-Liquid Capacity:</strong> 10mL</li> <li> <strong>Coil Resistance:</strong> 0.8Ω Mesh (built-in)</li> <li> <strong>Coil Material:</strong> Integrated LUSH Mesh</li> <li> <strong>Compatible Devices:</strong> Vaporesso ECO Nano PLUS</li> <li> <strong>Brand:</strong> Vaporesso</li> </ul> <p><em>Coil is built in  -  replace the pod when flavour fades. E-liquid sold separately.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 14.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vaporesso-eco-nano-plus-replacement-pod/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vaporesso/products/vaporesso-eco-nano-plus-replacement-pod/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vaporesso",
+      "slug": "vaporesso",
+      "url": "https://vapesshopcanada.com/product-category/vaporesso/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/vaporesso/products/vaporesso-eco-nano-plus-replacement-pod"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vaporesso-xros-nano-pod-kit-crc-version",
+  "title": "Vaporesso XROS Nano Pod Kit",
+  "description": "The\nVaporesso XROS Nano Pod Kit\nis a compact square-shaped refillable pod system with adjustable airflow and AXON chip with Pulse Mode.\nProduct Type:\nOpen Pod System (Refillable)\nBattery:\n1000mAh\nCharging:\nUSB Type-C\nE-Liquid Capacity:\n2mL\nCoil Type:\nIntegrated Mesh\nCoil Resistance:\n0.8Ω (included)\nActivation:\nDraw-Activated\nAirflow:\nAdjustable Slider\nDisplay:\nNone\nFill Method:\nTop Fill\nPod Compatibility:\nAll Vaporesso XROS Pods (0.6Ω, 0.8Ω, 1.0Ω, 1.2Ω)\nBrand:\nVaporesso\nE-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.",
+  "description_html": "<p>The <strong>Vaporesso XROS Nano Pod Kit</strong> is a compact square-shaped refillable pod system with adjustable airflow and AXON chip with Pulse Mode.</p> <ul> <li> <strong>Product Type:</strong> Open Pod System (Refillable)</li> <li> <strong>Battery:</strong> 1000mAh</li> <li> <strong>Charging:</strong> USB Type-C</li> <li> <strong>E-Liquid Capacity:</strong> 2mL</li> <li> <strong>Coil Type:</strong> Integrated Mesh</li> <li> <strong>Coil Resistance:</strong> 0.8Ω (included)</li> <li> <strong>Activation:</strong> Draw-Activated</li> <li> <strong>Airflow:</strong> Adjustable Slider</li> <li> <strong>Display:</strong> None</li> <li> <strong>Fill Method:</strong> Top Fill</li> <li> <strong>Pod Compatibility:</strong> All Vaporesso XROS Pods (0.6Ω, 0.8Ω, 1.0Ω, 1.2Ω)</li> <li> <strong>Brand:</strong> Vaporesso</li> </ul> <p><em>E-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 39.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vaporesso-xros-nano-pod-kit-crc-version/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vaporesso/products/vaporesso-xros-nano-pod-kit-crc-version/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vaporesso",
+      "slug": "vaporesso",
+      "url": "https://vapesshopcanada.com/product-category/vaporesso/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/vaporesso/products/vaporesso-xros-nano-pod-kit-crc-version"
+}

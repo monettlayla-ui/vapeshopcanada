@@ -1,0 +1,41 @@
+{
+  "id": "mystery-level-x-pods",
+  "title": "🎁 MYSTERY LEVEL X PODS",
+  "description": "🎁\nMYSTERY LEVEL X PODS\nCan’t decide? Let the mystery choose for you! Get a sealed, random pack of Level X pods - perfect for discovering new favorites or grabbing a great deal. Always authentic, always fresh.\n🎁\nPODS MYSTÈRE LEVEL X\nTu ne sais pas quoi choisir? Laisse le mystère décider! Reçois un paquet scellé de pods Level X au goût aléatoire. Parfait pour découvrir de nouvelles saveurs ou profiter d’un bon deal. Toujours authentique, toujours frais.",
+  "description_html": "<p>🎁 <strong>MYSTERY LEVEL X PODS</strong><br/>Can’t decide? Let the mystery choose for you! Get a sealed, random pack of Level X pods - perfect for discovering new favorites or grabbing a great deal. Always authentic, always fresh.</p> <p>🎁 <strong>PODS MYSTÈRE LEVEL X</strong><br/>Tu ne sais pas quoi choisir? Laisse le mystère décider! Reçois un paquet scellé de pods Level X au goût aléatoire. Parfait pour découvrir de nouvelles saveurs ou profiter d’un bon deal. Toujours authentique, toujours frais.</p> <!-- -->",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 19.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/mystery-level-x-pods/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vapes/products/mystery-level-x-pods/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vapes",
+      "slug": "vapes",
+      "url": "https://vapesshopcanada.com/product-category/vapes/"
+    }
+  ],
+  "stored_in": "categories/vapes/products/mystery-level-x-pods"
+}

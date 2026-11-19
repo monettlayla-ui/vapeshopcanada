@@ -1,0 +1,46 @@
+{
+  "id": "vaporesso-xros-se-pod-kit",
+  "title": "Vaporesso XROS SE Pod Kit",
+  "description": "The\nVaporesso XROS SE Pod Kit\n. A refillable pod device with 2mL of e-liquid and a 1000mAh USB-C rechargeable battery.\nProduct Type:\nVape Device\nE-Liquid Capacity:\n2mL\nCoil Resistance:\n0.4Ω / 0.6Ω\nBattery:\n1000mAh\nBrand:\nVaporesso\nAvailable options: Space Black, Space Grey.",
+  "description_html": "<p>The <strong>Vaporesso XROS SE Pod Kit</strong>. A refillable pod device with 2mL of e-liquid and a 1000mAh USB-C rechargeable battery.</p> <ul> <li> <strong>Product Type:</strong> Vape Device</li> <li> <strong>E-Liquid Capacity:</strong> 2mL</li> <li> <strong>Coil Resistance:</strong> 0.4Ω / 0.6Ω</li> <li> <strong>Battery:</strong> 1000mAh</li> <li> <strong>Brand:</strong> Vaporesso</li> </ul><p>Available options: Space Black, Space Grey.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 12.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vaporesso-xros-se-pod-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vaporesso/products/vaporesso-xros-se-pod-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vaporesso",
+      "slug": "vaporesso",
+      "url": "https://vapesshopcanada.com/product-category/vaporesso/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/vaporesso/products/vaporesso-xros-se-pod-kit"
+}

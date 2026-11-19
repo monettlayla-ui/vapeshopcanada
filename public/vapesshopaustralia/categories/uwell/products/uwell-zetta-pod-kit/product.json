@@ -1,0 +1,46 @@
+{
+  "id": "uwell-zetta-pod-kit",
+  "title": "Uwell ZETTA Pod Kit",
+  "description": "The\nUwell ZETTA Pod Kit\nis a compact refillable open pod system with replaceable coils and adjustable airflow for a customizable MTL vaping experience.\nProduct Type:\nOpen Pod System (Refillable)\nBattery:\n2000mAh\nWattage:\n17W / 25W (Dual Output Modes)\nDisplay:\nLED Status Screen (Battery + Output)\nCharging:\nUSB Type-C (5V/2A Fast Charge)\nE-Liquid Capacity:\n10mL\nCoil Resistance:\nReplaceable\nAirflow:\nAdjustable\nPod Compatibility:\nUwell ZETTA Replacement Pods\nBrand:\nUwell\nE-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.\nAvailable options: Pure Black, Mist Gray.",
+  "description_html": "<p>The <strong>Uwell ZETTA Pod Kit</strong> is a compact refillable open pod system with replaceable coils and adjustable airflow for a customizable MTL vaping experience.</p> <ul> <li> <strong>Product Type:</strong> Open Pod System (Refillable)</li> <li> <strong>Battery:</strong> 2000mAh</li> <li> <strong>Wattage:</strong> 17W / 25W (Dual Output Modes)</li> <li> <strong>Display:</strong> LED Status Screen (Battery + Output)</li> <li> <strong>Charging:</strong> USB Type-C (5V/2A Fast Charge)</li> <li> <strong>E-Liquid Capacity:</strong> 10mL</li> <li> <strong>Coil Resistance:</strong> Replaceable</li> <li> <strong>Airflow:</strong> Adjustable</li> <li> <strong>Pod Compatibility:</strong> Uwell ZETTA Replacement Pods</li> <li> <strong>Brand:</strong> Uwell</li> </ul> <p><em>E-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.</em></p><p>Available options: Pure Black, Mist Gray.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 29.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/uwell-zetta-pod-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/uwell/products/uwell-zetta-pod-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Uwell",
+      "slug": "uwell",
+      "url": "https://vapesshopcanada.com/product-category/uwell/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/uwell/products/uwell-zetta-pod-kit"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "uwell-typhos-pro-pod-kit",
+  "title": "Uwell Typhos Pro Pod Kit",
+  "description": "The\nUwell Typhos Pro Pod Kit\nis a high-performance pod system with a massive 3000mAh battery, 1.47\" HD colour display with dynamic UI themes, and up to 45W output. Features Storm and Waves modes, CoreShield anti-leak technology, and real dual mesh coils.\nProduct Type:\nOpen Pod System (Refillable)\nBattery:\n3000mAh\nWattage Range:\n18-45W\nCharging:\nUSB Type-C (Fast Charge)\nActivation:\nButton + Draw-Activated\nDisplay:\n1.47\" HD Colour Screen (Dynamic UI Themes)\nE-Liquid Capacity:\n6mL\nCoil Resistance:\nIntegrated (Real Dual Mesh)\nAirflow:\nStepless Adjustable (MTL to RDL)\nPower Modes:\nStorm Mode / Waves Mode\nPod Compatibility:\nUwell Typhos Pods (0.3Ω Dual Mesh, 0.6Ω, 0.8Ω)\nBrand:\nUwell\nE-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.\nAvailable options: Midnight Black, Satin Silver.",
+  "description_html": "<p>The <strong>Uwell Typhos Pro Pod Kit</strong> is a high-performance pod system with a massive 3000mAh battery, 1.47\" HD colour display with dynamic UI themes, and up to 45W output. Features Storm and Waves modes, CoreShield anti-leak technology, and real dual mesh coils.</p> <ul> <li> <strong>Product Type:</strong> Open Pod System (Refillable)</li> <li> <strong>Battery:</strong> 3000mAh</li> <li> <strong>Wattage Range:</strong> 18-45W</li> <li> <strong>Charging:</strong> USB Type-C (Fast Charge)</li> <li> <strong>Activation:</strong> Button + Draw-Activated</li> <li> <strong>Display:</strong> 1.47\" HD Colour Screen (Dynamic UI Themes)</li> <li> <strong>E-Liquid Capacity:</strong> 6mL</li> <li> <strong>Coil Resistance:</strong> Integrated (Real Dual Mesh)</li> <li> <strong>Airflow:</strong> Stepless Adjustable (MTL to RDL)</li> <li> <strong>Power Modes:</strong> Storm Mode / Waves Mode</li> <li> <strong>Pod Compatibility:</strong> Uwell Typhos Pods (0.3Ω Dual Mesh, 0.6Ω, 0.8Ω)</li> <li> <strong>Brand:</strong> Uwell</li> </ul> <p><em>E-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.</em></p><p>Available options: Midnight Black, Satin Silver.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 49.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/uwell-typhos-pro-pod-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/uwell/products/uwell-typhos-pro-pod-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Uwell",
+      "slug": "uwell",
+      "url": "https://vapesshopcanada.com/product-category/uwell/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/uwell/products/uwell-typhos-pro-pod-kit"
+}

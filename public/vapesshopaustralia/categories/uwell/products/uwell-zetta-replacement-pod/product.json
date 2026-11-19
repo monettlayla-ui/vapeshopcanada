@@ -1,0 +1,46 @@
+{
+  "id": "uwell-zetta-replacement-pod",
+  "title": "Uwell ZETTA Replacement Pod",
+  "description": "The\nUwell ZETTA Replacement Pod\nis a refillable replacement pod with replaceable coils for the Uwell ZETTA pod kit.\nProduct Type:\nRefillable Replacement Pod (Empty - Fill with E-Liquid)\nE-Liquid Capacity:\n10mL per Pod\nPack Contents:\n2 Pods\nCoil Resistance:\nReplaceable - uses Uwell ZETTA coils\nFill Method:\nTop Fill\nCompatible Devices:\nUwell ZETTA\nBrand:\nUwell\nE-liquid sold separately.\nAvailable options: 0.6 OHM, 0.8 OHM.",
+  "description_html": "<p>The <strong>Uwell ZETTA Replacement Pod</strong> is a refillable replacement pod with replaceable coils for the Uwell ZETTA pod kit.</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod (Empty - Fill with E-Liquid)</li> <li> <strong>E-Liquid Capacity:</strong> 10mL per Pod</li> <li> <strong>Pack Contents:</strong> 2 Pods</li> <li> <strong>Coil Resistance:</strong> Replaceable - uses Uwell ZETTA coils</li> <li> <strong>Fill Method:</strong> Top Fill</li> <li> <strong>Compatible Devices:</strong> Uwell ZETTA</li> <li> <strong>Brand:</strong> Uwell</li> </ul> <p><em>E-liquid sold separately.</em></p><p>Available options: 0.6 OHM, 0.8 OHM.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 14.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/uwell-zetta-replacement-pod/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/uwell/products/uwell-zetta-replacement-pod/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Uwell",
+      "slug": "uwell",
+      "url": "https://vapesshopcanada.com/product-category/uwell/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/uwell/products/uwell-zetta-replacement-pod"
+}

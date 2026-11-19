@@ -1,0 +1,46 @@
+{
+  "id": "vaporesso-vibe-se-pod-kit",
+  "title": "Vaporesso Vibe SE Pod Kit",
+  "description": "The\nVaporesso Vibe SE Pod Kit\nis a beginner-friendly draw-activated pod system with Dual Mesh Smart Pod technology that switches between two coil resistances using a simple mode slider. ECO mode activates a single coil for a tighter draw, while PWR mode engages both coils for denser vapour.\nProduct Type:\nOpen Pod System (Refillable)\nBattery:\n1100mAh\nWattage:\nECO 12W / PWR 20W (Dual Mode Slider)\nCharging:\nUSB Type-C (1A)\nE-Liquid Capacity:\n4.5mL\nCoil Type:\nIntegrated Dual Mesh (Smart Pod Technology)\nCoil Resistance:\n1.0Ω/0.6Ω Dual Resistance Pod (included)\nActivation:\nDraw-Activated (No Buttons)\nAirflow:\nAuto-Adjusting (Mode-Dependent)\nDisplay:\nRGB LED Indicator\nChipset:\nAXON\nFill Method:\nSide Fill\nPod Compatibility:\nAll Vaporesso Vibe Pods\nBrand:\nVaporesso\nE-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.\nAvailable options: Black, Blue.",
+  "description_html": "<p>The <strong>Vaporesso Vibe SE Pod Kit</strong> is a beginner-friendly draw-activated pod system with Dual Mesh Smart Pod technology that switches between two coil resistances using a simple mode slider. ECO mode activates a single coil for a tighter draw, while PWR mode engages both coils for denser vapour.</p> <ul> <li> <strong>Product Type:</strong> Open Pod System (Refillable)</li> <li> <strong>Battery:</strong> 1100mAh</li> <li> <strong>Wattage:</strong> ECO 12W / PWR 20W (Dual Mode Slider)</li> <li> <strong>Charging:</strong> USB Type-C (1A)</li> <li> <strong>E-Liquid Capacity:</strong> 4.5mL</li> <li> <strong>Coil Type:</strong> Integrated Dual Mesh (Smart Pod Technology)</li> <li> <strong>Coil Resistance:</strong> 1.0Ω/0.6Ω Dual Resistance Pod (included)</li> <li> <strong>Activation:</strong> Draw-Activated (No Buttons)</li> <li> <strong>Airflow:</strong> Auto-Adjusting (Mode-Dependent)</li> <li> <strong>Display:</strong> RGB LED Indicator</li> <li> <strong>Chipset:</strong> AXON</li> <li> <strong>Fill Method:</strong> Side Fill</li> <li> <strong>Pod Compatibility:</strong> All Vaporesso Vibe Pods</li> <li> <strong>Brand:</strong> Vaporesso</li> </ul> <p><em>E-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.</em></p><p>Available options: Black, Blue.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 17.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vaporesso-vibe-se-pod-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vaporesso/products/vaporesso-vibe-se-pod-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vaporesso",
+      "slug": "vaporesso",
+      "url": "https://vapesshopcanada.com/product-category/vaporesso/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/vaporesso/products/vaporesso-vibe-se-pod-kit"
+}

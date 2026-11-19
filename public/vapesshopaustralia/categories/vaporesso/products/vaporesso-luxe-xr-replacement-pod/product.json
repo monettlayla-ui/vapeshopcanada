@@ -1,0 +1,46 @@
+{
+  "id": "vaporesso-luxe-xr-replacement-pod",
+  "title": "Vaporesso Luxe XR Replacement Pod",
+  "description": "The\nVaporesso Luxe XR Replacement Pod\nis a refillable replacement pod with replaceable GTX coil system for all Luxe XR series devices. Supports both MTL and DTL vaping styles with the appropriate GTX coil.\nProduct Type:\nRefillable Replacement Pod (Empty - Fill with E-Liquid)\nE-Liquid Capacity:\n5mL per Pod\nCoil Resistance:\nReplaceable - uses Vaporesso GTX Coils\nFill Method:\nBottom Fill\nCompatible Devices:\nVaporesso Luxe XR, Luxe XR Max, Luxe XR Max 2\nBrand:\nVaporesso\nE-liquid and GTX coils sold separately.\nAvailable options: MTL, DTL.",
+  "description_html": "<p>The <strong>Vaporesso Luxe XR Replacement Pod</strong> is a refillable replacement pod with replaceable GTX coil system for all Luxe XR series devices. Supports both MTL and DTL vaping styles with the appropriate GTX coil.</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod (Empty - Fill with E-Liquid)</li> <li> <strong>E-Liquid Capacity:</strong> 5mL per Pod</li> <li> <strong>Coil Resistance:</strong> Replaceable - uses Vaporesso GTX Coils</li> <li> <strong>Fill Method:</strong> Bottom Fill</li> <li> <strong>Compatible Devices:</strong> Vaporesso Luxe XR, Luxe XR Max, Luxe XR Max 2</li> <li> <strong>Brand:</strong> Vaporesso</li> </ul> <p><em>E-liquid and GTX coils sold separately.</em></p><p>Available options: MTL, DTL.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 9.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vaporesso-luxe-xr-replacement-pod/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vaporesso/products/vaporesso-luxe-xr-replacement-pod/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vaporesso",
+      "slug": "vaporesso",
+      "url": "https://vapesshopcanada.com/product-category/vaporesso/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/vaporesso/products/vaporesso-luxe-xr-replacement-pod"
+}

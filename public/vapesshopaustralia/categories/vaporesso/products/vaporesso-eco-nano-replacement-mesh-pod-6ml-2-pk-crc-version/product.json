@@ -1,0 +1,46 @@
+{
+  "id": "vaporesso-eco-nano-replacement-mesh-pod-6ml-2-pk-crc-version",
+  "title": "Vaporesso ECO Nano Replacement Pod 2-Pack",
+  "description": "The\nVaporesso ECO Nano Replacement Pod\nis a refillable replacement pod with COREX Heating technology for consistent flavour and extended pod life.\nProduct Type:\nRefillable Replacement Pod (Empty - Fill with E-Liquid)\nE-Liquid Capacity:\n6mL per Pod\nPack Contents:\n2 Pods\nCoil Resistance:\nIntegrated Mesh (Non-Replaceable)\nFill Method:\nBottom Fill\nCompatible Devices:\nVaporesso ECO Nano, ECO Nano 2, ECO Nano Pro\nNot Compatible With:\nECO Nano PLUS (uses different, larger pods)\nBrand:\nVaporesso\nE-liquid sold separately.\nAvailable options: 0.8ohm, 1.2ohm, LUSH 0.6OHM.",
+  "description_html": "<p>The <strong>Vaporesso ECO Nano Replacement Pod</strong> is a refillable replacement pod with COREX Heating technology for consistent flavour and extended pod life.</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod (Empty - Fill with E-Liquid)</li> <li> <strong>E-Liquid Capacity:</strong> 6mL per Pod</li> <li> <strong>Pack Contents:</strong> 2 Pods</li> <li> <strong>Coil Resistance:</strong> Integrated Mesh (Non-Replaceable)</li> <li> <strong>Fill Method:</strong> Bottom Fill</li> <li> <strong>Compatible Devices:</strong> Vaporesso ECO Nano, ECO Nano 2, ECO Nano Pro</li> <li> <strong>Not Compatible With:</strong> ECO Nano PLUS (uses different, larger pods)</li> <li> <strong>Brand:</strong> Vaporesso</li> </ul> <p><em>E-liquid sold separately.</em></p><p>Available options: 0.8ohm, 1.2ohm, LUSH 0.6OHM.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 9.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vaporesso-eco-nano-replacement-mesh-pod-6ml-2-pk-crc-version/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vaporesso/products/vaporesso-eco-nano-replacement-mesh-pod-6ml-2-pk-crc-version/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vaporesso",
+      "slug": "vaporesso",
+      "url": "https://vapesshopcanada.com/product-category/vaporesso/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/vaporesso/products/vaporesso-eco-nano-replacement-mesh-pod-6ml-2-pk-crc-version"
+}

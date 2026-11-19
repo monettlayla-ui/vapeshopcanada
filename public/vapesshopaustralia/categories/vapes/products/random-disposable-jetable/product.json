@@ -1,0 +1,41 @@
+{
+  "id": "random-disposable-jetable",
+  "title": "🎁 MYSTERY DISPOSABLE/JETABLE",
+  "description": "🎁\nMYSTERY DISPOSABLE\nFeeling adventurous? Try your luck with our Mystery Disposable! You’ll receive a fully sealed, premium disposable vape chosen at random from our wide selection. Perfect for discovering new flavors or getting a surprise deal - always a fun mystery, never a disappointment.\n🎁\nJETABLE MYSTÈRE\nEnvie de nouveauté? Tente ta chance avec notre Jetable Mystère! Tu recevras une vape jetable scellée, choisie au hasard parmi nos meilleures marques. Parfait pour découvrir de nouvelles saveurs ou profiter d’un bon deal surprise - toujours un mystère, jamais une déception.",
+  "description_html": "<p>🎁 <strong>MYSTERY DISPOSABLE</strong><br/>Feeling adventurous? Try your luck with our Mystery Disposable! You’ll receive a fully sealed, premium disposable vape chosen at random from our wide selection. Perfect for discovering new flavors or getting a surprise deal - always a fun mystery, never a disappointment.</p> <p>🎁 <strong>JETABLE MYSTÈRE</strong><br/>Envie de nouveauté? Tente ta chance avec notre Jetable Mystère! Tu recevras une vape jetable scellée, choisie au hasard parmi nos meilleures marques. Parfait pour découvrir de nouvelles saveurs ou profiter d’un bon deal surprise - toujours un mystère, jamais une déception.</p> <!-- -->",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 29.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/random-disposable-jetable/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vapes/products/random-disposable-jetable/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Vapes",
+      "slug": "vapes",
+      "url": "https://vapesshopcanada.com/product-category/vapes/"
+    }
+  ],
+  "stored_in": "categories/vapes/products/random-disposable-jetable"
+}

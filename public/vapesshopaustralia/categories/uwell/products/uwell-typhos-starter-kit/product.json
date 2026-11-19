@@ -1,0 +1,46 @@
+{
+  "id": "uwell-typhos-starter-kit",
+  "title": "Uwell Typhos Starter Kit",
+  "description": "The\nUwell Typhos Starter Kit\nincludes the Typhos pod device and pods for a complete out-of-the-box setup. Features a 2000mAh battery, up to 45W output, 1.05\" HD display, and Storm/Waves modes with CoreShield anti-leak technology.\nProduct Type:\nOpen Pod Starter Kit\nPack Contents:\n1x Uwell Typhos Device + 1x 0.3Ω Dual Mesh Pod + 1x 0.6Ω Mesh Pod + USB-C Cable\nBattery:\n2000mAh\nWattage Range:\n18-45W\nE-Liquid Capacity:\n6mL\nCoil Resistance:\nIntegrated (Real Dual Mesh / Single Mesh)\nDisplay:\n1.05\" HD Colour Screen\nAirflow:\nStepless Adjustable (MTL to RDL)\nCharging Port:\nUSB Type-C\nCompatible Pods:\nUwell Typhos Pods (0.3Ω, 0.6Ω, 0.8Ω)\nBrand:\nUwell\nE-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.\nAvailable options: Polar Black, Starlight Silver.",
+  "description_html": "<p>The <strong>Uwell Typhos Starter Kit</strong> includes the Typhos pod device and pods for a complete out-of-the-box setup. Features a 2000mAh battery, up to 45W output, 1.05\" HD display, and Storm/Waves modes with CoreShield anti-leak technology.</p> <ul> <li> <strong>Product Type:</strong> Open Pod Starter Kit</li> <li> <strong>Pack Contents:</strong> 1x Uwell Typhos Device + 1x 0.3Ω Dual Mesh Pod + 1x 0.6Ω Mesh Pod + USB-C Cable</li> <li> <strong>Battery:</strong> 2000mAh</li> <li> <strong>Wattage Range:</strong> 18-45W</li> <li> <strong>E-Liquid Capacity:</strong> 6mL</li> <li> <strong>Coil Resistance:</strong> Integrated (Real Dual Mesh / Single Mesh)</li> <li> <strong>Display:</strong> 1.05\" HD Colour Screen</li> <li> <strong>Airflow:</strong> Stepless Adjustable (MTL to RDL)</li> <li> <strong>Charging Port:</strong> USB Type-C</li> <li> <strong>Compatible Pods:</strong> Uwell Typhos Pods (0.3Ω, 0.6Ω, 0.8Ω)</li> <li> <strong>Brand:</strong> Uwell</li> </ul> <p><em>E-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.</em></p><p>Available options: Polar Black, Starlight Silver.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 46.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/uwell-typhos-starter-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/uwell/products/uwell-typhos-starter-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Uwell",
+      "slug": "uwell",
+      "url": "https://vapesshopcanada.com/product-category/uwell/"
+    },
+    {
+      "name": "Starter Kits",
+      "slug": "starter-kits",
+      "url": "https://vapesshopcanada.com/product-category/starter-kits/"
+    }
+  ],
+  "stored_in": "categories/uwell/products/uwell-typhos-starter-kit"
+}

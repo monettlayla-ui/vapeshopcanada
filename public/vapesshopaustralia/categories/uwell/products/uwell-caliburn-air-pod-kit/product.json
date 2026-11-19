@@ -1,0 +1,46 @@
+{
+  "id": "uwell-caliburn-air-pod-kit",
+  "title": "Uwell Caliburn AIR Pod Kit",
+  "description": "The\nUwell Caliburn AIR Pod Kit\nis an ultra-light refillable pod system built around a 1000mAh battery and 25W maximum output. It is draw-activated with no fire button, and switches between WAVES and STORM output modes by reinserting the pod twice.\nProduct Type:\nVape Device\nOutput Power:\nUp to 25W\nBattery:\n1000mAh (built-in, rechargeable)\nCharging Port:\nUSB Type-C (5V/2A)\nE-Liquid Capacity:\n2mL\nCoil Resistance:\n0.4Ω / 0.6Ω / 0.9Ω / 1.2Ω\nPower Modes:\nWAVES (smooth, balanced) · STORM (bold, intense)\nCompatible Pods:\nUwell Caliburn GPP Alpha, Uwell Caliburn GPP\nDimensions:\n114.05 x 25.5 x 15 mm\nWeight:\n39g\nKit Contents:\n1 x Caliburn AIR device, 1 x 0.6Ω 2mL GPP Alpha replacement pod, 1 x user manual, 1 x child lock instruction card\nBrand:\nUwell\nAvailable options: Cloud White, Shadow Black.",
+  "description_html": "<p>The <strong>Uwell Caliburn AIR Pod Kit</strong> is an ultra-light refillable pod system built around a 1000mAh battery and 25W maximum output. It is draw-activated with no fire button, and switches between WAVES and STORM output modes by reinserting the pod twice.</p> <ul> <li> <strong>Product Type:</strong> Vape Device</li> <li> <strong>Output Power:</strong> Up to 25W</li> <li> <strong>Battery:</strong> 1000mAh (built-in, rechargeable)</li> <li> <strong>Charging Port:</strong> USB Type-C (5V/2A)</li> <li> <strong>E-Liquid Capacity:</strong> 2mL</li> <li> <strong>Coil Resistance:</strong> 0.4Ω / 0.6Ω / 0.9Ω / 1.2Ω</li> <li> <strong>Power Modes:</strong> WAVES (smooth, balanced) · STORM (bold, intense)</li> <li> <strong>Compatible Pods:</strong> Uwell Caliburn GPP Alpha, Uwell Caliburn GPP</li> <li> <strong>Dimensions:</strong> 114.05 x 25.5 x 15 mm</li> <li> <strong>Weight:</strong> 39g</li> <li> <strong>Kit Contents:</strong> 1 x Caliburn AIR device, 1 x 0.6Ω 2mL GPP Alpha replacement pod, 1 x user manual, 1 x child lock instruction card</li> <li> <strong>Brand:</strong> Uwell</li> </ul><p>Available options: Cloud White, Shadow Black.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 11.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/uwell-caliburn-air-pod-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/uwell/products/uwell-caliburn-air-pod-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Uwell",
+      "slug": "uwell",
+      "url": "https://vapesshopcanada.com/product-category/uwell/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/uwell/products/uwell-caliburn-air-pod-kit"
+}

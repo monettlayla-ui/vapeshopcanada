@@ -1,0 +1,46 @@
+{
+  "id": "uwell-typhos-replacement-pod",
+  "title": "Uwell Typhos Replacement Pod",
+  "description": "The\nUwell Typhos Replacement Pod\nis a refillable replacement pod for compatible Uwell devices.\nProduct Type:\nRefillable Replacement Pod (Empty - Built-in Coil)\nCoil Resistance:\n0.6Ω / 0.8Ω (built-in, varies by pod)\nCoil Material:\nMesh\nCompatible Devices:\nUwell Typhos, Typhos Pro, Typhos SE\nBrand:\nUwell\nCoil is built in  -  replace the pod when flavour fades. E-liquid sold separately.\nAvailable options: 0.6OHM (3ML), 0.8 OHM (3ML).",
+  "description_html": "<p>The <strong>Uwell Typhos Replacement Pod</strong> is a refillable replacement pod for compatible Uwell devices.</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod (Empty - Built-in Coil)</li> <li> <strong>Coil Resistance:</strong> 0.6Ω / 0.8Ω (built-in, varies by pod)</li> <li> <strong>Coil Material:</strong> Mesh</li> <li> <strong>Compatible Devices:</strong> Uwell Typhos, Typhos Pro, Typhos SE</li> <li> <strong>Brand:</strong> Uwell</li> </ul> <p><em>Coil is built in  -  replace the pod when flavour fades. E-liquid sold separately.</em></p><p>Available options: 0.6OHM (3ML), 0.8 OHM (3ML).</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 14.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/uwell-typhos-replacement-pod/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/uwell/products/uwell-typhos-replacement-pod/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Uwell",
+      "slug": "uwell",
+      "url": "https://vapesshopcanada.com/product-category/uwell/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/uwell/products/uwell-typhos-replacement-pod"
+}

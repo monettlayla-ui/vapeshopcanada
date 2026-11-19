@@ -1,0 +1,46 @@
+{
+  "id": "uwell-crown-s-replacement-pod-2-pack-crc",
+  "title": "Uwell Crown S Replacement Pod 2-Pack",
+  "description": "The\nUwell Crown S Replacement Pod\nis a refillable replacement pod for compatible devices.\nProduct Type:\nRefillable Replacement Pod (Empty - Fill with E-Liquid)\nE-Liquid Capacity:\n4mL\nPack Contents:\n2 Pods\nCoil Resistance:\nReplaceable\nCompatible Devices:\nUwell Crown S\nBrand:\nUwell\nE-liquid sold separately.",
+  "description_html": "<p>The <strong>Uwell Crown S Replacement Pod</strong> is a refillable replacement pod for compatible devices.</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod (Empty - Fill with E-Liquid)</li> <li> <strong>E-Liquid Capacity:</strong> 4mL</li> <li> <strong>Pack Contents:</strong> 2 Pods</li> <li> <strong>Coil Resistance:</strong> Replaceable</li> <li> <strong>Compatible Devices:</strong> Uwell Crown S</li> <li> <strong>Brand:</strong> Uwell</li> </ul> <p><em>E-liquid sold separately.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 11.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/uwell-crown-s-replacement-pod-2-pack-crc/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/uwell/products/uwell-crown-s-replacement-pod-2-pack-crc/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Uwell",
+      "slug": "uwell",
+      "url": "https://vapesshopcanada.com/product-category/uwell/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/uwell/products/uwell-crown-s-replacement-pod-2-pack-crc"
+}
