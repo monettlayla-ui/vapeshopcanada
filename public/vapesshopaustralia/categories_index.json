@@ -279,7 +279,7 @@
   "id": "vapes",
   "name": "VAPES",
   "url": "https://vapesshopaustralia.com/product-category/vapes/",
-  "count": 31
+  "count": 34
  },
  {
   "id": "waka-smash-6000",
@@ -327,7 +327,7 @@
   "id": "accessories",
   "name": "ACCESSORIES",
   "url": "https://vapeshopcanada.com/product-category/accessories/",
-  "count": 550
+  "count": 552
  },
  {
   "id": "ace-ultra",
@@ -351,7 +351,7 @@
   "id": "allo",
   "name": "ALLO",
   "url": "https://vapeshopcanada.com/product-category/allo/",
-  "count": 12
+  "count": 75
  },
  {
   "id": "bar-juice-5000-nicotine-salt-e-liquid",
@@ -387,7 +387,7 @@
   "id": "disposable-vapes",
   "name": "DISPOSABLE VAPES",
   "url": "https://vapeshopcanada.com/product-category/disposable-vapes/",
-  "count": 32
+  "count": 773
  },
  {
   "id": "dry-herb-vaporizer",
@@ -405,7 +405,7 @@
   "id": "e-liquids",
   "name": "E-LIQUIDS",
   "url": "https://vapeshopcanada.com/product-category/e-liquids/",
-  "count": 485
+  "count": 893
  },
  {
   "id": "elite-pod",
@@ -423,7 +423,7 @@
   "id": "geek-bar",
   "name": "Geek Bar",
   "url": "https://vapeshopcanada.com/product-category/geek-bar/",
-  "count": 149
+  "count": 200
  },
  {
   "id": "glass-bongs",
@@ -460,5 +460,257 @@
   "name": "MUHAMEDS DISPOSABLE",
   "url": "https://vapeshopcanada.com/product-category/muhameds-disposable/",
   "count": 29
+ },
+ {
+  "id": "vuse",
+  "name": "VUSE",
+  "url": "https://vapesshopcanada.com/product-category/vuse/",
+  "count": 43
+ },
+ {
+  "id": "uwell",
+  "name": "Uwell",
+  "url": "https://vapesshopcanada.com/product-category/uwell/",
+  "count": 26
+ },
+ {
+  "id": "vape-devices",
+  "name": "Vape Devices",
+  "url": "https://vapesshopcanada.com/product-category/vape-devices/",
+  "count": 51
+ },
+ {
+  "id": "vice",
+  "name": "Vice",
+  "url": "https://vapesshopcanada.com/product-category/vice/",
+  "count": 80
+ },
+ {
+  "id": "level-x",
+  "name": "Level X",
+  "url": "https://vapesshopcanada.com/product-category/level-x/",
+  "count": 109
+ },
+ {
+  "id": "prefilled-pods",
+  "name": "Prefilled Pods",
+  "url": "https://vapesshopcanada.com/product-category/prefilled-pods/",
+  "count": 466
+ },
+ {
+  "id": "flavour-beast",
+  "name": "Flavour Beast",
+  "url": "https://vapesshopcanada.com/product-category/flavour-beast/",
+  "count": 301
+ },
+ {
+  "id": "drip-n",
+  "name": "Drip'n",
+  "url": "https://vapesshopcanada.com/product-category/drip-n/",
+  "count": 89
+ },
+ {
+  "id": "stlth",
+  "name": "STLTH",
+  "url": "https://vapesshopcanada.com/product-category/stlth/",
+  "count": 265
+ },
+ {
+  "id": "replacement-pods",
+  "name": "Replacement Pods",
+  "url": "https://vapesshopcanada.com/product-category/replacement-pods/",
+  "count": 30
+ },
+ {
+  "id": "kraze",
+  "name": "Kraze",
+  "url": "https://vapesshopcanada.com/product-category/kraze/",
+  "count": 90
+ },
+ {
+  "id": "vaporesso",
+  "name": "Vaporesso",
+  "url": "https://vapesshopcanada.com/product-category/vaporesso/",
+  "count": 19
+ },
+ {
+  "id": "voopoo",
+  "name": "Voopoo",
+  "url": "https://vapesshopcanada.com/product-category/voopoo/",
+  "count": 11
+ },
+ {
+  "id": "oxva",
+  "name": "OXVA",
+  "url": "https://vapesshopcanada.com/product-category/oxva/",
+  "count": 8
+ },
+ {
+  "id": "flavour-drop",
+  "name": "Flavour Drop",
+  "url": "https://vapesshopcanada.com/product-category/flavour-drop/",
+  "count": 40
+ },
+ {
+  "id": "orbito",
+  "name": "Orbito",
+  "url": "https://vapesshopcanada.com/product-category/orbito/",
+  "count": 19
+ },
+ {
+  "id": "insta-bar",
+  "name": "Insta Bar",
+  "url": "https://vapesshopcanada.com/product-category/insta-bar/",
+  "count": 11
+ },
+ {
+  "id": "zblock",
+  "name": "ZBLOCK",
+  "url": "https://vapesshopcanada.com/product-category/zblock/",
+  "count": 20
+ },
+ {
+  "id": "starter-kits",
+  "name": "Starter Kits",
+  "url": "https://vapesshopcanada.com/product-category/starter-kits/",
+  "count": 15
+ },
+ {
+  "id": "ripper-sleek",
+  "name": "Ripper Sleek",
+  "url": "https://vapesshopcanada.com/product-category/ripper-sleek/",
+  "count": 8
+ },
+ {
+  "id": "nasha",
+  "name": "Nasha",
+  "url": "https://vapesshopcanada.com/product-category/nasha/",
+  "count": 20
+ },
+ {
+  "id": "oxbar",
+  "name": "OXBAR",
+  "url": "https://vapesshopcanada.com/product-category/oxbar/",
+  "count": 12
+ },
+ {
+  "id": "al-fakher",
+  "name": "Al Fakher",
+  "url": "https://vapesshopcanada.com/product-category/al-fakher/",
+  "count": 13
+ },
+ {
+  "id": "mazaya",
+  "name": "Mazaya",
+  "url": "https://vapesshopcanada.com/product-category/mazaya/",
+  "count": 6
+ },
+ {
+  "id": "starbuzz",
+  "name": "Starbuzz",
+  "url": "https://vapesshopcanada.com/product-category/starbuzz/",
+  "count": 6
+ },
+ {
+  "id": "boosted",
+  "name": "Boosted",
+  "url": "https://vapesshopcanada.com/product-category/boosted/",
+  "count": 15
+ },
+ {
+  "id": "elf-bar",
+  "name": "Elf Bar",
+  "url": "https://vapesshopcanada.com/product-category/elf-bar/",
+  "count": 30
+ },
+ {
+  "id": "vape-coils",
+  "name": "Vape Coils",
+  "url": "https://vapesshopcanada.com/product-category/vape-coils/",
+  "count": 11
+ },
+ {
+  "id": "geekvape",
+  "name": "Geekvape",
+  "url": "https://vapesshopcanada.com/product-category/geekvape/",
+  "count": 8
+ },
+ {
+  "id": "smok",
+  "name": "Smok",
+  "url": "https://vapesshopcanada.com/product-category/smok/",
+  "count": 8
+ },
+ {
+  "id": "aspire",
+  "name": "Aspire",
+  "url": "https://vapesshopcanada.com/product-category/aspire/",
+  "count": 3
+ },
+ {
+  "id": "z-pods",
+  "name": "Z Pods",
+  "url": "https://vapesshopcanada.com/product-category/z-pods/",
+  "count": 91
+ },
+ {
+  "id": "ripperx",
+  "name": "RIPPERX",
+  "url": "https://vapesshopcanada.com/product-category/ripperx/",
+  "count": 18
+ },
+ {
+  "id": "juice-head",
+  "name": "Juice Head",
+  "url": "https://vapesshopcanada.com/product-category/juice-head/",
+  "count": 18
+ },
+ {
+  "id": "vaporus",
+  "name": "Vaporus",
+  "url": "https://vapesshopcanada.com/product-category/vaporus/",
+  "count": 19
+ },
+ {
+  "id": "lemon-drop",
+  "name": "Lemon Drop",
+  "url": "https://vapesshopcanada.com/product-category/lemon-drop/",
+  "count": 43
+ },
+ {
+  "id": "yocan",
+  "name": "Yocan",
+  "url": "https://vapesshopcanada.com/product-category/yocan/",
+  "count": 3
+ },
+ {
+  "id": "berry-drop",
+  "name": "Berry Drop",
+  "url": "https://vapesshopcanada.com/product-category/berry-drop/",
+  "count": 30
+ },
+ {
+  "id": "fruitbae",
+  "name": "Fruitbae",
+  "url": "https://vapesshopcanada.com/product-category/fruitbae/",
+  "count": 3
+ },
+ {
+  "id": "illusions",
+  "name": "Illusions",
+  "url": "https://vapesshopcanada.com/product-category/illusions/",
+  "count": 9
+ },
+ {
+  "id": "pop-hit",
+  "name": "Pop Hit",
+  "url": "https://vapesshopcanada.com/product-category/pop-hit/",
+  "count": 70
+ },
+ {
+  "id": "12-monkeys",
+  "name": "12 Monkeys",
+  "url": "https://vapesshopcanada.com/product-category/12-monkeys/",
+  "count": 41
  }
 ]

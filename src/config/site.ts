@@ -78,20 +78,37 @@ export const homeProductRows: ProductRow[] = [
     ],
   },
   {
-    title: "BEST SELLING PRODUCTS",
+    title: "BEST SELLING STLTH VAPES",
     slugs: [
-      "waka-smash-green-grape-6000-puffs",
-      "waka-smash-mango-orange-6000-puffs",
-      "waka-smash-guava-zest-6000-puffs",
-      "waka-smash-juicy-black-currant-6000-puffs",
+      "stlth-x-geek-bar-80k-purple-grape",
+      "stlth-x-geek-bar-80k-lychee-melon-ice",
+      "stlth-x-geek-bar-80k-strawberry-twist-ice",
+      "stlth-x-geek-bar-80k-rocket-ice",
     ],
   },
   {
     slugs: [
-      "waka-smash-peach-kiwi-melon-6000-puffs",
-      "waka-smash-pear-sparkle-6000-puffs",
-      "waka-smash-pineapple-melon-6000-puffs",
-      "waka-smash-pomegranate-pop-6000-puffs",
+      "stlth-loop-max-70k-pod-watermelon-ice",
+      "stlth-eco-blue-lemon-ice",
+      "stlth-eco-punch-ice",
+      "stlth-eco-watermelon-lime-ice",
+    ],
+  },
+  {
+    title: "BEST SELLING FLAVOUR BEAST VAPES",
+    slugs: [
+      "flavour-beast-mode-max-3-60k-super-s-watermelon-iced",
+      "flavour-beast-mode-max-3-60k-super-s-strawberry-iced",
+      "flavour-beast-mode-max-3-60k-super-s-peach-iced",
+      "flavour-beast-mode-max-3-60k-super-s-grape-iced",
+    ],
+  },
+  {
+    slugs: [
+      "flavour-beast-mode-max-3-60k-super-s-blueberry-iced",
+      "flavour-beast-mode-max-3-60k-super-s-blue-razz-iced",
+      "flavour-beast-mode-max-3-60k-kanzi-iced",
+      "flavour-beast-mode-max-3-60k-harambae-iced",
     ],
   },
 ];
@@ -161,6 +178,87 @@ export const briskBarProductRows: ProductRow[] = [
       "brisk-bar-double-apple-5000-puffs",
       "brisk-bar-exotic-fruit-5000-puffs",
       "brisk-bar-grape-ice-5000-puffs",
+    ],
+  },
+];
+
+export const viceNexaContent = {
+  title: "Vice x NEXA 80K Canada - Buy Vice 80000 Puff Disposable Vapes Online",
+  paragraphs: [
+    "Looking for the longest lasting disposable vape in Canada? The Vice x NEXA 80K delivers up to 80,000 puffs from a 20mL prefilled cartridge, with a rechargeable battery, adjustable airflow, dual vaping modes and a 3D curved screen. It is one of the best high puff disposable vapes you can buy online in Canada, and a single device can last for months.",
+    "Choose from icy fruit, mint and candy flavours such as Arctic Blue Melon, Banana Ice, Blue Raspberry Ice and Mango Tango Ice. Buy Vice vapes online Canada with authentic products, discreet packaging and fast Canada-wide delivery, and pay by E-transfer or Bitcoin.",
+  ],
+};
+
+export const viceNexaProductRows: ProductRow[] = [
+  {
+    slugs: [
+      "vice-x-nexa-80k-arctic-blue-melon",
+      "vice-x-nexa-80k-banana-ice",
+      "vice-x-nexa-80k-blue-raspberry-ice",
+      "vice-x-nexa-80k-cherry-blast-ice",
+    ],
+  },
+  {
+    slugs: [
+      "vice-x-nexa-80k-frosty-green-apple",
+      "vice-x-nexa-80k-mango-tango-ice",
+      "vice-x-nexa-80k-mint-ice",
+      "vice-x-nexa-80k-peach-ice",
+    ],
+  },
+];
+
+export const krazeContent = {
+  title: "Kraze Mega X 48K Vapes Canada - Buy Kraze Disposable Vapes Online",
+  paragraphs: [
+    "Kraze Mega X 48K disposable vapes give you up to 48,000 puffs in a compact, ready to use device, with strong nicotine, a mesh coil and bold flavour from the first puff to the last. If you are searching for Kraze vapes for sale in Canada, this is a great mix of value, power and long battery life.",
+    "Pick from Banana Ice, Blue Razz Ice, Blueberry Kiwi Ice, Grape Ice, Holiday Mint Ice and more. Buy Kraze Mega X online Canada from a trusted vape shop with fast delivery across the country and easy payment by E-transfer or Bitcoin.",
+  ],
+};
+
+export const krazeProductRows: ProductRow[] = [
+  {
+    slugs: [
+      "kraze-mega-x-48k-banana-ice",
+      "kraze-mega-x-48k-blue-razz-ice",
+      "kraze-mega-x-48k-blueberry-kiwi-ice",
+      "kraze-mega-x-48k-cherry-blast-g-ice",
+    ],
+  },
+  {
+    slugs: [
+      "kraze-mega-x-48k-blueberry-watermelon-ice",
+      "kraze-mega-x-48k-frizzy-peach-g-ice",
+      "kraze-mega-x-48k-grape-ice",
+      "kraze-mega-x-48k-holiday-mint-ice",
+    ],
+  },
+];
+
+export const elfBarContent = {
+  title: "Elf Bar FS70K Canada - Buy Elf Bar 70000 Puff Disposable Vapes",
+  paragraphs: [
+    "Elf Bar is one of the most trusted names in disposable vapes, and the Elf Bar FS70K brings up to 70,000 puffs of smooth, consistent flavour in a sleek rechargeable device. If you want to buy Elf Bar vapes online in Canada, the FS70K is built for people who want fewer refills, fewer charges and a better price per puff.",
+    "Explore flavours like Watermelon Ice, Strawberry Ice, Sour Blue Razz Ice, Sakura Grape Ice and classic Tobacco. Order Elf Bar disposable vapes for sale in Canada with discreet packaging, fast Canada-wide delivery and secure payment by E-transfer or Bitcoin.",
+  ],
+};
+
+export const elfBarProductRows: ProductRow[] = [
+  {
+    slugs: [
+      "elf-bar-fs70k-disposable-watermelon-ice",
+      "elf-bar-fs70k-disposable-tobacco",
+      "elf-bar-fs70k-disposable-strawberry-ice",
+      "elf-bar-fs70k-disposable-sour-strawberry-dragon-fruit-ice",
+    ],
+  },
+  {
+    slugs: [
+      "elf-bar-fs70k-disposable-sour-pineapple-ice",
+      "elf-bar-fs70k-disposable-sour-blue-razz-ice",
+      "elf-bar-fs70k-disposable-sakura-grape-ice",
+      "elf-bar-fs70k-disposable",
     ],
   },
 ];

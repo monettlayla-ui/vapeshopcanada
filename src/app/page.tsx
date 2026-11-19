@@ -6,7 +6,7 @@ import { Faq } from "@/components/sections/Faq";
 import { Features } from "@/components/sections/Features";
 import { CategoryBanners } from "@/components/sections/CategoryBanners";
 import { FeaturedProducts } from "@/components/sections/FeaturedProducts";
-import { extraSections, alfakherContent, airmezBimoContent, airmezBimoProductRows, alfakherProductRows, eLiquidsContent, gunnpodsContent, gunnpodsProductRows, homeProductRows, hqdContent, hqdProductRows, briskBarContent, briskBarProductRows, introContent, mrFogContent, mrFogProductRows, smokelessContent, smokelessProductRows, vaporassoContent, vaporassoProductRows } from "@/config/site";
+import { elfBarContent, elfBarProductRows, krazeContent, krazeProductRows, viceNexaContent, viceNexaProductRows, extraSections, alfakherContent, airmezBimoContent, airmezBimoProductRows, alfakherProductRows, eLiquidsContent, gunnpodsContent, gunnpodsProductRows, homeProductRows, hqdContent, hqdProductRows, briskBarContent, briskBarProductRows, introContent, mrFogContent, mrFogProductRows, smokelessContent, smokelessProductRows, vaporassoContent, vaporassoProductRows } from "@/config/site";
 import { FloatingCartButton } from "@/components/ui/FloatingCartButton";
 
 export default function Home() {
@@ -45,6 +45,18 @@ export default function Home() {
         ))}
         <TextSection title={extraSections.geekBar.title} paragraphs={extraSections.geekBar.paragraphs} tight />
         {extraSections.geekBar.rows.map((row) => (
+          <FeaturedProducts key={row.slugs[0]} {...row} />
+        ))}
+        <TextSection {...viceNexaContent} />
+        {viceNexaProductRows.map((row) => (
+          <FeaturedProducts key={row.slugs[0]} {...row} />
+        ))}
+        <TextSection {...krazeContent} />
+        {krazeProductRows.map((row) => (
+          <FeaturedProducts key={row.slugs[0]} {...row} />
+        ))}
+        <TextSection {...elfBarContent} />
+        {elfBarProductRows.map((row) => (
           <FeaturedProducts key={row.slugs[0]} {...row} />
         ))}
         <Faq />

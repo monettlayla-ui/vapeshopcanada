@@ -21,7 +21,7 @@ export function ProductCard({ product, priority = false }: { product: Product; p
       <div className="relative">
         <Link
           href={href}
-          prefetch
+          prefetch={false}
           className="relative block aspect-square overflow-hidden bg-white"
         >
           {image && (
@@ -48,7 +48,7 @@ export function ProductCard({ product, priority = false }: { product: Product; p
           <p className="text-xs text-slate-500 sm:text-sm">{category}</p>
         )}
         <h3 className="mt-1.5 text-sm leading-snug sm:mt-2 sm:text-base font-medium text-slate-800">
-          <Link href={href} prefetch className="hover:text-blue-600">
+          <Link href={href} prefetch={false} className="hover:text-blue-600">
             {product.title}
           </Link>
         </h3>
