@@ -1,0 +1,45 @@
+/** Known brands, matched against a product title. Order matters: first match wins. */
+const BRANDS: { name: string; match: RegExp }[] = [
+  { name: "Geek Bar", match: /geek\s*bar/i },
+  { name: "IGET", match: /\biget\b/i },
+  { name: "Airmez", match: /airmez/i },
+  { name: "Bimo", match: /\bbimo\b/i },
+  { name: "Alfakher", match: /alfakher/i },
+  { name: "HQD", match: /\bhqd\b/i },
+  { name: "Waka", match: /\bwaka\b/i },
+  { name: "Gunnpod", match: /gunnpod/i },
+  { name: "Mr Fog", match: /mr\.?\s*fog/i },
+  { name: "Vaporesso", match: /vapor[ae]sso/i },
+  { name: "Brisk Bar", match: /brisk\s*bar/i },
+  { name: "Allo", match: /\ballo\b/i },
+  { name: "Freemax", match: /freemax/i },
+  { name: "Uwell", match: /uwell/i },
+  { name: "Dinner Lady", match: /dinner\s*lady/i },
+  { name: "Nasty", match: /\bnasty\b/i },
+  { name: "Aisu", match: /\baisu\b/i },
+  { name: "Vice Salt", match: /vice\s*salt/i },
+  { name: "Vital", match: /\bvital\b/i },
+  { name: "Naked 100", match: /naked\s*100/i },
+  { name: "STLTH", match: /stlth/i },
+  { name: "Suavae", match: /suavae/i },
+  { name: "Kapow", match: /kapow/i },
+  { name: "Fruitbae", match: /fruitbae/i },
+  { name: "Cloud Nurdz", match: /cloud\s*nurdz/i },
+  { name: "Muha Meds", match: /muha\s*meds/i },
+  { name: "Volcano", match: /volcano/i },
+  { name: "Plenty", match: /plenty\s*vaporizer/i },
+  { name: "Arizer", match: /arizer/i },
+  { name: "DaVinci", match: /davinci/i },
+  { name: "Dr Dabber", match: /dr\.?\s*dabber/i },
+  { name: "Pulsar", match: /pulsar/i },
+  { name: "Puffco", match: /puffco/i },
+  { name: "Vapir", match: /vapir/i },
+  { name: "Utillian", match: /utillian/i },
+  { name: "Tronian", match: /tronian/i },
+  { name: "Zeus", match: /\bzeus\b/i },
+];
+
+/** The brand named in a product title, or null when we are not sure (never guessed). */
+export function brandFromTitle(title: string): string | null {
+  return BRANDS.find((b) => b.match.test(title))?.name ?? null;
+}

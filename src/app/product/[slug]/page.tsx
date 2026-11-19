@@ -8,7 +8,8 @@ import { ProductDescription } from "@/components/product/ProductDescription";
 import { RelatedProducts } from "@/components/product/RelatedProducts";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { formatPrice, getAllProductSlugs, getProduct, productImageUrl } from "@/lib/products";
-import { absoluteUrl, pageMetadata, seoConfig, snippet } from "@/lib/seo";
+import { brandFromTitle } from "@/lib/brand";
+import { absoluteUrl, merchantReturnPolicy, pageMetadata, seoConfig, shippingDetails, snippet } from "@/lib/seo";
 
 export async function generateStaticParams() {
   return (await getAllProductSlugs()).map((slug) => ({ slug }));
@@ -40,6 +41,7 @@ async function ProductBody({ params }: { params: PageProps<"/product/[slug]">["p
   const price = product.on_sale && product.sale_price !== null ? product.sale_price : product.price;
   const image = productImageUrl(product);
   const category = product.categories[0];
+  const brand = brandFromTitle(product.title);
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -51,6 +53,7 @@ async function ProductBody({ params }: { params: PageProps<"/product/[slug]">["p
         ...(image ? { image: [absoluteUrl(image)] } : {}),
         sku: product.sku ?? product.id,
         ...(category ? { category: category.name } : {}),
+        ...(brand ? { brand: { "@type": "Brand", name: brand } } : {}),
         ...(price !== null
           ? {
               offers: {
@@ -61,6 +64,8 @@ async function ProductBody({ params }: { params: PageProps<"/product/[slug]">["p
                 itemCondition: "https://schema.org/NewCondition",
                 availability: product.in_stock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
                 seller: { "@type": "Organization", name: seoConfig.name },
+                shippingDetails,
+                hasMerchantReturnPolicy: merchantReturnPolicy,
               },
             }
           : {}),

@@ -74,3 +74,27 @@ export function pageMetadata({ title, description, path, image, noindex }: PageM
     twitter: { card: "summary_large_image", title, description, images: [img] },
   };
 }
+
+/** Return policy shown to Google: returns accepted within 48 hours (2 days) of delivery, Canada only. */
+export const merchantReturnPolicy = {
+  "@type": "MerchantReturnPolicy",
+  applicableCountry: "CA",
+  returnPolicyCategory: "https://schema.org/MerchantReturnFiniteReturnWindow",
+  merchantReturnDays: 2,
+  merchantReturnLink: absoluteUrl("/refund-policy"),
+};
+
+const shippingRate = (name: string, value: number) => ({
+  "@type": "OfferShippingDetails",
+  shippingLabel: name,
+  shippingRate: { "@type": "MonetaryAmount", value: value.toFixed(2), currency: "CAD" },
+  shippingDestination: { "@type": "DefinedRegion", addressCountry: "CA" },
+  deliveryTime: {
+    "@type": "ShippingDeliveryTime",
+    handlingTime: { "@type": "QuantitativeValue", minValue: 0, maxValue: 0, unitCode: "DAY" },
+    transitTime: { "@type": "QuantitativeValue", minValue: 1, maxValue: 1, unitCode: "DAY" },
+  },
+});
+
+/** Shipping options shown to Google: $20 standard and $35 express, delivered in 1 business day. */
+export const shippingDetails = [shippingRate("Standard Shipping", 20), shippingRate("Express Shipping", 35)];
