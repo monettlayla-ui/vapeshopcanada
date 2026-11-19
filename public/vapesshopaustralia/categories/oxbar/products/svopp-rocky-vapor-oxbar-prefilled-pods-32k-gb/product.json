@@ -1,0 +1,46 @@
+{
+  "id": "svopp-rocky-vapor-oxbar-prefilled-pods-32k-gb",
+  "title": "OxBar SVOPP 32K Pod - GB",
+  "description": "The\nOxBar SVOPP 32K Pod in GB\ndelivers a gummy bear flavour. Compatible with the OxBar SVOPP Device.\nProduct Type:\nPrefilled Closed Pod\nPack Contents:\n1 Pod\nE-Liquid Capacity:\n12mL\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nGummy Bear\nPuff Count:\n~32,000 Puffs\nCompatible Devices:\nOxBar SVOPP Device\nBrand:\nOxBar\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>OxBar SVOPP 32K Pod in GB</strong> delivers a gummy bear flavour. Compatible with the OxBar SVOPP Device.</p> <ul> <li> <strong>Product Type:</strong> Prefilled Closed Pod</li> <li> <strong>Pack Contents:</strong> 1 Pod</li> <li> <strong>E-Liquid Capacity:</strong> 12mL</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Gummy Bear</li> <li> <strong>Puff Count:</strong> ~32,000 Puffs</li> <li> <strong>Compatible Devices:</strong> OxBar SVOPP Device</li> <li> <strong>Brand:</strong> OxBar</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 32.99,
+  "sale_price": 24.99,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/svopp-rocky-vapor-oxbar-prefilled-pods-32k-gb/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/oxbar/products/svopp-rocky-vapor-oxbar-prefilled-pods-32k-gb/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "OXBAR",
+      "slug": "oxbar",
+      "url": "https://vapesshopcanada.com/product-category/oxbar/"
+    },
+    {
+      "name": "Prefilled Pods",
+      "slug": "prefilled-pods",
+      "url": "https://vapesshopcanada.com/product-category/prefilled-pods/"
+    }
+  ],
+  "stored_in": "categories/oxbar/products/svopp-rocky-vapor-oxbar-prefilled-pods-32k-gb"
+}

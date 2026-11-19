@@ -1,0 +1,46 @@
+{
+  "id": "oxva-xlim-go-2-open-pod-kit",
+  "title": "OXVA XLIM Go 2 Pod Kit",
+  "description": "The\nOXVA XLIM Go 2 Pod Kit\nis a compact and lightweight refillable pod system designed for everyday carry. Draw-activated with adjustable airflow and XLIM pod compatibility.\nProduct Type:\nOpen Pod System (Refillable)\nBattery:\n1000mAh\nWattage Range:\n5-25W\nCharging:\nUSB Type-C\nActivation:\nDraw-Activated\nE-Liquid Capacity:\n2mL\nCoil Resistance:\nIntegrated Mesh\nAirflow:\nAdjustable\nPod Compatibility:\nOXVA XLIM V3 Top Fill Pods, XLIM V2 Pods (0.6Ω, 0.8Ω, 1.2Ω)\nBrand:\nOXVA\nE-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.\nAvailable options: Black Gold, Dark Grey.",
+  "description_html": "<p>The <strong>OXVA XLIM Go 2 Pod Kit</strong> is a compact and lightweight refillable pod system designed for everyday carry. Draw-activated with adjustable airflow and XLIM pod compatibility.</p> <ul> <li> <strong>Product Type:</strong> Open Pod System (Refillable)</li> <li> <strong>Battery:</strong> 1000mAh</li> <li> <strong>Wattage Range:</strong> 5-25W</li> <li> <strong>Charging:</strong> USB Type-C</li> <li> <strong>Activation:</strong> Draw-Activated</li> <li> <strong>E-Liquid Capacity:</strong> 2mL</li> <li> <strong>Coil Resistance:</strong> Integrated Mesh</li> <li> <strong>Airflow:</strong> Adjustable</li> <li> <strong>Pod Compatibility:</strong> OXVA XLIM V3 Top Fill Pods, XLIM V2 Pods (0.6Ω, 0.8Ω, 1.2Ω)</li> <li> <strong>Brand:</strong> OXVA</li> </ul> <p><em>E-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.</em></p><p>Available options: Black Gold, Dark Grey.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 16.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/oxva-xlim-go-2-open-pod-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/oxva/products/oxva-xlim-go-2-open-pod-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "OXVA",
+      "slug": "oxva",
+      "url": "https://vapesshopcanada.com/product-category/oxva/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/oxva/products/oxva-xlim-go-2-open-pod-kit"
+}

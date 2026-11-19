@@ -1,0 +1,46 @@
+{
+  "id": "oxva-xlim-go-lite-open-pod-kit",
+  "title": "OXVA XLIM GO Lite Open Pod Kit",
+  "description": "The\nOXVA XLIM GO Lite Open Pod Kit\nis a refillable open pod system built around a 1000mAh battery with 5-30W adjustable output. It takes OXVA XLIM replacement pods, charges over USB-C and uses adjustable side airflow with an RGB battery indicator.\nProduct Type:\nOpen Pod System (Refillable)\nPod Capacity:\n2mL\nBattery:\n1000mAh\nOutput Power:\n5-30W\nCoil Resistance:\n0.4Ω / 0.6Ω / 0.8Ω / 1.2Ω\nCharging Port:\nUSB-C (5V/1A)\nAirflow:\nAdjustable side airflow\nDisplay:\nRGB battery indicator\nDimensions:\n25 x 15.6 x 111mm\nWeight:\n42.4g\nCompatible Pods:\nOXVA XLIM\nBrand:\nOXVA\nPack Contents:\n1 x XLIM GO Lite Device\n1 x 0.8Ω XLIM CRC Cartridge (2mL)\n1 x User Manual\nAvailable options: Black, Mist White.",
+  "description_html": "<p>The <strong>OXVA XLIM GO Lite Open Pod Kit</strong> is a refillable open pod system built around a 1000mAh battery with 5-30W adjustable output. It takes OXVA XLIM replacement pods, charges over USB-C and uses adjustable side airflow with an RGB battery indicator.</p> <ul> <li> <strong>Product Type:</strong> Open Pod System (Refillable)</li> <li> <strong>Pod Capacity:</strong> 2mL</li> <li> <strong>Battery:</strong> 1000mAh</li> <li> <strong>Output Power:</strong> 5-30W</li> <li> <strong>Coil Resistance:</strong> 0.4Ω / 0.6Ω / 0.8Ω / 1.2Ω</li> <li> <strong>Charging Port:</strong> USB-C (5V/1A)</li> <li> <strong>Airflow:</strong> Adjustable side airflow</li> <li> <strong>Display:</strong> RGB battery indicator</li> <li> <strong>Dimensions:</strong> 25 x 15.6 x 111mm</li> <li> <strong>Weight:</strong> 42.4g</li> <li> <strong>Compatible Pods:</strong> OXVA XLIM</li> <li> <strong>Brand:</strong> OXVA</li> </ul> <p><strong>Pack Contents:</strong></p> <ul> <li>1 x XLIM GO Lite Device</li> <li>1 x 0.8Ω XLIM CRC Cartridge (2mL)</li> <li>1 x User Manual</li> </ul><p>Available options: Black, Mist White.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 11.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/oxva-xlim-go-lite-open-pod-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/oxva/products/oxva-xlim-go-lite-open-pod-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "OXVA",
+      "slug": "oxva",
+      "url": "https://vapesshopcanada.com/product-category/oxva/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/oxva/products/oxva-xlim-go-lite-open-pod-kit"
+}

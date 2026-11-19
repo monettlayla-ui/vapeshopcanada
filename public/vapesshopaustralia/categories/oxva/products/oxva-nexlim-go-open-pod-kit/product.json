@@ -1,0 +1,46 @@
+{
+  "id": "oxva-nexlim-go-open-pod-kit",
+  "title": "OXVA NeXLIM Go Pod Kit",
+  "description": "The\nOXVA NeXLIM Go Pod Kit\nis a lightweight, draw-activated pod system with dual mesh coil technology and an 1800mAh battery for all-day vaping. Compact design with LED battery indicator and adjustable airflow.\nProduct Type:\nOpen Pod System (Refillable)\nBattery:\n1800mAh\nWattage Range:\n5-40W\nCharging:\nUSB Type-C\nActivation:\nDraw-Activated\nE-Liquid Capacity:\n4mL\nCoil Resistance:\nIntegrated Dual Mesh\nAirflow:\nAdjustable (Side Slider)\nPower Modes:\nBoost Mode / Eco Mode\nPod Compatibility:\nOXVA NeXLIM Pods (0.6Ω, 0.8Ω, 1.2Ω)\nBrand:\nOXVA\nE-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.\nAvailable options: Black Gold, Dark Grey.",
+  "description_html": "<p>The <strong>OXVA NeXLIM Go Pod Kit</strong> is a lightweight, draw-activated pod system with dual mesh coil technology and an 1800mAh battery for all-day vaping. Compact design with LED battery indicator and adjustable airflow.</p> <ul> <li> <strong>Product Type:</strong> Open Pod System (Refillable)</li> <li> <strong>Battery:</strong> 1800mAh</li> <li> <strong>Wattage Range:</strong> 5-40W</li> <li> <strong>Charging:</strong> USB Type-C</li> <li> <strong>Activation:</strong> Draw-Activated</li> <li> <strong>E-Liquid Capacity:</strong> 4mL</li> <li> <strong>Coil Resistance:</strong> Integrated Dual Mesh</li> <li> <strong>Airflow:</strong> Adjustable (Side Slider)</li> <li> <strong>Power Modes:</strong> Boost Mode / Eco Mode</li> <li> <strong>Pod Compatibility:</strong> OXVA NeXLIM Pods (0.6Ω, 0.8Ω, 1.2Ω)</li> <li> <strong>Brand:</strong> OXVA</li> </ul> <p><em>E-liquid sold separately. Fill with your choice of salt nic or freebase e-liquid.</em></p><p>Available options: Black Gold, Dark Grey.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 21.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/oxva-nexlim-go-open-pod-kit/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/oxva/products/oxva-nexlim-go-open-pod-kit/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "OXVA",
+      "slug": "oxva",
+      "url": "https://vapesshopcanada.com/product-category/oxva/"
+    },
+    {
+      "name": "Vape Devices",
+      "slug": "vape-devices",
+      "url": "https://vapesshopcanada.com/product-category/vape-devices/"
+    }
+  ],
+  "stored_in": "categories/oxva/products/oxva-nexlim-go-open-pod-kit"
+}

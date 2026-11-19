@@ -1,0 +1,46 @@
+{
+  "id": "oxva-xlim-replacement-pod",
+  "title": "OXVA XLIM Replacement Pod",
+  "description": "The\nOXVA XLIM Replacement Pod\nis a refillable replacement pod for compatible OXVA devices.\nProduct Type:\nRefillable Replacement Pod (Empty - Built-in Coil)\nE-Liquid Capacity:\n2mL / 3mL (version-dependent)\nCoil Resistance:\n0.4Ω / 0.6Ω / 0.8Ω (built-in, varies by pod)\nCoil Material:\nMesh\nCompatible Devices:\nOXVA XLIM, XLIM Pro, XLIM SE, XLIM SE 2, XLIM V2, XLIM SQ, XLIM SQ Pro, XLIM Go\nBrand:\nOXVA\nCoil is built in  -  replace the pod when flavour fades. E-liquid sold separately.\nAvailable options: 0.4 ohm, 0.6 ohm, 0.8 ohm.",
+  "description_html": "<p>The <strong>OXVA XLIM Replacement Pod</strong> is a refillable replacement pod for compatible OXVA devices.</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod (Empty - Built-in Coil)</li> <li> <strong>E-Liquid Capacity:</strong> 2mL / 3mL (version-dependent)</li> <li> <strong>Coil Resistance:</strong> 0.4Ω / 0.6Ω / 0.8Ω (built-in, varies by pod)</li> <li> <strong>Coil Material:</strong> Mesh</li> <li> <strong>Compatible Devices:</strong> OXVA XLIM, XLIM Pro, XLIM SE, XLIM SE 2, XLIM V2, XLIM SQ, XLIM SQ Pro, XLIM Go</li> <li> <strong>Brand:</strong> OXVA</li> </ul> <p><em>Coil is built in  -  replace the pod when flavour fades. E-liquid sold separately.</em></p><p>Available options: 0.4 ohm, 0.6 ohm, 0.8 ohm.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 10.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/oxva-xlim-replacement-pod/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/oxva/products/oxva-xlim-replacement-pod/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "OXVA",
+      "slug": "oxva",
+      "url": "https://vapesshopcanada.com/product-category/oxva/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/oxva/products/oxva-xlim-replacement-pod"
+}
