@@ -1,0 +1,46 @@
+{
+  "id": "lemon-drop-ice-double-lemon",
+  "title": "Lemon Drop - Double Lemon Ice - E-Liquid",
+  "description": "Lemon Drop - Double Lemon Ice\nis a double lemon with a refreshing icy finish freebase e-liquid.\nProduct Type:\nFreebase E-Liquid\nFlavour Profile:\nDouble Lemon, Ice\nBottle Size:\n60mL\nVG/PG Ratio:\n70/30\nBrand:\nLemon Drop\nMade in Canada\nThis product contains nicotine. Nicotine is a highly addictive substance.\nAvailable options: 60mL / 3mg, 60mL / 6mg.",
+  "description_html": "<p><strong>Lemon Drop - Double Lemon Ice</strong> is a double lemon with a refreshing icy finish freebase e-liquid.</p> <ul> <li> <strong>Product Type:</strong> Freebase E-Liquid</li> <li> <strong>Flavour Profile:</strong> Double Lemon, Ice</li> <li> <strong>Bottle Size:</strong> 60mL</li> <li> <strong>VG/PG Ratio:</strong> 70/30</li> <li> <strong>Brand:</strong> Lemon Drop</li> <li><strong>Made in Canada</strong></li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p><p>Available options: 60mL / 3mg, 60mL / 6mg.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 47.5,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/lemon-drop-ice-double-lemon/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/lemon-drop/products/lemon-drop-ice-double-lemon/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Lemon Drop",
+      "slug": "lemon-drop",
+      "url": "https://vapesshopcanada.com/product-category/lemon-drop/"
+    },
+    {
+      "name": "E-Liquids",
+      "slug": "e-liquids",
+      "url": "https://vapesshopcanada.com/product-category/e-liquids/"
+    }
+  ],
+  "stored_in": "categories/lemon-drop/products/lemon-drop-ice-double-lemon"
+}
