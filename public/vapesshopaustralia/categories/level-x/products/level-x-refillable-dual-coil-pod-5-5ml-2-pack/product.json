@@ -1,0 +1,46 @@
+{
+  "id": "level-x-refillable-dual-coil-pod-5-5ml-2-pack",
+  "title": "Level X G2 Refillable Pod 2-Pack",
+  "description": "The\nLevel X Refillable Dual Coil Pod\nis a replacement refillable pod for the Level X G2 device. Features a dual coil system for enhanced flavour.\nProduct Type:\nRefillable Replacement Pod (Empty - Fill with E-Liquid)\nE-Liquid Capacity:\n5.5mL\nPack Contents:\n2 Pods\nCoil Resistance:\nIntegrated Dual Coil\nFill Method:\nTop Fill\nCompatible Devices:\nLevel X G2 Device\nBrand:\nLevel X\nE-liquid sold separately.",
+  "description_html": "<p>The <strong>Level X Refillable Dual Coil Pod</strong> is a replacement refillable pod for the Level X G2 device. Features a dual coil system for enhanced flavour.</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod (Empty - Fill with E-Liquid)</li> <li> <strong>E-Liquid Capacity:</strong> 5.5mL</li> <li> <strong>Pack Contents:</strong> 2 Pods</li> <li> <strong>Coil Resistance:</strong> Integrated Dual Coil</li> <li> <strong>Fill Method:</strong> Top Fill</li> <li> <strong>Compatible Devices:</strong> Level X G2 Device</li> <li> <strong>Brand:</strong> Level X</li> </ul> <p><em>E-liquid sold separately.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 10.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/level-x-refillable-dual-coil-pod-5-5ml-2-pack/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/level-x/products/level-x-refillable-dual-coil-pod-5-5ml-2-pack/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Level X",
+      "slug": "level-x",
+      "url": "https://vapesshopcanada.com/product-category/level-x/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/level-x/products/level-x-refillable-dual-coil-pod-5-5ml-2-pack"
+}

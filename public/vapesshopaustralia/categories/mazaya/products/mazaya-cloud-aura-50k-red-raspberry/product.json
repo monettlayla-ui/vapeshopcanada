@@ -1,0 +1,46 @@
+{
+  "id": "mazaya-cloud-aura-50k-red-raspberry",
+  "title": "Mazaya Cloud Aura 50K - Red Raspberry",
+  "description": "The\nMazaya Cloud Aura 50K\nis a premium shisha vape and electronic hookah (chicha électronique) from Mazaya. Red Raspberry delivers bold red raspberry with a sweet and tangy berry taste. Authentic hookah flavour in a convenient disposable format.\nProduct Type:\nShisha Vape / Electronic Hookah (Disposable, Rechargeable)\nPuff Count:\nUp to 50,000\nE-Liquid Capacity:\n40mL\nNicotine Strength:\n6mg/mL (Freebase)\nFlavour Profile:\nRed Raspberry\nBattery:\n1200mAh USB-C Rechargeable\nAirflow:\nAdjustable\nBrand:\nMazaya\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Mazaya Cloud Aura 50K</strong> is a premium shisha vape and electronic hookah (chicha électronique) from Mazaya. Red Raspberry delivers bold red raspberry with a sweet and tangy berry taste. Authentic hookah flavour in a convenient disposable format.</p> <ul> <li> <strong>Product Type:</strong> Shisha Vape / Electronic Hookah (Disposable, Rechargeable)</li> <li> <strong>Puff Count:</strong> Up to 50,000</li> <li> <strong>E-Liquid Capacity:</strong> 40mL</li> <li> <strong>Nicotine Strength:</strong> 6mg/mL (Freebase)</li> <li> <strong>Flavour Profile:</strong> Red Raspberry</li> <li> <strong>Battery:</strong> 1200mAh USB-C Rechargeable</li> <li> <strong>Airflow:</strong> Adjustable</li> <li> <strong>Brand:</strong> Mazaya</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 42.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/mazaya-cloud-aura-50k-red-raspberry/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/mazaya/products/mazaya-cloud-aura-50k-red-raspberry/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Mazaya",
+      "slug": "mazaya",
+      "url": "https://vapesshopcanada.com/product-category/mazaya/"
+    },
+    {
+      "name": "Disposable Vapes",
+      "slug": "disposable-vapes",
+      "url": "https://vapesshopcanada.com/product-category/disposable-vapes/"
+    }
+  ],
+  "stored_in": "categories/mazaya/products/mazaya-cloud-aura-50k-red-raspberry"
+}
