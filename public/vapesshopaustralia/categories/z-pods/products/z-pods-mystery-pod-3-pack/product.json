@@ -1,0 +1,46 @@
+{
+  "id": "z-pods-mystery-pod-3-pack",
+  "title": "Z Pods Mystery Pod 3-Pack",
+  "description": "The\nZ Pods Mystery Pod 3-Pack\nis a surprise flavour pod pack. Each pack is a randomly selected flavour for an exciting mystery experience.\nProduct Type:\nPrefilled Closed Pod (STLTH Compatible)\nPack Contents:\n3 Pods per Pack\nE-Liquid Capacity:\n2mL per Pod\nNicotine Strength:\n20mg/mL\nPuff Count:\n~400 Puffs per Pod\nFlavour Profile:\nUnflavoured\nCompatible Devices:\nSTLTH Type-C, STLTH Anod (STLTH Compatible)\nBrand:\nZ Pods (Ziip Lab)\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Z Pods Mystery Pod 3-Pack</strong> is a surprise flavour pod pack. Each pack is a randomly selected flavour for an exciting mystery experience.</p> <ul> <li> <strong>Product Type:</strong> Prefilled Closed Pod (STLTH Compatible)</li> <li> <strong>Pack Contents:</strong> 3 Pods per Pack</li> <li> <strong>E-Liquid Capacity:</strong> 2mL per Pod</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Puff Count:</strong> ~400 Puffs per Pod</li> <li> <strong>Flavour Profile:</strong> Unflavoured</li> <li> <strong>Compatible Devices:</strong> STLTH Type-C, STLTH Anod (STLTH Compatible)</li> <li> <strong>Brand:</strong> Z Pods (Ziip Lab)</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 21.99,
+  "sale_price": 12.95,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/z-pods-mystery-pod-3-pack/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/z-pods/products/z-pods-mystery-pod-3-pack/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Z Pods",
+      "slug": "z-pods",
+      "url": "https://vapesshopcanada.com/product-category/z-pods/"
+    },
+    {
+      "name": "Prefilled Pods",
+      "slug": "prefilled-pods",
+      "url": "https://vapesshopcanada.com/product-category/prefilled-pods/"
+    }
+  ],
+  "stored_in": "categories/z-pods/products/z-pods-mystery-pod-3-pack"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vuse-pods-peach-2pk",
+  "title": "Vuse Pod 2-Pack - Peach",
+  "description": "The\nVuse Pod 2-Pack - Peach\ndelivers a sweet, juicy peach. Compatible with all Vuse devices.\nProduct Type:\nPrefilled Closed Pod\nPack Contents:\n2 Pods per Pack\nE-Liquid Capacity:\n1.9mL per Pod\nNicotine Strength:\n20mg/mL\nPuff Count:\n~1,000 Puffs per Pod\nCoil Resistance:\nCeramic\nFlavour Profile:\nPeach\nCompatible Devices:\nVuse Pro One, Vuse Pro Smart, Vuse Ultra\nBrand:\nVuse\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Vuse Pod 2-Pack - Peach</strong> delivers a sweet, juicy peach. Compatible with all Vuse devices.</p> <ul> <li> <strong>Product Type:</strong> Prefilled Closed Pod</li> <li> <strong>Pack Contents:</strong> 2 Pods per Pack</li> <li> <strong>E-Liquid Capacity:</strong> 1.9mL per Pod</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Puff Count:</strong> ~1,000 Puffs per Pod</li> <li> <strong>Coil Resistance:</strong> Ceramic</li> <li> <strong>Flavour Profile:</strong> Peach</li> <li> <strong>Compatible Devices:</strong> Vuse Pro One, Vuse Pro Smart, Vuse Ultra</li> <li> <strong>Brand:</strong> Vuse</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 19.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/vuse-pods-peach-2pk/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/vuse/products/vuse-pods-peach-2pk/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "VUSE",
+      "slug": "vuse",
+      "url": "https://vapesshopcanada.com/product-category/vuse/"
+    },
+    {
+      "name": "Prefilled Pods",
+      "slug": "prefilled-pods",
+      "url": "https://vapesshopcanada.com/product-category/prefilled-pods/"
+    }
+  ],
+  "stored_in": "categories/vuse/products/vuse-pods-peach-2pk"
+}
