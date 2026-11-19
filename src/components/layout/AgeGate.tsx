@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 
 /** Minimum age to enter the site. */
-const MIN_AGE = 18;
+const MIN_AGE = 19;
 const STORAGE_KEY = "vape-shop-canada-age-ok";
 /** Visitors who say they are under age are sent here. */
 const EXIT_URL = "https://www.google.com";
