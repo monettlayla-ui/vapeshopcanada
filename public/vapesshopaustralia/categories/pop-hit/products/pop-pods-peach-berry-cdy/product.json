@@ -1,0 +1,46 @@
+{
+  "id": "pop-pods-peach-berry-cdy",
+  "title": "Pop Hit Pod 3-Pack - Peach Berry CDY",
+  "description": "The\nPop Hit Pod 3-Pack in Peach Berry CDY\ndelivers a sweet, candy-inspired blend of peach and mixed berries. Compatible with STLTH Type-C and STLTH Anod devices (STLTH Compatible pod format).\nProduct Type:\nPrefilled Closed Pod\nPack Contents:\n3 Pods per Pack\nE-Liquid Capacity:\n2mL per Pod\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nPeach, Berry, Candy\nCompatible Devices:\nSTLTH Type-C Device, STLTH Anod (STLTH Compatible)\nBrand:\nPop Hit\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Pop Hit Pod 3-Pack in Peach Berry CDY</strong> delivers a sweet, candy-inspired blend of peach and mixed berries. Compatible with STLTH Type-C and STLTH Anod devices (STLTH Compatible pod format).</p> <ul> <li> <strong>Product Type:</strong> Prefilled Closed Pod</li> <li> <strong>Pack Contents:</strong> 3 Pods per Pack</li> <li> <strong>E-Liquid Capacity:</strong> 2mL per Pod</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Peach, Berry, Candy</li> <li> <strong>Compatible Devices:</strong> STLTH Type-C Device, STLTH Anod (STLTH Compatible)</li> <li> <strong>Brand:</strong> Pop Hit</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 21.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/pop-pods-peach-berry-cdy/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/pop-hit/products/pop-pods-peach-berry-cdy/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Pop Hit",
+      "slug": "pop-hit",
+      "url": "https://vapesshopcanada.com/product-category/pop-hit/"
+    },
+    {
+      "name": "Prefilled Pods",
+      "slug": "prefilled-pods",
+      "url": "https://vapesshopcanada.com/product-category/prefilled-pods/"
+    }
+  ],
+  "stored_in": "categories/pop-hit/products/pop-pods-peach-berry-cdy"
+}
