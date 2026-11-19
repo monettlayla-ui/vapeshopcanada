@@ -1,0 +1,46 @@
+{
+  "id": "stlth-x-blue-lemon-ice",
+  "title": "STLTH X Pod 3-Pack - Blue Lemon Ice",
+  "description": "The\nSTLTH X Pod in Blue Lemon Ice\ndelivers a blue raspberry, lemon flavour with a refreshing icy finish. Compatible with STLTH PRO and STLTH PRO X devices.\nProduct Type:\nPrefilled Closed Pod\nPack Contents:\n3 Pods per Pack\nE-Liquid Capacity:\n2mL per Pod\nNicotine Strength:\n20mg/mL\nFlavour Profile:\nBlue Raspberry, Lemon, Ice\nCompatible Devices:\nSTLTH PRO, STLTH PRO X\nBrand:\nSTLTH\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>STLTH X Pod in Blue Lemon Ice</strong> delivers a blue raspberry, lemon flavour with a refreshing icy finish. Compatible with STLTH PRO and STLTH PRO X devices.</p> <ul> <li> <strong>Product Type:</strong> Prefilled Closed Pod</li> <li> <strong>Pack Contents:</strong> 3 Pods per Pack</li> <li> <strong>E-Liquid Capacity:</strong> 2mL per Pod</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Flavour Profile:</strong> Blue Raspberry, Lemon, Ice</li> <li> <strong>Compatible Devices:</strong> STLTH PRO, STLTH PRO X</li> <li> <strong>Brand:</strong> STLTH</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 21.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/stlth-x-blue-lemon-ice/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/stlth/products/stlth-x-blue-lemon-ice/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "STLTH",
+      "slug": "stlth",
+      "url": "https://vapesshopcanada.com/product-category/stlth/"
+    },
+    {
+      "name": "Prefilled Pods",
+      "slug": "prefilled-pods",
+      "url": "https://vapesshopcanada.com/product-category/prefilled-pods/"
+    }
+  ],
+  "stored_in": "categories/stlth/products/stlth-x-blue-lemon-ice"
+}
