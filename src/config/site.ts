@@ -113,6 +113,9 @@ export const homeProductRows: ProductRow[] = [
   },
 ];
 
+/** Our best sellers (the STLTH and Flavour Beast rows above). The shop lists these first by default. */
+export const bestSellingSlugs: string[] = homeProductRows.slice(2).flatMap((row) => row.slugs);
+
 export type CategoryBanner = {
   title: string;
   text: string;
@@ -145,6 +148,26 @@ export const eLiquidsContent = {
     "Crafted from concentrated flavor sources and made using the finest ingredients, our vape juices in Canada provide smooth vapor production and long-lasting taste. Whether you prefer classic, fruity, dessert, or menthol profiles, our e-liquids are the perfect choice to elevate your vape session and enjoy reliable performance with every puff.",
   ],
 };
+
+/** Product rows shown under the E-liquids text section. */
+export const eLiquidsProductRows: ProductRow[] = [
+  {
+    slugs: [
+      "berry-drop-ice-freebase-e-liquid-cactus-60ml",
+      "chill-twisted-freebase-e-liquid-raspberry-watermelon-60ml",
+      "charlies-chalk-dust-pacha-mama-blood-orange-banana-gooseberry-60ml",
+      "blvk-unicorn-wyte-series-uniberry-60ml",
+    ],
+  },
+  {
+    slugs: [
+      "celebrity-marshmallow-60ml",
+      "cloud-nurdz-iced-aloe-mango-iced-100ml",
+      "crikey-clouds-cola-range-tropical-cola-60ml",
+      "flip-juice-salt-nic-e-liquid-berry-blast-ice-30ml",
+    ],
+  },
+];
 
 export const promoBanner = {
   eyebrow: "New collection",
@@ -321,14 +344,14 @@ export const faqContent = {
   ],
 };
 
-export const vaporassoContent = {
-  title: "Vaporasso Online Canada - Buy Vaporasso Online Canada",
+export const vaporessoContent = {
+  title: "Vaporesso Online Canada - Buy Vaporesso Online Canada",
   paragraphs: [
     [
-      "Looking for Vaporassor vapes for sale in Canada? Vape Shop Canada brings you the latest Vaporassor disposable vapes, vape kits, and e-liquids designed for convenience, flavor, and smooth performance. Perfect for beginners and experienced vapers, Vaporassor vapes deliver satisfying puffs with minimal effort—no refills or charging needed.",
+      "Looking for Vaporesso vapes for sale in Canada? Vape Shop Canada brings you the latest Vaporesso disposable vapes, vape kits, and e-liquids designed for convenience, flavor, and smooth performance. Perfect for beginners and experienced vapers, Vaporesso vapes deliver satisfying puffs with minimal effort—no refills or charging needed.",
       "Shop from a wide range of flavors, including fruity, icy, and classic options, all crafted for long-lasting enjoyment.",
     ],
-    "Buying Vaporassor online Canada has never been easier, with fast delivery, authentic products, and a hassle-free shopping experience. Upgrade your vape sessions with Vaporassor devices, enjoy premium flavor, and discover why Vape Shop Canada is the best place to buy Vaporassor vapes online.",
+    "Buying Vaporesso online Canada has never been easier, with fast delivery, authentic products, and a hassle-free shopping experience. Upgrade your vape sessions with Vaporesso devices, enjoy premium flavor, and discover why Vape Shop Canada is the best place to buy Vaporesso vapes online.",
   ],
 };
 
@@ -525,7 +548,7 @@ export const extraSections: Record<"geekBar" | "eLiquids" | "glass", ExtraSectio
 };
 
 /** Product row shown under the Vaporesso text section. */
-export const vaporassoProductRows: ProductRow[] = [
+export const vaporessoProductRows: ProductRow[] = [
   {
     slugs: ["xros-5-mini-kit-2ml", "xros-4-nano-kit-2ml", "xros-5-kit-2ml", "xros-4-kit-2ml"],
   },

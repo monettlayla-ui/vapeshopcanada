@@ -32,7 +32,7 @@ function CartRow({ item }: { item: CartItem }) {
       </td>
       <td className="w-24 px-4 py-4">
         <div className="relative h-[70px] w-[70px] bg-slate-100">
-          {item.image && <Image src={item.image} alt={item.title} fill sizes="70px" className="object-cover" />}
+          {item.image && <Image src={item.image} alt={item.title} fill unoptimized sizes="70px" className="object-cover" />}
         </div>
       </td>
       <td className="min-w-[220px] px-4 py-4">

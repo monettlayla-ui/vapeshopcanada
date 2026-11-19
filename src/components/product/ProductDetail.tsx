@@ -24,6 +24,7 @@ export function ProductDetail({ product }: { product: Product }) {
             src={image}
             alt={product.images[0]?.alt || product.title}
             fill
+            unoptimized
             priority
             sizes="(min-width: 1024px) 50vw, 100vw"
             className="object-cover"

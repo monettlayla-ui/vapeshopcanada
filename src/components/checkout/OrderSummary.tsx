@@ -25,7 +25,7 @@ export function OrderSummary() {
           <li key={item.slug} className="flex items-center gap-4">
             <div className="relative h-[70px] w-[70px] shrink-0 rounded-sm bg-slate-100">
               {item.image && (
-                <Image src={item.image} alt="" fill sizes="70px" className="rounded-sm object-cover" />
+                <Image src={item.image} alt="" fill unoptimized sizes="70px" className="rounded-sm object-cover" />
               )}
               <span className="absolute -top-2 -right-2 flex h-6 min-w-6 items-center justify-center rounded-full bg-[#d6a5b5] px-1 text-xs font-semibold text-white">
                 {item.qty}

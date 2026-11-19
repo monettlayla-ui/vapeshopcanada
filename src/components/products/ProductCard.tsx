@@ -29,6 +29,7 @@ export function ProductCard({ product, priority = false }: { product: Product; p
               src={image}
               alt={product.title}
               fill
+              unoptimized
               priority={priority}
               sizes="(min-width: 1024px) 25vw, 50vw"
               className="object-cover"

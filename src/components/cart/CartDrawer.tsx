@@ -18,7 +18,7 @@ function DrawerItem({ item }: { item: CartItem }) {
   return (
     <li className="flex gap-4 border-b border-slate-200 px-5 py-5">
       <div className="relative h-[75px] w-[75px] shrink-0 overflow-hidden rounded-md bg-slate-100">
-        {item.image && <Image src={item.image} alt={item.title} fill sizes="75px" className="object-cover" />}
+        {item.image && <Image src={item.image} alt={item.title} fill unoptimized sizes="75px" className="object-cover" />}
         {saved && (
           <span className="absolute top-1 right-1 rounded-sm bg-blue-600 px-1.5 py-0.5 text-[11px] font-semibold text-white">
             Sale!

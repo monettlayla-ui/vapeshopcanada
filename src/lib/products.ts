@@ -2,6 +2,7 @@ import { cacheLife } from "next/cache";
 import fs from "node:fs/promises";
 import path from "node:path";
 import type { CartItem } from "./cart";
+import { bestSellingSlugs } from "@/config/site";
 import { localizeJson } from "./localize";
 import removedProducts from "./removed-products.json";
 
@@ -60,7 +61,7 @@ const memo = new Map<string, unknown>();
 /** Brands removed from the store: their products and categories are hidden everywhere. */
 /** Products that cannot be sold in Canada (tobacco, nicotine pouches, THC/CBD, nicotine over 20 mg/mL). */
 const REMOVED_IDS = new Set<string>(removedProducts);
-const HIDDEN_BRANDS = ["alibarbar", "iget", "gunnpod", "brisk bar", "brisk-bar"];
+const HIDDEN_BRANDS = ["alibarbar", "iget", "gunnpod", "brisk bar", "brisk-bar", "kuz"];
 const isHidden = (...texts: string[]) => texts.some((t) => HIDDEN_BRANDS.some((b) => t.toLowerCase().includes(b)));
 
 async function readJson<T>(relPath: string): Promise<T> {
@@ -185,6 +186,13 @@ export async function queryShop(
   if (category) items = items.filter((p) => p.categories.includes(category));
   const words = search.toLowerCase().split(/\s+/).filter(Boolean);
   if (words.length) items = items.filter((p) => words.every((w) => p.title.toLowerCase().includes(w)));
+
+  // Default order: our best sellers first, then the rest in the usual order.
+  if (sort === "default" && !words.length) {
+    const first = new Map(bestSellingSlugs.map((slug, i) => [slug, i]));
+    const top = items.filter((p) => first.has(p.id)).sort((a, b) => first.get(a.id)! - first.get(b.id)!);
+    items = [...top, ...items.filter((p) => !first.has(p.id))];
+  }
 
   const price = (p: ProductIndexEntry) => p.sale_price ?? p.price ?? 0;
   if (sort === "price") items = [...items].sort((a, b) => price(a) - price(b));

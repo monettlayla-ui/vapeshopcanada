@@ -6,7 +6,7 @@ import { Faq } from "@/components/sections/Faq";
 import { Features } from "@/components/sections/Features";
 import { CategoryBanners } from "@/components/sections/CategoryBanners";
 import { FeaturedProducts } from "@/components/sections/FeaturedProducts";
-import { elfBarContent, elfBarProductRows, krazeContent, krazeProductRows, viceNexaContent, viceNexaProductRows, extraSections, airmezBimoContent, airmezBimoProductRows, eLiquidsContent, homeProductRows, hqdContent, hqdProductRows, introContent, mrFogContent, mrFogProductRows, vaporassoContent, vaporassoProductRows } from "@/config/site";
+import { elfBarContent, elfBarProductRows, krazeContent, krazeProductRows, viceNexaContent, viceNexaProductRows, extraSections, airmezBimoContent, airmezBimoProductRows, eLiquidsContent, eLiquidsProductRows, homeProductRows, hqdContent, hqdProductRows, introContent, mrFogContent, mrFogProductRows, vaporessoContent, vaporessoProductRows } from "@/config/site";
 import { FloatingCartButton } from "@/components/ui/FloatingCartButton";
 
 export default function Home() {
@@ -20,7 +20,10 @@ export default function Home() {
           <FeaturedProducts key={row.slugs[0]} {...row} priorityCount={i < 2 ? 4 : 0} />
         ))}
         <CategoryBanners />
-        <TextSection {...eLiquidsContent} compact />
+        <TextSection {...eLiquidsContent} tight />
+        {eLiquidsProductRows.map((row) => (
+          <FeaturedProducts key={row.slugs[0]} {...row} />
+        ))}
         <ParallaxBanner />
         <Features />
         <TextSection {...hqdContent} />
@@ -44,8 +47,8 @@ export default function Home() {
           <FeaturedProducts key={row.slugs[0]} {...row} />
         ))}
         <Faq />
-        <TextSection {...vaporassoContent} />
-        {vaporassoProductRows.map((row) => (
+        <TextSection {...vaporessoContent} />
+        {vaporessoProductRows.map((row) => (
           <FeaturedProducts key={row.slugs[0]} {...row} />
         ))}
         <TextSection {...mrFogContent} />
