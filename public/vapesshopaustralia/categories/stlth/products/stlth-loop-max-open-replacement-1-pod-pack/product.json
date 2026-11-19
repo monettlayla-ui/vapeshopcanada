@@ -1,0 +1,46 @@
+{
+  "id": "stlth-loop-max-open-replacement-1-pod-pack",
+  "title": "STLTH Loop Max Open Replacement Pod 1-Pack",
+  "description": "The\nSTLTH Loop Max Open Replacement Pod\nis a refillable pod designed for STLTH Loop Max Device. Each pack includes 1 pod(s).\nProduct Type:\nRefillable Replacement Pod\nPack Contents:\n1 Pod(s) per Pack\nE-Liquid Capacity:\n5mL\nCompatible Devices:\nSTLTH Loop Max Device\nBrand:\nSTLTH\nE-liquid sold separately.",
+  "description_html": "<p>The <strong>STLTH Loop Max Open Replacement Pod</strong> is a refillable pod designed for STLTH Loop Max Device. Each pack includes 1 pod(s).</p> <ul> <li> <strong>Product Type:</strong> Refillable Replacement Pod</li> <li> <strong>Pack Contents:</strong> 1 Pod(s) per Pack</li> <li> <strong>E-Liquid Capacity:</strong> 5mL</li> <li> <strong>Compatible Devices:</strong> STLTH Loop Max Device</li> <li> <strong>Brand:</strong> STLTH</li> </ul> <p><em>E-liquid sold separately.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 7.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/stlth-loop-max-open-replacement-1-pod-pack/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/stlth/products/stlth-loop-max-open-replacement-1-pod-pack/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "STLTH",
+      "slug": "stlth",
+      "url": "https://vapesshopcanada.com/product-category/stlth/"
+    },
+    {
+      "name": "Replacement Pods",
+      "slug": "replacement-pods",
+      "url": "https://vapesshopcanada.com/product-category/replacement-pods/"
+    }
+  ],
+  "stored_in": "categories/stlth/products/stlth-loop-max-open-replacement-1-pod-pack"
+}
