@@ -1,0 +1,46 @@
+{
+  "id": "aspire-nautilus-2s-coils",
+  "title": "Aspire Nautilus 2S Coil 5-Pack",
+  "description": "The\nAspire Nautilus 2S Coil\nis a replacement coil for compatible Aspire devices.\nProduct Type:\nReplacement Coil\nCoil Resistance:\n0.4Ω / 0.7Ω Mesh\nCoil Material:\nMesh (0.7Ω) / BVC (0.4Ω)\nCompatible Devices:\nAspire Nautilus 2S, Nautilus 3 / 3S / 3SR, Nautilus GT II (0.7Ω Mesh also fits Nautilus Nano)\nPack Quantity:\n5 Coils\nBrand:\nAspire\nCoils are consumable  -  replace when flavour or vapour output drops.\nAvailable options: MESH 0.7OHM, 0.4ohm.",
+  "description_html": "<p>The <strong>Aspire Nautilus 2S Coil</strong> is a replacement coil for compatible Aspire devices.</p> <ul> <li> <strong>Product Type:</strong> Replacement Coil</li> <li> <strong>Coil Resistance:</strong> 0.4Ω / 0.7Ω Mesh</li> <li> <strong>Coil Material:</strong> Mesh (0.7Ω) / BVC (0.4Ω)</li> <li> <strong>Compatible Devices:</strong> Aspire Nautilus 2S, Nautilus 3 / 3S / 3SR, Nautilus GT II (0.7Ω Mesh also fits Nautilus Nano)</li> <li> <strong>Pack Quantity:</strong> 5 Coils</li> <li> <strong>Brand:</strong> Aspire</li> </ul> <p><em>Coils are consumable  -  replace when flavour or vapour output drops.</em></p><p>Available options: MESH 0.7OHM, 0.4ohm.</p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 14.99,
+  "sale_price": null,
+  "currency": "CAD",
+  "on_sale": false,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/aspire-nautilus-2s-coils/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/aspire/products/aspire-nautilus-2s-coils/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "Aspire",
+      "slug": "aspire",
+      "url": "https://vapesshopcanada.com/product-category/aspire/"
+    },
+    {
+      "name": "Vape Coils",
+      "slug": "vape-coils",
+      "url": "https://vapesshopcanada.com/product-category/vape-coils/"
+    }
+  ],
+  "stored_in": "categories/aspire/products/aspire-nautilus-2s-coils"
+}

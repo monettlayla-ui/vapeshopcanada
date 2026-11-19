@@ -1,0 +1,46 @@
+{
+  "id": "allo-sync-pod-pack-frost-3-pk",
+  "title": "Allo Sync Pod 3-Pack - Frost",
+  "description": "The\nAllo Sync Pod in Frost\ndelivers a refreshing and flavourful vaping experience. STLTH Compatible pod format fits ALLO Sync, STLTH Type-C, and STLTH Anod devices.\nProduct Type:\nPrefilled Closed Pod (STLTH Compatible)\nPack Contents:\n3 Pods per Pack\nE-Liquid Capacity:\n2mL per Pod\nNicotine Strength:\n20mg/mL\nPuff Count:\n~400 Puffs per Pod\nFlavour Profile:\nFrost\nCoil Resistance:\nMesh Coil\nCompatible Devices:\nALLO Sync, STLTH Type-C, STLTH Anod (STLTH Compatible)\nBrand:\nALLO\nThis product contains nicotine. Nicotine is a highly addictive substance.",
+  "description_html": "<p>The <strong>Allo Sync Pod in Frost</strong> delivers a refreshing and flavourful vaping experience. STLTH Compatible pod format fits ALLO Sync, STLTH Type-C, and STLTH Anod devices.</p> <ul> <li> <strong>Product Type:</strong> Prefilled Closed Pod (STLTH Compatible)</li> <li> <strong>Pack Contents:</strong> 3 Pods per Pack</li> <li> <strong>E-Liquid Capacity:</strong> 2mL per Pod</li> <li> <strong>Nicotine Strength:</strong> 20mg/mL</li> <li> <strong>Puff Count:</strong> ~400 Puffs per Pod</li> <li> <strong>Flavour Profile:</strong> Frost</li> <li> <strong>Coil Resistance:</strong> Mesh Coil</li> <li> <strong>Compatible Devices:</strong> ALLO Sync, STLTH Type-C, STLTH Anod (STLTH Compatible)</li> <li> <strong>Brand:</strong> ALLO</li> </ul> <p><em>This product contains nicotine. Nicotine is a highly addictive substance.</em></p>",
+  "short_description": null,
+  "short_description_html": null,
+  "sku": null,
+  "type": "simple",
+  "price": 21.99,
+  "sale_price": 16.99,
+  "currency": "CAD",
+  "on_sale": true,
+  "in_stock": true,
+  "stock_text": null,
+  "average_rating": 0.0,
+  "review_count": 0,
+  "url": "https://vapesshopcanada.com/product/allo-sync-pod-pack-frost-3-pk/",
+  "attributes": {},
+  "variations": [],
+  "tags": [],
+  "brands": [],
+  "weight": null,
+  "dimensions": null,
+  "images": [
+    {
+      "position": 1,
+      "original_url": "",
+      "local_path": "categories/allo/products/allo-sync-pod-pack-frost-3-pk/images/01.jpg",
+      "alt": null
+    }
+  ],
+  "categories": [
+    {
+      "name": "ALLO",
+      "slug": "allo",
+      "url": "https://vapesshopcanada.com/product-category/allo/"
+    },
+    {
+      "name": "Prefilled Pods",
+      "slug": "prefilled-pods",
+      "url": "https://vapesshopcanada.com/product-category/prefilled-pods/"
+    }
+  ],
+  "stored_in": "categories/allo/products/allo-sync-pod-pack-frost-3-pk"
+}
