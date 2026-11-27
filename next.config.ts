@@ -19,6 +19,8 @@ const nextConfig: NextConfig = {
     "/*": ["./public/vapesshopaustralia/**/*.json"],
   },
   turbopack: {
+    // Only watch this project's folder (not other projects on the Desktop).
+    root: process.cwd(),
     rules: {
       "*.css": {
         loaders: ["@tailwindcss/turbopack"],
